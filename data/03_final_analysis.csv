@@ -1,0 +1,1988 @@
+TransactionID,Date,Product,Category,UnitPrice,Quantity,DiscountPercent,TotalRevenue,Region,PaymentMethod,CustomerSegment,CustomerRating,YearMonth
+TXN01317,2024-12-14,Smartphone,Electronics,974.66,5,0,4873.3,Central,Debit Card,Startup,2.0,2024-12
+TXN01001,2023-09-22,Office Chair,Furniture,480.42,3,0,1441.26,West,PayPal,Individual,4.0,2023-09
+TXN01069,2023-09-19,Monitor,Electronics,492.19,4,5,1870.32,North,Bank Transfer,Startup,2.0,2023-09
+TXN01968,2023-09-19,Headphones,Electronics,81.13,1,0,81.13,South,Bank Transfer,Individual,4.0,2023-09
+TXN00530,2024-09-29,Office Chair,Furniture,197.52,5,0,987.6,East,Debit Card,Enterprise,3.0,2024-09
+TXN00517,2024-05-29,Monitor,Electronics,759.14,3,0,2277.42,Central,Cash,Startup,4.0,2024-05
+TXN00415,2024-01-22,Headphones,Electronics,198.05,5,10,891.22,East,Credit Card,Startup,5.0,2024-01
+TXN00983,2024-01-23,Backpack,Accessories,84.74,5,15,360.14,East,Debit Card,Startup,4.0,2024-01
+TXN00417,2023-07-06,Laptop,Electronics,1874.42,1,0,1874.42,East,Bank Transfer,Corporate,3.0,2023-07
+TXN01472,2023-06-21,Desk,Furniture,572.02,1,0,572.02,North,Credit Card,Individual,3.0,2023-06
+TXN01525,2024-10-20,Office Chair,Furniture,205.03,5,0,1025.15,North,Cash,Startup,3.0,2024-10
+TXN00252,2023-03-11,Office Chair,Furniture,297.12,3,10,802.22,Central,Bank Transfer,Corporate,4.0,2023-03
+TXN01622,2024-04-07,Headphones,Electronics,169.82,2,0,339.64,Central,Bank Transfer,Corporate,1.0,2024-04
+TXN00071,2023-03-19,Desk,Furniture,654.25,3,0,1962.75,North,Credit Card,Startup,3.0,2023-03
+TXN01107,2023-08-15,Smartphone,Electronics,649.32,2,0,1298.64,North,PayPal,Corporate,4.0,2023-08
+TXN01363,2024-03-15,Smartphone,Electronics,553.13,5,0,2765.65,Central,Debit Card,Enterprise,3.0,2024-03
+TXN00351,2023-04-10,Smartphone,Electronics,490.79,1,15,417.17,West,Bank Transfer,Individual,3.0,2023-04
+TXN01392,2023-07-09,Desk,Furniture,447.66,2,15,761.02,North,Bank Transfer,Corporate,2.0,2023-07
+TXN01088,2023-09-13,Mouse,Accessories,78.74,1,0,78.74,North,Bank Transfer,Startup,5.0,2023-09
+TXN00066,2024-12-04,Smartphone,Electronics,539.34,5,20,2157.36,East,Credit Card,Individual,4.0,2024-12
+TXN00980,2023-08-20,Office Chair,Furniture,284.49,1,0,284.49,South,Cash,Corporate,4.0,2023-08
+TXN00125,2023-01-27,Notebook,Stationery,23.01,5,0,115.05,Central,PayPal,Enterprise,3.0,2023-01
+TXN01269,2023-01-08,Smartphone,Electronics,320.34,4,0,1281.36,West,Bank Transfer,Enterprise,4.0,2023-01
+TXN01682,2023-09-30,Keyboard,Accessories,80.84,2,10,145.51,East,Bank Transfer,Corporate,4.0,2023-09
+TXN01316,2024-02-26,Smartphone,Electronics,813.62,2,0,1627.24,South,Bank Transfer,Individual,4.0,2024-02
+TXN00544,2023-07-14,Laptop,Electronics,1805.04,4,15,6137.14,South,Bank Transfer,Startup,2.0,2023-07
+TXN00874,2024-12-28,Backpack,Accessories,99.4,2,0,198.8,North,Bank Transfer,Corporate,4.0,2024-12
+TXN01492,2023-07-10,Office Chair,Furniture,283.02,1,0,283.02,East,Bank Transfer,Enterprise,2.0,2023-07
+TXN01944,2024-12-09,Monitor,Electronics,828.37,1,0,828.37,South,Credit Card,Individual,5.0,2024-12
+TXN01621,2023-05-16,Backpack,Accessories,107.66,5,10,484.47,West,Bank Transfer,Enterprise,3.0,2023-05
+TXN00375,2024-02-08,Backpack,Accessories,161.76,1,5,153.67,West,PayPal,Startup,4.0,2024-02
+TXN01248,2024-07-09,Monitor,Electronics,317.91,4,0,1271.64,Central,Debit Card,Corporate,4.0,2024-07
+TXN00213,2024-01-16,Mouse,Accessories,134.41,2,5,255.38,East,Debit Card,Startup,4.0,2024-01
+TXN00325,2024-06-16,Headphones,Electronics,103.15,5,0,515.75,Central,Cash,Startup,3.0,2024-06
+TXN00030,2023-02-02,Office Chair,Furniture,314.91,3,5,897.49,East,PayPal,Startup,4.0,2023-02
+TXN01836,2023-10-24,Mouse,Accessories,100.76,1,10,100.76,East,Debit Card,Enterprise,3.0,2023-10
+TXN00781,2023-07-05,Office Chair,Furniture,332.85,5,15,1414.61,South,PayPal,Startup,1.0,2023-07
+TXN00290,2023-07-26,Laptop,Electronics,1719.28,3,0,5157.84,South,Credit Card,Corporate,4.0,2023-07
+TXN01264,2023-02-24,Mouse,Accessories,83.65,2,15,142.21,North,Cash,Enterprise,4.0,2023-02
+TXN00496,2023-05-23,Desk,Furniture,640.96,1,0,640.96,Central,Cash,Startup,4.0,2023-05
+TXN00271,2024-08-20,Smartphone,Electronics,663.58,3,0,1990.74,East,Debit Card,Corporate,3.0,2024-08
+TXN00965,2024-02-24,Smartphone,Electronics,875.45,1,0,875.45,South,Credit Card,Enterprise,2.0,2024-02
+TXN00353,2023-08-23,Monitor,Electronics,379.49,4,0,1517.96,South,Credit Card,Individual,3.0,2023-08
+TXN00101,2024-09-26,Laptop,Electronics,840.24,2,10,1512.43,West,Bank Transfer,Startup,4.0,2024-09
+TXN00737,2024-12-03,Keyboard,Accessories,160.54,3,0,481.62,South,Debit Card,Corporate,5.0,2024-12
+TXN00255,2024-06-19,Desk,Furniture,547.99,4,5,2082.36,West,Debit Card,Startup,3.0,2024-06
+TXN01423,2023-07-23,Notebook,Stationery,10.62,1,0,10.62,Central,Bank Transfer,Enterprise,3.0,2023-07
+TXN00586,2024-03-14,Headphones,Electronics,271.9,3,0,815.7,South,Cash,Startup,4.0,2024-03
+TXN00553,2023-07-07,Monitor,Electronics,310.13,3,0,930.39,West,Cash,Enterprise,4.0,2023-07
+TXN00744,2024-10-27,Backpack,Accessories,124.33,1,0,124.33,West,Cash,Enterprise,3.0,2024-10
+TXN00057,2024-05-06,Smartphone,Electronics,1171.79,1,10,1054.61,Central,Bank Transfer,Enterprise,2.0,2024-05
+TXN00394,2024-11-04,Headphones,Electronics,53.43,2,5,101.52,South,Cash,Enterprise,5.0,2024-11
+TXN01365,2024-10-22,Notebook,Stationery,25.31,1,0,25.31,South,Cash,Corporate,4.0,2024-10
+TXN00751,2024-06-23,Notebook,Stationery,17.09,2,10,30.76,North,PayPal,Individual,3.0,2024-06
+TXN01002,2024-05-27,Mouse,Accessories,48.87,5,0,244.35,South,Credit Card,Startup,2.0,2024-05
+TXN01024,2023-06-19,Backpack,Accessories,170.46,4,0,681.84,West,Credit Card,Individual,4.0,2023-06
+TXN01713,2024-04-17,Notebook,Stationery,9.85,2,15,16.74,North,Credit Card,Startup,3.0,2024-04
+TXN00681,2024-12-10,Keyboard,Accessories,159.27,3,0,477.81,East,PayPal,Enterprise,4.0,2024-12
+TXN01564,2023-10-06,Headphones,Electronics,192.25,2,5,365.28,Central,Credit Card,Individual,4.0,2023-10
+TXN01524,2024-09-15,Notebook,Stationery,28.83,1,10,25.95,East,Bank Transfer,Corporate,4.0,2024-09
+TXN01898,2024-07-31,Headphones,Electronics,194.86,5,0,974.3,Central,Cash,Startup,5.0,2024-07
+TXN00614,2023-06-14,Notebook,Stationery,18.72,2,0,37.44,East,Credit Card,Startup,5.0,2023-06
+TXN00535,2024-01-21,Laptop,Electronics,1582.51,5,10,7121.3,East,Cash,Enterprise,2.0,2024-01
+TXN00308,2023-09-25,Headphones,Electronics,173.31,5,10,779.9,West,Credit Card,Individual,5.0,2023-09
+TXN00969,2024-07-11,Backpack,Accessories,70.14,3,0,210.42,Central,Cash,Startup,3.0,2024-07
+TXN01469,2024-03-10,Desk,Furniture,322.88,3,5,920.21,North,Bank Transfer,Corporate,4.0,2024-03
+TXN01936,2023-01-23,Desk,Furniture,364.61,4,5,1385.52,Central,Debit Card,Individual,3.0,2023-01
+TXN00549,2024-08-23,Monitor,Electronics,683.07,5,0,3415.35,South,Credit Card,Enterprise,3.0,2024-08
+TXN01126,2024-04-13,Desk,Furniture,297.67,4,0,1190.68,West,Debit Card,Corporate,1.0,2024-04
+TXN00412,2024-11-10,Backpack,Accessories,132.58,2,10,265.16,West,Bank Transfer,Startup,2.0,2024-11
+TXN01407,2023-05-24,Laptop,Electronics,1303.45,1,0,1303.45,East,Debit Card,Corporate,5.0,2023-05
+TXN01419,2023-11-08,Desk,Furniture,436.37,3,10,1178.2,East,PayPal,Corporate,5.0,2023-11
+TXN01250,2024-02-09,Laptop,Electronics,1988.21,2,5,3777.6,South,Cash,Enterprise,4.0,2024-02
+TXN01952,2023-07-14,Smartphone,Electronics,914.97,5,0,4574.85,East,PayPal,Individual,5.0,2023-07
+TXN00257,2023-07-02,Office Chair,Furniture,382.77,5,0,1913.85,West,Credit Card,Corporate,4.0,2023-07
+TXN01086,2024-07-23,Notebook,Stationery,29.47,5,10,132.62,West,Debit Card,Startup,3.0,2024-07
+TXN00731,2023-03-23,Notebook,Stationery,11.63,3,5,33.15,North,PayPal,Corporate,5.0,2023-03
+TXN01495,2024-10-09,Office Chair,Furniture,478.4,1,0,478.4,North,Debit Card,Startup,5.0,2024-10
+TXN01857,2023-05-29,Headphones,Electronics,83.15,4,0,332.6,North,Credit Card,Corporate,4.0,2023-05
+TXN00345,2023-06-06,Mouse,Accessories,20.5,5,15,87.12,Central,Credit Card,Individual,3.0,2023-06
+TXN01424,2024-10-04,Notebook,Stationery,17.35,2,0,34.7,South,PayPal,Individual,4.0,2024-10
+TXN01890,2024-05-17,Backpack,Accessories,81.28,3,10,219.46,Central,Bank Transfer,Enterprise,1.0,2024-05
+TXN01186,2024-05-03,Laptop,Electronics,1272.77,5,0,6363.85,West,Cash,Corporate,4.0,2024-05
+TXN01478,2023-07-22,Desk,Furniture,573.54,4,0,2294.16,West,Debit Card,Enterprise,4.0,2023-07
+TXN01994,2023-12-31,Laptop,Electronics,1520.57,5,20,6082.28,South,Bank Transfer,Enterprise,4.0,2023-12
+TXN01780,2023-04-08,Office Chair,Furniture,478.74,1,0,478.74,Central,Credit Card,Corporate,4.0,2023-04
+TXN00300,2023-08-20,Backpack,Accessories,94.53,4,0,378.12,Central,Cash,Individual,5.0,2023-08
+TXN01119,2023-10-27,Keyboard,Accessories,82.5,3,0,247.5,South,Cash,Enterprise,3.0,2023-10
+TXN01926,2024-11-01,Desk,Furniture,495.52,5,10,2229.84,South,Credit Card,Corporate,4.0,2024-11
+TXN01300,2023-06-23,Monitor,Electronics,294.22666666666663,3,10,882.68,South,Bank Transfer,Startup,3.0,2023-06
+TXN01568,2024-09-28,Keyboard,Accessories,50.68,3,20,121.63,South,PayPal,Startup,4.0,2024-09
+TXN00573,2023-05-14,Laptop,Electronics,1404.26,2,10,2527.67,East,Credit Card,Individual,4.0,2023-05
+TXN01884,2024-11-16,Notebook,Stationery,5.92,5,0,29.6,Central,Bank Transfer,Enterprise,5.0,2024-11
+TXN01152,2023-09-07,Mouse,Accessories,102.9,4,0,411.6,West,PayPal,Corporate,5.0,2023-09
+TXN01477,2024-12-13,Headphones,Electronics,77.2,2,0,154.4,West,Cash,Startup,3.0,2024-12
+TXN00880,2024-04-15,Laptop,Electronics,1770.03,5,10,7965.14,South,Cash,Startup,5.0,2024-04
+TXN01768,2023-08-06,Smartphone,Electronics,1017.22,5,0,5086.1,South,Credit Card,Corporate,3.0,2023-08
+TXN00819,2024-11-04,Backpack,Accessories,192.81,4,0,771.24,East,Debit Card,Startup,5.0,2024-11
+TXN00481,2023-01-13,Smartphone,Electronics,984.38,1,10,885.94,West,Bank Transfer,Corporate,5.0,2023-01
+TXN00100,2024-07-03,Laptop,Electronics,1440.15,3,10,3888.41,West,Bank Transfer,Individual,5.0,2024-07
+TXN00608,2023-04-21,Keyboard,Accessories,34.35,1,0,34.35,South,PayPal,Enterprise,2.0,2023-04
+TXN00742,2023-08-05,Notebook,Stationery,11.12,3,0,33.36,Central,Credit Card,Individual,4.0,2023-08
+TXN01631,2023-09-19,Keyboard,Accessories,157.17,1,0,157.17,East,Credit Card,Enterprise,5.0,2023-09
+TXN01665,2024-02-09,Notebook,Stationery,23.05,5,0,115.25,West,Debit Card,Corporate,4.0,2024-02
+TXN00562,2023-11-16,Desk,Furniture,465.22,4,0,1860.88,West,Debit Card,Startup,4.0,2023-11
+TXN00112,2023-12-08,Laptop,Electronics,1953.28,1,5,1855.62,North,Bank Transfer,Enterprise,4.0,2023-12
+TXN01023,2024-05-06,Mouse,Accessories,148.67,2,5,282.47,North,Debit Card,Individual,3.0,2024-05
+TXN00240,2024-04-07,Laptop,Electronics,1154.53,1,20,923.62,North,Credit Card,Enterprise,4.0,2024-04
+TXN01212,2023-11-24,Headphones,Electronics,296.14,1,0,296.14,South,Bank Transfer,Enterprise,3.0,2023-11
+TXN00129,2024-05-05,Office Chair,Furniture,392.93,3,5,1119.85,West,PayPal,Individual,3.0,2024-05
+TXN01972,2023-10-18,Laptop,Electronics,1278.35,5,5,6072.16,North,Debit Card,Corporate,4.0,2023-10
+TXN01950,2023-04-29,Desk,Furniture,758.9,2,0,1517.8,South,Cash,Individual,5.0,2023-04
+TXN00508,2024-07-09,Backpack,Accessories,154.36,5,0,771.8,North,PayPal,Startup,5.0,2024-07
+TXN01905,2024-11-22,Desk,Furniture,248.31,2,0,496.62,West,Bank Transfer,Startup,5.0,2024-11
+TXN01259,2023-02-04,Keyboard,Accessories,193.87,4,0,775.48,North,Credit Card,Startup,4.0,2023-02
+TXN01960,2024-02-21,Laptop,Electronics,1046.11,2,0,2092.22,East,Bank Transfer,Enterprise,3.0,2024-02
+TXN00707,2024-02-28,Monitor,Electronics,599.84,1,15,509.86,North,Credit Card,Individual,2.0,2024-02
+TXN01826,2024-07-09,Notebook,Stationery,11.6,3,0,34.8,East,Bank Transfer,Corporate,5.0,2024-07
+TXN01672,2023-09-06,Headphones,Electronics,118.28,2,0,236.56,West,Cash,Individual,3.0,2023-09
+TXN00520,2023-12-21,Backpack,Accessories,150.46,1,0,150.46,East,Debit Card,Corporate,3.0,2023-12
+TXN00987,2023-11-21,Keyboard,Accessories,171.61,1,0,171.61,North,Credit Card,Enterprise,4.0,2023-11
+TXN00941,2023-08-10,Mouse,Accessories,89.42,3,0,268.26,West,Credit Card,Individual,4.0,2023-08
+TXN01827,2024-10-27,Laptop,Electronics,816.13,2,0,1632.26,South,PayPal,Individual,5.0,2024-10
+TXN00904,2024-11-01,Notebook,Stationery,23.63,1,0,23.63,South,Cash,Individual,4.0,2024-11
+TXN01108,2023-04-02,Mouse,Accessories,106.18,4,10,382.25,West,Cash,Enterprise,3.0,2023-04
+TXN01064,2023-01-12,Monitor,Electronics,332.75,1,10,299.48,West,Cash,Individual,4.0,2023-01
+TXN00367,2024-05-07,Headphones,Electronics,99.72,5,0,498.6,North,Credit Card,Individual,4.0,2024-05
+TXN01422,2024-01-15,Desk,Furniture,786.1,5,0,3930.5,East,Credit Card,Individual,4.0,2024-01
+TXN00675,2024-08-23,Notebook,Stationery,19.12,1,5,18.16,South,PayPal,Corporate,4.0,2024-08
+TXN01813,2023-07-19,Laptop,Electronics,1855.19,2,0,3710.38,East,PayPal,Individual,4.0,2023-07
+TXN01513,2024-03-07,Keyboard,Accessories,74.62,2,0,149.24,South,Cash,Startup,3.0,2024-03
+TXN00597,2024-03-14,Headphones,Electronics,126.72,2,0,253.44,South,Credit Card,Individual,4.0,2024-03
+TXN01197,2024-02-11,Keyboard,Accessories,48.97,1,0,48.97,North,PayPal,Startup,5.0,2024-02
+TXN01527,2023-02-21,Headphones,Electronics,88.34,5,15,375.45,South,PayPal,Enterprise,4.0,2023-02
+TXN00465,2024-04-29,Office Chair,Furniture,174.85,2,0,349.7,East,Bank Transfer,Corporate,3.0,2024-04
+TXN01677,2024-06-19,Laptop,Electronics,1483.65,2,0,2967.3,South,Debit Card,Individual,3.0,2024-06
+TXN01803,2023-10-20,Notebook,Stationery,16.82,1,0,16.82,North,Cash,Startup,5.0,2023-10
+TXN01053,2023-04-25,Notebook,Stationery,28.4,5,20,113.6,South,PayPal,Startup,2.0,2023-04
+TXN01975,2024-06-18,Laptop,Electronics,1652.83,1,10,1487.55,Central,Bank Transfer,Startup,2.0,2024-06
+TXN00486,2024-05-07,Mouse,Accessories,140.79,2,0,281.58,West,Credit Card,Individual,3.0,2024-05
+TXN00916,2024-03-17,Headphones,Electronics,66.04,1,0,66.04,East,Debit Card,Corporate,5.0,2024-03
+TXN00616,2024-12-18,Mouse,Accessories,38.1,2,0,76.2,South,PayPal,Startup,5.0,2024-12
+TXN00679,2023-07-23,Smartphone,Electronics,309.5,2,15,526.15,North,Cash,Individual,4.0,2023-07
+TXN00830,2024-12-09,Laptop,Electronics,1656.33,1,0,1656.33,North,Credit Card,Corporate,4.0,2024-12
+TXN00923,2024-12-05,Backpack,Accessories,168.77,5,15,717.27,Unknown,Cash,Corporate,4.0,2024-12
+TXN01113,2024-12-09,Mouse,Accessories,94.19,1,0,94.19,East,Cash,Enterprise,5.0,2024-12
+TXN00619,2023-01-14,Monitor,Electronics,550.69,5,0,2753.45,Central,Debit Card,Individual,4.0,2023-01
+TXN00772,2024-08-19,Smartphone,Electronics,523.92,2,0,1047.84,East,Cash,Corporate,4.0,2024-08
+TXN01287,2023-11-30,Desk,Furniture,359.22,2,0,718.44,South,Bank Transfer,Individual,5.0,2023-11
+TXN01545,2024-08-27,Laptop,Electronics,1582.47,2,5,3006.69,West,Cash,Corporate,5.0,2024-08
+TXN00594,2023-06-17,Monitor,Electronics,309.35,3,5,881.6475,North,Bank Transfer,Startup,2.0,2023-06
+TXN00116,2024-01-26,Smartphone,Electronics,667.86,4,10,2404.3,West,Credit Card,Individual,3.0,2024-01
+TXN00768,2024-11-05,Office Chair,Furniture,337.27,5,15,1433.4,West,Credit Card,Corporate,2.0,2024-11
+TXN01858,2023-02-02,Monitor,Electronics,296.42,3,20,711.41,West,PayPal,Individual,4.0,2023-02
+TXN00901,2024-08-08,Monitor,Electronics,563.45,2,15,957.86,Central,Debit Card,Corporate,2.0,2024-08
+TXN01947,2024-01-30,Monitor,Electronics,880.97,4,0,3523.88,East,Debit Card,Enterprise,4.0,2024-01
+TXN01441,2023-12-26,Office Chair,Furniture,423.94,5,0,2119.7,Central,Bank Transfer,Startup,3.0,2023-12
+TXN01791,2023-09-06,Notebook,Stationery,28.48,1,0,28.48,Central,PayPal,Startup,5.0,2023-09
+TXN00889,2024-05-18,Office Chair,Furniture,151.85,3,15,387.22,North,Cash,Individual,5.0,2024-05
+TXN00212,2024-10-03,Monitor,Electronics,480.75,4,0,1923.0,West,Cash,Startup,4.0,2024-10
+TXN00451,2024-05-13,Laptop,Electronics,1953.39,3,0,5860.17,South,Cash,Enterprise,4.0,2024-05
+TXN01177,2024-10-14,Mouse,Accessories,95.22,5,15,404.68,South,Cash,Enterprise,4.0,2024-10
+TXN00706,2024-09-03,Backpack,Accessories,42.27,2,0,84.54,West,Bank Transfer,Startup,5.0,2024-09
+TXN01286,2024-08-06,Desk,Furniture,573.18,3,5,1633.56,South,Cash,Enterprise,4.0,2024-08
+TXN01095,2024-09-17,Mouse,Accessories,146.88,3,0,440.64,Unknown,Bank Transfer,Enterprise,5.0,2024-09
+TXN00211,2023-12-19,Keyboard,Accessories,161.35,4,0,645.4,East,Credit Card,Enterprise,4.0,2023-12
+TXN00121,2024-05-14,Monitor,Electronics,752.99,1,0,752.99,Central,Cash,Enterprise,3.0,2024-05
+TXN01376,2023-10-30,Smartphone,Electronics,542.34,3,5,1545.67,Central,Cash,Individual,3.0,2023-10
+TXN01641,2023-08-30,Office Chair,Furniture,311.23,1,0,311.23,Central,Bank Transfer,Startup,5.0,2023-08
+TXN01714,2024-07-06,Headphones,Electronics,271.83,5,0,1359.15,East,PayPal,Startup,4.0,2024-07
+TXN00298,2023-07-20,Desk,Furniture,351.38,5,5,1669.06,Central,Cash,Startup,5.0,2023-07
+TXN00788,2024-03-04,Monitor,Electronics,588.15,4,0,2352.6,West,PayPal,Enterprise,4.0,2024-03
+TXN00136,2024-09-06,Office Chair,Furniture,530.05,2,0,1060.1,North,PayPal,Enterprise,3.0,2024-09
+TXN00484,2023-03-13,Smartphone,Electronics,493.95,4,10,1778.22,Central,Cash,Individual,4.0,2023-03
+TXN01934,2024-03-31,Monitor,Electronics,515.63,5,10,2320.34,South,Debit Card,Enterprise,3.0,2024-03
+TXN00299,2024-02-28,Mouse,Accessories,144.26,5,5,685.23,South,Cash,Corporate,5.0,2024-02
+TXN00395,2023-12-05,Headphones,Electronics,261.86,1,20,209.49,South,Bank Transfer,Startup,4.0,2023-12
+TXN01165,2023-05-13,Keyboard,Accessories,198.64,4,0,794.56,East,Debit Card,Enterprise,4.0,2023-05
+TXN01345,2023-05-15,Smartphone,Electronics,911.38,2,0,1822.76,Central,Cash,Startup,5.0,2023-05
+TXN00803,2024-02-28,Laptop,Electronics,842.19,3,0,2526.57,North,PayPal,Individual,4.0,2024-02
+TXN00985,2024-03-26,Headphones,Electronics,253.09,3,15,645.38,South,Bank Transfer,Corporate,3.0,2024-03
+TXN00110,2023-06-28,Laptop,Electronics,1504.48,3,0,4513.44,North,Credit Card,Startup,3.0,2023-06
+TXN00991,2023-05-01,Laptop,Electronics,1055.42,4,0,4221.68,North,Debit Card,Corporate,5.0,2023-05
+TXN00620,2024-03-20,Backpack,Accessories,135.26,5,0,676.3,Unknown,PayPal,Individual,5.0,2024-03
+TXN00555,2024-03-14,Office Chair,Furniture,443.36,3,5,1263.58,North,Debit Card,Corporate,5.0,2024-03
+TXN00423,2023-06-26,Mouse,Accessories,122.61,5,0,613.05,East,Credit Card,Individual,3.0,2023-06
+TXN00760,2023-05-03,Headphones,Electronics,289.57,3,0,868.71,Central,Cash,Enterprise,4.0,2023-05
+TXN00600,2023-03-10,Office Chair,Furniture,269.7,3,5,768.64,East,Cash,Startup,4.0,2023-03
+TXN01010,2023-09-15,Laptop,Electronics,1417.49,4,0,5669.96,West,Debit Card,Individual,5.0,2023-09
+TXN00234,2023-01-21,Backpack,Accessories,138.25,5,0,691.25,Central,Credit Card,Individual,3.0,2023-01
+TXN01489,2023-02-19,Monitor,Electronics,661.93,2,0,1323.86,South,PayPal,Corporate,5.0,2023-02
+TXN00603,2023-05-10,Desk,Furniture,343.44,1,10,309.1,West,Cash,Startup,4.0,2023-05
+TXN01176,2024-07-21,Mouse,Accessories,44.01,2,0,88.02,East,Cash,Individual,4.0,2024-07
+TXN00307,2023-11-29,Backpack,Accessories,44.75,3,0,134.25,Central,Bank Transfer,Individual,4.0,2023-11
+TXN00368,2024-11-11,Smartphone,Electronics,1068.41,4,5,4059.96,North,PayPal,Enterprise,4.0,2024-11
+TXN00758,2024-08-19,Keyboard,Accessories,33.0,5,0,165.0,South,Cash,Startup,3.0,2024-08
+TXN01984,2023-06-25,Mouse,Accessories,69.88,4,0,279.52,North,PayPal,Corporate,4.0,2023-06
+TXN01583,2024-10-10,Laptop,Electronics,1194.96,2,10,2150.93,South,Credit Card,Enterprise,3.0,2024-10
+TXN01074,2024-04-30,Office Chair,Furniture,255.12,1,5,242.36,Central,Bank Transfer,Enterprise,4.0,2024-04
+TXN01745,2023-03-17,Office Chair,Furniture,292.01,3,0,876.03,West,Debit Card,Enterprise,3.0,2023-03
+TXN00621,2024-03-17,Notebook,Stationery,21.84,3,0,65.52,North,Cash,Individual,4.0,2024-03
+TXN00888,2023-07-11,Desk,Furniture,733.31,5,0,3666.55,North,Bank Transfer,Individual,4.0,2023-07
+TXN00539,2024-07-06,Monitor,Electronics,329.3,2,0,658.6,Central,Debit Card,Individual,5.0,2024-07
+TXN00238,2023-10-04,Headphones,Electronics,71.38,1,20,57.1,South,Cash,Startup,4.0,2023-10
+TXN01721,2024-02-09,Monitor,Electronics,614.31,4,0,2457.24,Unknown,Credit Card,Individual,3.0,2024-02
+TXN00940,2024-01-28,Desk,Furniture,510.27,4,10,1836.97,North,Bank Transfer,Enterprise,3.0,2024-01
+TXN00221,2023-08-04,Notebook,Stationery,18.49,5,0,92.45,East,PayPal,Enterprise,3.0,2023-08
+TXN00704,2023-07-03,Office Chair,Furniture,292.41,5,15,1242.74,Central,PayPal,Individual,4.0,2023-07
+TXN01931,2023-03-03,Mouse,Accessories,68.29,3,0,204.87,West,PayPal,Startup,3.0,2023-03
+TXN00695,2023-11-29,Desk,Furniture,441.02,1,0,441.02,West,Bank Transfer,Corporate,3.0,2023-11
+TXN01106,2023-11-04,Laptop,Electronics,1542.02,3,0,4626.06,West,Credit Card,Startup,4.0,2023-11
+TXN00711,2023-04-13,Laptop,Electronics,1083.2,3,0,3249.6,East,Debit Card,Enterprise,4.0,2023-04
+TXN00631,2024-09-02,Keyboard,Accessories,61.81,1,0,61.81,South,Bank Transfer,Corporate,4.0,2024-09
+TXN00977,2024-04-18,Desk,Furniture,236.96,3,0,710.88,West,Credit Card,Individual,2.0,2024-04
+TXN01766,2023-10-20,Office Chair,Furniture,166.73,1,0,166.73,East,Bank Transfer,Startup,4.0,2023-10
+TXN00998,2023-01-04,Desk,Furniture,469.76,1,0,469.76,East,Debit Card,Enterprise,5.0,2023-01
+TXN00050,2024-08-24,Headphones,Electronics,150.97,2,0,301.94,South,PayPal,Individual,4.0,2024-08
+TXN00232,2023-06-13,Desk,Furniture,319.31,5,20,1277.24,South,Credit Card,Enterprise,4.0,2023-06
+TXN00430,2023-05-21,Notebook,Stationery,9.29,2,0,18.58,Central,Debit Card,Individual,4.0,2023-05
+TXN00276,2023-04-07,Smartphone,Electronics,358.68,3,15,914.63,South,PayPal,Corporate,4.0,2023-04
+TXN01608,2024-07-21,Headphones,Electronics,119.78,2,20,191.65,East,Bank Transfer,Corporate,4.0,2024-07
+TXN01650,2023-02-24,Smartphone,Electronics,1045.65,5,5,4966.84,South,Bank Transfer,Individual,4.0,2023-02
+TXN01134,2024-08-17,Desk,Furniture,376.38,4,0,1505.52,South,Cash,Enterprise,1.0,2024-08
+TXN01685,2023-04-28,Smartphone,Electronics,563.45,1,0,563.45,Central,Credit Card,Individual,4.0,2023-04
+TXN01515,2023-12-17,Office Chair,Furniture,325.11,5,5,1544.27,Central,Debit Card,Enterprise,3.0,2023-12
+TXN00174,2023-10-28,Smartphone,Electronics,354.32,4,0,1417.28,East,PayPal,Startup,4.0,2023-10
+TXN01199,2024-11-07,Backpack,Accessories,177.23,1,10,159.51,North,PayPal,Enterprise,5.0,2024-11
+TXN01190,2024-05-10,Laptop,Electronics,1323.26,2,5,2514.19,South,Cash,Individual,4.0,2024-05
+TXN01844,2024-06-06,Monitor,Electronics,468.95,1,5,445.50249999999994,North,Debit Card,Corporate,4.0,2024-06
+TXN01687,2023-04-12,Mouse,Accessories,40.61,3,0,121.83,North,PayPal,Corporate,5.0,2023-04
+TXN00866,2024-10-18,Laptop,Electronics,863.52,5,0,4317.6,South,Credit Card,Corporate,4.0,2024-10
+TXN00248,2023-01-30,Mouse,Accessories,99.55,3,0,298.65,Central,Credit Card,Enterprise,4.0,2023-01
+TXN01508,2024-12-27,Desk,Furniture,469.39,4,5,1783.68,North,Credit Card,Individual,4.0,2024-12
+TXN01454,2024-09-10,Keyboard,Accessories,179.08,3,20,429.79,East,Bank Transfer,Corporate,4.0,2024-09
+TXN00024,2023-05-28,Office Chair,Furniture,157.46,3,10,425.14,Unknown,Cash,Individual,4.0,2023-05
+TXN01569,2023-07-23,Office Chair,Furniture,365.04,5,0,1825.2,Central,PayPal,Enterprise,5.0,2023-07
+TXN00943,2023-05-11,Backpack,Accessories,197.46,1,0,197.46,West,Bank Transfer,Enterprise,4.0,2023-05
+TXN00064,2023-09-16,Backpack,Accessories,74.69,1,5,70.96,Central,Credit Card,Startup,3.0,2023-09
+TXN00306,2024-06-12,Backpack,Accessories,103.52,5,0,517.6,North,PayPal,Startup,4.0,2024-06
+TXN00189,2024-09-29,Smartphone,Electronics,608.39,4,0,2433.56,South,Debit Card,Corporate,5.0,2024-09
+TXN01871,2024-04-09,Headphones,Electronics,238.59,3,0,715.77,South,PayPal,Individual,4.0,2024-04
+TXN01319,2024-05-08,Keyboard,Accessories,192.04,3,0,576.12,West,Credit Card,Startup,4.0,2024-05
+TXN01901,2024-04-23,Laptop,Electronics,1003.36,3,20,2408.06,East,Cash,Corporate,4.0,2024-04
+TXN00927,2024-12-05,Headphones,Electronics,318.25,1,5,302.34,South,PayPal,Individual,5.0,2024-12
+TXN00942,2023-01-30,Smartphone,Electronics,554.4,2,5,1053.36,North,Debit Card,Startup,5.0,2023-01
+TXN00810,2023-12-30,Desk,Furniture,320.43,5,0,1602.15,North,Cash,Enterprise,4.0,2023-12
+TXN00282,2023-05-11,Notebook,Stationery,15.69,3,5,44.72,East,Credit Card,Enterprise,5.0,2023-05
+TXN00531,2023-05-15,Smartphone,Electronics,327.02,1,0,327.02,North,Debit Card,Corporate,4.0,2023-05
+TXN00197,2023-01-03,Monitor,Electronics,297.58,3,0,892.74,East,Debit Card,Corporate,5.0,2023-01
+TXN00652,2024-07-20,Laptop,Electronics,1317.03,3,0,3951.09,West,Cash,Enterprise,5.0,2024-07
+TXN00352,2023-01-28,Mouse,Accessories,141.0,4,10,507.6,Central,Cash,Individual,4.0,2023-01
+TXN01375,2024-11-27,Mouse,Accessories,83.94,1,20,67.15,North,PayPal,Individual,4.0,2024-11
+TXN01979,2024-10-08,Monitor,Electronics,698.03,1,0,698.03,South,Cash,Startup,4.0,2024-10
+TXN00908,2023-10-24,Desk,Furniture,401.78,2,15,683.03,East,Debit Card,Enterprise,1.0,2023-10
+TXN00887,2023-08-27,Keyboard,Accessories,100.57,3,10,271.54,North,Bank Transfer,Enterprise,5.0,2023-08
+TXN01653,2023-04-25,Mouse,Accessories,22.55,4,0,90.2,North,Cash,Startup,4.0,2023-04
+TXN00950,2024-12-12,Smartphone,Electronics,641.93,1,0,641.93,East,Credit Card,Corporate,4.0,2024-12
+TXN00818,2024-12-15,Smartphone,Electronics,383.26,2,20,613.22,East,Credit Card,Corporate,5.0,2024-12
+TXN00745,2024-09-05,Desk,Furniture,234.2,1,10,210.78,North,Bank Transfer,Individual,4.0,2024-09
+TXN00813,2023-01-21,Keyboard,Accessories,40.69,4,5,154.62,West,PayPal,Enterprise,5.0,2023-01
+TXN01339,2024-11-01,Backpack,Accessories,59.08,4,5,224.5,East,Debit Card,Individual,4.0,2024-11
+TXN01852,2024-04-16,Desk,Furniture,307.91,2,5,585.03,North,Cash,Enterprise,4.0,2024-04
+TXN00322,2023-05-04,Notebook,Stationery,27.5,5,0,137.5,South,Cash,Corporate,5.0,2023-05
+TXN01830,2023-06-22,Mouse,Accessories,23.61,1,10,23.61,East,Cash,Individual,4.0,2023-06
+TXN00651,2024-11-23,Notebook,Stationery,11.54,1,0,11.54,North,Credit Card,Corporate,4.0,2024-11
+TXN01238,2023-04-16,Headphones,Electronics,290.8,2,10,523.44,East,Debit Card,Startup,2.0,2023-04
+TXN00026,2023-01-02,Notebook,Stationery,29.55,4,0,118.2,Central,Cash,Individual,5.0,2023-01
+TXN01434,2024-12-15,Desk,Furniture,262.68,5,0,1313.4,North,Cash,Startup,4.0,2024-12
+TXN00079,2023-02-20,Headphones,Electronics,204.57,2,5,388.68,North,Bank Transfer,Corporate,3.0,2023-02
+TXN01711,2023-01-14,Headphones,Electronics,322.61,3,10,871.05,North,Cash,Individual,5.0,2023-01
+TXN00033,2023-10-07,Desk,Furniture,730.1,4,0,2920.4,South,Bank Transfer,Startup,4.0,2023-10
+TXN01302,2024-03-31,Keyboard,Accessories,172.55,5,0,862.75,South,Bank Transfer,Individual,4.0,2024-03
+TXN00383,2024-08-03,Laptop,Electronics,1446.91,4,0,5787.64,South,Bank Transfer,Corporate,4.0,2024-08
+TXN01559,2024-09-09,Notebook,Stationery,11.06,2,10,19.91,Central,Debit Card,Startup,5.0,2024-09
+TXN00433,2024-01-15,Headphones,Electronics,218.2,5,0,1091.0,Central,Cash,Individual,4.0,2024-01
+TXN00164,2023-07-18,Desk,Furniture,292.19,3,10,788.91,East,Cash,Individual,5.0,2023-07
+TXN00204,2024-01-20,Mouse,Accessories,145.18,4,0,580.72,South,Bank Transfer,Corporate,3.0,2024-01
+TXN01008,2023-01-23,Mouse,Accessories,62.33,3,10,168.29,Central,Debit Card,Individual,3.0,2023-01
+TXN01171,2023-09-22,Desk,Furniture,515.35,5,0,2576.75,Central,Bank Transfer,Startup,4.0,2023-09
+TXN00369,2024-08-23,Notebook,Stationery,18.06,4,0,72.24,Central,Debit Card,Corporate,1.0,2024-08
+TXN00953,2023-04-19,Keyboard,Accessories,107.57,1,15,91.43,East,Credit Card,Enterprise,3.0,2023-04
+TXN01445,2024-07-01,Keyboard,Accessories,39.53,4,15,134.4,North,Debit Card,Individual,4.0,2024-07
+TXN01111,2024-01-26,Notebook,Stationery,13.91,5,0,69.55,South,Debit Card,Startup,1.0,2024-01
+TXN00317,2023-01-07,Office Chair,Furniture,326.84,2,0,653.68,North,Credit Card,Individual,5.0,2023-01
+TXN01281,2024-05-09,Office Chair,Furniture,484.58,3,0,1453.74,West,Bank Transfer,Enterprise,5.0,2024-05
+TXN01809,2023-08-04,Notebook,Stationery,14.1,4,5,53.58,North,PayPal,Corporate,4.0,2023-08
+TXN00219,2023-06-29,Smartphone,Electronics,1143.26,1,0,1143.26,South,Debit Card,Enterprise,5.0,2023-06
+TXN01971,2023-03-13,Backpack,Accessories,166.94,5,15,709.5,Central,Credit Card,Startup,4.0,2023-03
+TXN01854,2024-08-26,Monitor,Electronics,736.05,4,0,2944.2,West,Credit Card,Corporate,4.0,2024-08
+TXN01693,2023-04-17,Laptop,Electronics,1762.9,4,0,7051.6,South,PayPal,Corporate,4.0,2023-04
+TXN00196,2024-08-27,Notebook,Stationery,14.9,5,0,74.5,South,Credit Card,Enterprise,4.0,2024-08
+TXN01348,2023-04-22,Headphones,Electronics,229.38,4,15,779.89,North,Credit Card,Enterprise,5.0,2023-04
+TXN00060,2023-05-06,Keyboard,Accessories,102.12,2,0,204.24,East,Bank Transfer,Corporate,4.0,2023-05
+TXN01056,2023-07-13,Monitor,Electronics,843.64,3,0,2530.92,South,PayPal,Enterprise,3.0,2023-07
+TXN00434,2024-09-21,Laptop,Electronics,1358.07,1,0,1358.07,West,Bank Transfer,Startup,5.0,2024-09
+TXN00074,2023-03-16,Keyboard,Accessories,158.37,5,5,752.26,North,Cash,Corporate,4.0,2023-03
+TXN00163,2024-05-06,Laptop,Electronics,1582.0,4,5,6011.6,East,Cash,Corporate,3.0,2024-05
+TXN01320,2023-01-14,Notebook,Stationery,17.13,4,10,61.67,Central,Debit Card,Individual,4.0,2023-01
+TXN01160,2024-07-24,Backpack,Accessories,67.22,5,10,302.49,East,Cash,Enterprise,5.0,2024-07
+TXN01630,2023-07-09,Desk,Furniture,540.76,1,10,486.68,Central,Credit Card,Individual,5.0,2023-07
+TXN01068,2023-04-07,Smartphone,Electronics,394.96,4,5,1500.85,South,Debit Card,Enterprise,5.0,2023-04
+TXN01626,2023-06-18,Smartphone,Electronics,1030.83,3,10,2783.24,North,Debit Card,Startup,5.0,2023-06
+TXN01986,2023-10-28,Desk,Furniture,601.7,3,20,1444.08,North,Debit Card,Startup,5.0,2023-10
+TXN00046,2023-06-29,Keyboard,Accessories,38.17,5,15,162.22,South,Debit Card,Startup,4.0,2023-06
+TXN00995,2024-03-23,Desk,Furniture,271.56,3,0,814.68,West,Cash,Enterprise,4.0,2024-03
+TXN00362,2023-07-18,Monitor,Electronics,487.69,3,10,1316.76,North,Debit Card,Individual,5.0,2023-07
+TXN01303,2024-05-03,Backpack,Accessories,146.48,2,5,278.31,East,Bank Transfer,Enterprise,2.0,2024-05
+TXN00568,2023-09-10,Office Chair,Furniture,502.56,5,0,2512.8,North,Debit Card,Corporate,4.0,2023-09
+TXN00077,2023-05-06,Mouse,Accessories,25.96,5,0,129.8,East,PayPal,Startup,4.0,2023-05
+TXN01957,2023-05-23,Backpack,Accessories,72.04,4,0,288.16,South,Debit Card,Enterprise,5.0,2023-05
+TXN01443,2023-11-29,Smartphone,Electronics,835.42,2,0,1670.84,South,Debit Card,Startup,5.0,2023-11
+TXN01866,2024-05-30,Backpack,Accessories,133.82,1,20,107.06,South,Credit Card,Corporate,4.0,2024-05
+TXN01343,2024-01-20,Monitor,Electronics,845.06,1,0,845.06,South,Credit Card,Corporate,1.0,2024-01
+TXN01629,2023-11-15,Smartphone,Electronics,1047.52,1,0,1047.52,West,Bank Transfer,Individual,4.0,2023-11
+TXN01462,2023-10-04,Keyboard,Accessories,116.58,3,5,332.25,Central,PayPal,Corporate,2.0,2023-10
+TXN00850,2023-11-10,Monitor,Electronics,615.39,5,0,3076.95,North,PayPal,Enterprise,2.0,2023-11
+TXN00031,2023-10-10,Monitor,Electronics,408.59,5,0,2042.95,South,Bank Transfer,Corporate,4.0,2023-10
+TXN01115,2024-01-22,Desk,Furniture,238.43,4,0,953.72,South,PayPal,Enterprise,4.0,2024-01
+TXN01544,2024-10-18,Smartphone,Electronics,362.81,1,5,344.67,East,Debit Card,Enterprise,4.0,2024-10
+TXN01661,2024-08-28,Monitor,Electronics,828.77,3,0,2486.31,South,Credit Card,Enterprise,5.0,2024-08
+TXN01311,2024-06-11,Laptop,Electronics,1536.91,2,0,3073.82,South,Credit Card,Individual,5.0,2024-06
+TXN00833,2024-06-29,Monitor,Electronics,617.64,5,0,3088.2,East,Cash,Startup,4.0,2024-06
+TXN00694,2023-02-13,Laptop,Electronics,933.38,5,0,4666.9,North,Bank Transfer,Enterprise,2.0,2023-02
+TXN00533,2023-01-16,Smartphone,Electronics,856.89,1,0,856.89,North,Bank Transfer,Startup,4.0,2023-01
+TXN01582,2023-12-28,Notebook,Stationery,18.22,1,0,18.22,Central,Bank Transfer,Startup,4.0,2023-12
+TXN01851,2023-12-27,Mouse,Accessories,136.56,2,20,218.5,South,Credit Card,Corporate,4.0,2023-12
+TXN00382,2024-06-19,Mouse,Accessories,26.19,4,5,99.52,South,Cash,Startup,4.0,2024-06
+TXN01605,2024-10-24,Headphones,Electronics,327.15,1,10,294.44,Central,Credit Card,Corporate,3.0,2024-10
+TXN00045,2023-12-07,Office Chair,Furniture,228.9,2,10,412.02,East,Credit Card,Corporate,4.0,2023-12
+TXN01731,2024-08-21,Office Chair,Furniture,477.03,2,5,906.36,West,PayPal,Enterprise,4.0,2024-08
+TXN00169,2023-08-30,Monitor,Electronics,651.8,4,0,2607.2,South,Debit Card,Individual,2.0,2023-08
+TXN00304,2024-10-14,Headphones,Electronics,184.24,4,0,736.96,East,Credit Card,Corporate,2.0,2024-10
+TXN00343,2023-10-17,Office Chair,Furniture,214.29,2,0,428.58,North,Debit Card,Startup,2.0,2023-10
+TXN00439,2024-11-01,Smartphone,Electronics,895.52,1,0,895.52,West,Bank Transfer,Enterprise,4.0,2024-11
+TXN01965,2023-05-24,Office Chair,Furniture,368.42,1,20,294.74,North,Credit Card,Individual,4.0,2023-05
+TXN00765,2024-04-06,Backpack,Accessories,168.88,5,0,844.4,West,Cash,Individual,2.0,2024-04
+TXN01678,2023-08-23,Headphones,Electronics,119.92,5,15,509.66,North,Bank Transfer,Individual,3.0,2023-08
+TXN01179,2023-05-27,Laptop,Electronics,1416.9,4,0,5667.6,North,Credit Card,Startup,5.0,2023-05
+TXN01928,2023-03-24,Headphones,Electronics,149.06,5,0,745.3,South,Debit Card,Corporate,5.0,2023-03
+TXN00421,2024-09-12,Laptop,Electronics,1022.78,5,10,4602.51,West,PayPal,Startup,5.0,2024-09
+TXN00708,2024-10-25,Office Chair,Furniture,421.46,1,0,421.46,West,Debit Card,Corporate,4.0,2024-10
+TXN01346,2023-05-26,Office Chair,Furniture,156.04,1,0,156.04,North,Credit Card,Enterprise,4.0,2023-05
+TXN00789,2023-10-29,Headphones,Electronics,297.66,4,0,1190.64,West,Bank Transfer,Individual,5.0,2023-10
+TXN00355,2023-01-17,Notebook,Stationery,5.79,3,0,17.37,Central,Cash,Enterprise,5.0,2023-01
+TXN00354,2024-06-08,Notebook,Stationery,18.6,5,5,88.35,South,Debit Card,Corporate,5.0,2024-06
+TXN00528,2023-01-30,Office Chair,Furniture,333.47,2,0,666.94,South,Debit Card,Individual,3.0,2023-01
+TXN01342,2024-09-02,Desk,Furniture,354.59,3,15,904.2,East,Debit Card,Enterprise,4.0,2024-09
+TXN00483,2023-11-04,Desk,Furniture,230.15,4,0,920.6,Central,Credit Card,Enterprise,1.0,2023-11
+TXN00186,2023-11-30,Mouse,Accessories,96.1,4,0,384.4,North,Bank Transfer,Enterprise,2.0,2023-11
+TXN01395,2023-12-05,Laptop,Electronics,1184.84,5,15,5035.57,North,Cash,Startup,4.0,2023-12
+TXN01455,2024-05-26,Keyboard,Accessories,178.75,4,0,715.0,South,Debit Card,Startup,2.0,2024-05
+TXN01426,2023-05-02,Mouse,Accessories,36.99,5,0,184.95,South,Cash,Corporate,4.0,2023-05
+TXN01229,2023-11-22,Smartphone,Electronics,816.29,1,5,775.48,West,Cash,Enterprise,1.0,2023-11
+TXN00301,2024-02-10,Office Chair,Furniture,454.39,4,0,1817.56,West,PayPal,Corporate,3.0,2024-02
+TXN00454,2024-10-12,Backpack,Accessories,76.62,3,15,195.38,Central,Cash,Individual,4.0,2024-10
+TXN00734,2023-05-27,Smartphone,Electronics,1172.54,2,0,2345.08,West,Bank Transfer,Corporate,4.0,2023-05
+TXN01782,2023-11-14,Notebook,Stationery,26.86,4,0,107.44,Central,Cash,Individual,4.0,2023-11
+TXN01789,2023-10-17,Smartphone,Electronics,996.53,2,0,1993.06,Central,PayPal,Startup,3.0,2023-10
+TXN01911,2024-06-08,Desk,Furniture,456.07,4,0,1824.28,East,PayPal,Startup,5.0,2024-06
+TXN01973,2024-08-21,Monitor,Electronics,735.39,5,15,3125.41,North,PayPal,Startup,4.0,2024-08
+TXN01393,2023-04-22,Desk,Furniture,544.37,2,0,1088.74,West,Bank Transfer,Individual,1.0,2023-04
+TXN01233,2024-08-04,Desk,Furniture,457.24,3,0,1371.72,West,Debit Card,Corporate,5.0,2024-08
+TXN00176,2023-02-04,Mouse,Accessories,146.72,3,0,440.16,North,Credit Card,Startup,4.0,2023-02
+TXN00964,2023-09-14,Desk,Furniture,777.12,1,0,777.12,North,Debit Card,Startup,3.0,2023-09
+TXN01028,2024-03-06,Monitor,Electronics,270.04,1,5,256.54,Central,PayPal,Corporate,5.0,2024-03
+TXN01642,2023-07-17,Mouse,Accessories,103.65,3,0,310.95,East,Credit Card,Startup,4.0,2023-07
+TXN00124,2023-02-10,Monitor,Electronics,844.29,5,10,3799.3,South,Credit Card,Individual,4.0,2023-02
+TXN00384,2024-11-10,Backpack,Accessories,49.81,5,10,224.14,North,Bank Transfer,Individual,4.0,2024-11
+TXN01597,2024-09-06,Office Chair,Furniture,307.05,5,5,1458.49,South,PayPal,Enterprise,3.0,2024-09
+TXN00585,2023-01-14,Headphones,Electronics,347.75,5,5,1651.81,West,Cash,Enterprise,4.0,2023-01
+TXN00040,2023-12-16,Desk,Furniture,474.36,5,0,2371.8,East,Cash,Enterprise,4.0,2023-12
+TXN00487,2023-04-14,Mouse,Accessories,23.91,3,0,71.73,Central,Cash,Startup,4.0,2023-04
+TXN00515,2023-01-06,Notebook,Stationery,17.85,5,15,75.86,South,PayPal,Startup,3.0,2023-01
+TXN00332,2023-05-27,Backpack,Accessories,49.52,5,0,247.6,South,PayPal,Startup,2.0,2023-05
+TXN00428,2023-01-11,Headphones,Electronics,116.71,1,0,116.71,North,PayPal,Corporate,3.0,2023-01
+TXN00195,2023-12-31,Smartphone,Electronics,986.06,1,0,986.06,West,Credit Card,Individual,4.0,2023-12
+TXN00545,2024-12-18,Desk,Furniture,597.1,3,5,1701.74,West,Credit Card,Individual,5.0,2024-12
+TXN00592,2023-04-22,Desk,Furniture,540.43,5,10,2431.94,North,Credit Card,Startup,4.0,2023-04
+TXN01748,2024-09-24,Notebook,Stationery,20.03,4,0,80.12,East,Bank Transfer,Enterprise,4.0,2024-09
+TXN00323,2024-05-14,Laptop,Electronics,905.84,3,20,2174.02,North,Cash,Individual,3.0,2024-05
+TXN01222,2023-02-04,Desk,Furniture,448.69,2,5,852.51,East,Cash,Individual,3.0,2023-02
+TXN00267,2024-10-16,Smartphone,Electronics,959.2,3,20,2302.08,Central,Bank Transfer,Corporate,5.0,2024-10
+TXN01356,2024-10-12,Office Chair,Furniture,286.91,1,10,258.22,West,PayPal,Enterprise,4.0,2024-10
+TXN01481,2023-11-02,Desk,Furniture,456.45,3,0,1369.35,North,Cash,Enterprise,3.0,2023-11
+TXN00068,2023-01-05,Backpack,Accessories,106.92,2,5,203.15,North,Credit Card,Corporate,5.0,2023-01
+TXN00988,2024-08-11,Office Chair,Furniture,450.34,2,0,900.68,South,Debit Card,Enterprise,3.0,2024-08
+TXN01839,2024-04-25,Backpack,Accessories,144.09,2,5,273.77,North,Debit Card,Startup,5.0,2024-04
+TXN01991,2023-03-16,Keyboard,Accessories,48.76,5,0,243.8,South,PayPal,Corporate,5.0,2023-03
+TXN01788,2023-05-10,Keyboard,Accessories,141.45,4,0,565.8,Central,Cash,Enterprise,5.0,2023-05
+TXN01613,2023-07-14,Monitor,Electronics,303.49,1,0,303.49,West,Bank Transfer,Individual,1.0,2023-07
+TXN00671,2023-10-10,Backpack,Accessories,113.09,4,0,452.36,South,Credit Card,Enterprise,4.0,2023-10
+TXN01754,2023-09-08,Notebook,Stationery,21.48,3,5,61.22,South,Debit Card,Enterprise,4.0,2023-09
+TXN00479,2023-09-30,Laptop,Electronics,982.46,1,5,933.34,South,Debit Card,Startup,2.0,2023-09
+TXN01767,2024-12-16,Notebook,Stationery,16.92,5,15,71.91,West,PayPal,Enterprise,5.0,2024-12
+TXN01570,2023-02-17,Notebook,Stationery,8.26,3,15,21.06,Unknown,Debit Card,Corporate,5.0,2023-02
+TXN00472,2024-12-20,Mouse,Accessories,68.29,3,0,204.87,West,Cash,Enterprise,4.0,2024-12
+TXN01666,2023-10-04,Mouse,Accessories,40.59,1,0,40.59,North,Debit Card,Individual,4.0,2023-10
+TXN00721,2024-04-27,Headphones,Electronics,91.8,4,15,312.12,West,Credit Card,Individual,2.0,2024-04
+TXN01299,2024-09-03,Keyboard,Accessories,152.2,5,20,608.8,North,Credit Card,Enterprise,3.0,2024-09
+TXN01306,2024-04-18,Desk,Furniture,330.33,3,5,941.44,South,Bank Transfer,Enterprise,2.0,2024-04
+TXN01849,2024-10-08,Mouse,Accessories,54.5,5,0,272.5,North,Bank Transfer,Corporate,4.0,2024-10
+TXN01703,2023-01-24,Office Chair,Furniture,330.18,4,0,1320.72,East,Cash,Corporate,2.0,2023-01
+TXN01562,2023-11-14,Smartphone,Electronics,408.0,4,10,1468.8,West,Bank Transfer,Individual,1.0,2023-11
+TXN01611,2023-11-20,Headphones,Electronics,83.39,1,0,83.39,West,Bank Transfer,Individual,5.0,2023-11
+TXN01692,2023-04-23,Headphones,Electronics,186.5,3,0,559.5,Central,Bank Transfer,Startup,2.0,2023-04
+TXN00480,2023-08-17,Mouse,Accessories,46.98,2,10,84.56,East,Credit Card,Individual,3.0,2023-08
+TXN00863,2023-12-25,Keyboard,Accessories,177.55,3,15,452.75,West,Cash,Corporate,4.0,2023-12
+TXN01532,2024-08-21,Headphones,Electronics,115.24,2,5,218.96,East,Credit Card,Enterprise,5.0,2024-08
+TXN01263,2024-08-25,Office Chair,Furniture,182.52,4,0,730.08,South,Credit Card,Corporate,5.0,2024-08
+TXN01848,2024-05-30,Notebook,Stationery,20.67,3,10,55.81,North,Cash,Individual,5.0,2024-05
+TXN00262,2023-09-17,Notebook,Stationery,28.43,4,0,113.72,North,Debit Card,Startup,4.0,2023-09
+TXN01118,2024-07-05,Laptop,Electronics,1044.53,5,20,4178.12,South,PayPal,Individual,3.0,2024-07
+TXN01005,2024-01-03,Monitor,Electronics,773.74,3,0,2321.22,Central,PayPal,Enterprise,4.0,2024-01
+TXN00241,2024-01-05,Backpack,Accessories,143.02,2,0,286.04,South,Cash,Enterprise,4.0,2024-01
+TXN01059,2024-05-16,Monitor,Electronics,511.0,2,10,919.8,East,Bank Transfer,Corporate,4.0,2024-05
+TXN01044,2023-12-05,Desk,Furniture,730.96,2,0,1461.92,South,Bank Transfer,Startup,2.0,2023-12
+TXN01575,2024-11-05,Smartphone,Electronics,915.5,3,0,2746.5,West,PayPal,Enterprise,4.0,2024-11
+TXN01620,2024-06-10,Mouse,Accessories,46.74,3,5,133.21,South,Cash,Corporate,5.0,2024-06
+TXN01318,2024-04-15,Desk,Furniture,705.77,2,0,1411.54,North,Cash,Startup,4.0,2024-04
+TXN00571,2023-06-21,Desk,Furniture,463.91,4,0,1855.64,North,PayPal,Startup,5.0,2023-06
+TXN00366,2024-07-27,Notebook,Stationery,21.99,5,5,104.45,West,Debit Card,Corporate,4.0,2024-07
+TXN01138,2023-02-16,Backpack,Accessories,118.09,2,15,200.75,South,Bank Transfer,Individual,4.0,2023-02
+TXN01266,2023-03-09,Smartphone,Electronics,679.02,4,0,2716.08,South,Bank Transfer,Corporate,4.0,2023-03
+TXN00175,2023-11-03,Mouse,Accessories,133.34,5,5,633.36,North,Debit Card,Startup,3.0,2023-11
+TXN01961,2024-02-22,Notebook,Stationery,18.6,2,5,35.34,West,Credit Card,Individual,4.0,2024-02
+TXN00951,2023-09-28,Keyboard,Accessories,180.72,4,0,722.88,Central,Debit Card,Startup,4.0,2023-09
+TXN01224,2023-12-26,Headphones,Electronics,277.22,3,20,665.33,North,Bank Transfer,Startup,4.0,2023-12
+TXN00072,2023-02-03,Office Chair,Furniture,252.89,1,10,227.601,South,Debit Card,Corporate,4.0,2023-02
+TXN00922,2024-07-11,Backpack,Accessories,147.57,4,10,531.252,South,Credit Card,Startup,5.0,2024-07
+TXN00260,2023-09-11,Notebook,Stationery,13.36,5,10,60.12,East,Credit Card,Startup,3.0,2023-09
+TXN00052,2024-07-01,Notebook,Stationery,15.59,3,20,37.42,South,Bank Transfer,Enterprise,4.0,2024-07
+TXN00199,2024-03-02,Keyboard,Accessories,168.21,2,10,302.78,North,PayPal,Startup,5.0,2024-03
+TXN01646,2023-12-06,Smartphone,Electronics,384.57,4,20,1230.62,East,Cash,Startup,5.0,2023-12
+TXN01191,2024-01-20,Keyboard,Accessories,159.32,1,0,159.32,South,PayPal,Corporate,3.0,2024-01
+TXN00333,2024-07-19,Keyboard,Accessories,33.25,5,0,166.25,East,Bank Transfer,Enterprise,5.0,2024-07
+TXN01387,2023-01-13,Mouse,Accessories,21.29,2,10,38.32,South,Debit Card,Startup,1.0,2023-01
+TXN00615,2024-03-22,Headphones,Electronics,262.82,3,10,709.61,West,Bank Transfer,Startup,3.0,2024-03
+TXN01764,2023-01-15,Keyboard,Accessories,123.345,4,20,493.38,East,Cash,Startup,4.0,2023-01
+TXN00999,2024-01-16,Headphones,Electronics,239.26,1,0,239.26,Central,Credit Card,Corporate,5.0,2024-01
+TXN01183,2023-09-20,Notebook,Stationery,19.42,5,0,97.1,West,Bank Transfer,Enterprise,1.0,2023-09
+TXN01340,2024-08-12,Keyboard,Accessories,177.52,5,5,843.22,Central,Debit Card,Startup,5.0,2024-08
+TXN00933,2023-07-02,Notebook,Stationery,12.09,5,0,60.45,South,Debit Card,Corporate,3.0,2023-07
+TXN01668,2024-06-29,Backpack,Accessories,41.26,2,0,82.52,South,Bank Transfer,Enterprise,4.0,2024-06
+TXN00949,2023-12-15,Laptop,Electronics,1977.74,5,10,8899.83,East,Credit Card,Startup,4.0,2023-12
+TXN00427,2024-02-20,Monitor,Electronics,601.89,1,0,601.89,Central,Debit Card,Corporate,4.0,2024-02
+TXN01680,2024-10-15,Desk,Furniture,593.99,1,5,564.29,Central,Debit Card,Enterprise,4.0,2024-10
+TXN00680,2023-06-18,Desk,Furniture,522.4,3,15,1332.12,North,Debit Card,Startup,3.0,2023-06
+TXN00612,2024-09-12,Mouse,Accessories,133.26,3,10,359.8,West,Cash,Startup,5.0,2024-09
+TXN01019,2024-09-15,Desk,Furniture,396.01,4,0,1584.04,Unknown,PayPal,Corporate,5.0,2024-09
+TXN01231,2023-10-21,Laptop,Electronics,1276.69,4,0,5106.76,West,Credit Card,Individual,5.0,2023-10
+TXN00909,2023-05-18,Laptop,Electronics,1047.06,4,0,4188.24,North,Cash,Individual,5.0,2023-05
+TXN00556,2024-01-04,Monitor,Electronics,590.09,3,5,1681.76,East,Credit Card,Startup,5.0,2024-01
+TXN01610,2024-12-21,Headphones,Electronics,163.76,4,0,655.04,Central,Credit Card,Enterprise,3.0,2024-12
+TXN00399,2024-05-31,Desk,Furniture,411.78,1,15,350.01,West,Bank Transfer,Corporate,3.0,2024-05
+TXN00591,2023-02-19,Smartphone,Electronics,362.24,3,0,1086.72,North,PayPal,Corporate,4.0,2023-02
+TXN00463,2023-10-03,Backpack,Accessories,114.4,5,0,572.0,South,Bank Transfer,Startup,4.0,2023-10
+TXN00437,2024-06-15,Smartphone,Electronics,637.92,5,20,2551.68,Central,PayPal,Corporate,4.0,2024-06
+TXN00193,2024-07-28,Notebook,Stationery,13.71,2,20,21.94,Central,Credit Card,Individual,5.0,2024-07
+TXN01464,2023-09-16,Mouse,Accessories,100.34,4,0,401.36,East,Cash,Startup,4.0,2023-09
+TXN00638,2023-02-13,Monitor,Electronics,518.79,2,0,1037.58,Central,Credit Card,Startup,4.0,2023-02
+TXN00293,2023-10-02,Backpack,Accessories,86.75,3,10,234.22,West,Cash,Individual,4.0,2023-10
+TXN00757,2024-04-08,Office Chair,Furniture,565.68,5,0,2828.4,West,Debit Card,Individual,3.0,2024-04
+TXN01456,2023-05-10,Office Chair,Furniture,182.26,3,0,546.78,West,Credit Card,Individual,5.0,2023-05
+TXN00890,2024-07-23,Smartphone,Electronics,1099.68,2,0,2199.36,North,Cash,Startup,5.0,2024-07
+TXN01135,2023-01-15,Laptop,Electronics,1364.39,2,10,2455.9,West,PayPal,Enterprise,1.0,2023-01
+TXN01418,2024-03-16,Desk,Furniture,562.33,3,10,1518.29,North,PayPal,Enterprise,3.0,2024-03
+TXN00142,2024-08-07,Desk,Furniture,225.26,1,15,191.47,North,Credit Card,Enterprise,3.0,2024-08
+TXN00747,2024-06-20,Notebook,Stationery,13.81,3,5,39.36,West,PayPal,Individual,2.0,2024-06
+TXN00003,2024-07-14,Laptop,Electronics,1165.09,5,0,5825.45,East,Debit Card,Enterprise,3.0,2024-07
+TXN00986,2023-05-22,Laptop,Electronics,1814.66,1,15,1542.46,Central,Credit Card,Individual,5.0,2023-05
+TXN00577,2024-11-21,Mouse,Accessories,55.18,2,0,110.36,North,Bank Transfer,Enterprise,4.0,2024-11
+TXN01910,2024-09-21,Headphones,Electronics,322.94,4,0,1291.76,Central,PayPal,Enterprise,3.0,2024-09
+TXN01694,2023-11-05,Keyboard,Accessories,174.68,5,20,698.72,West,PayPal,Enterprise,5.0,2023-11
+TXN00340,2024-03-12,Desk,Furniture,705.34,1,5,670.07,North,PayPal,Individual,4.0,2024-03
+TXN01321,2023-01-14,Mouse,Accessories,109.3,4,0,437.2,West,PayPal,Startup,4.0,2023-01
+TXN00409,2023-05-17,Laptop,Electronics,818.47,4,15,2782.8,East,Credit Card,Corporate,4.0,2023-05
+TXN00837,2023-09-10,Keyboard,Accessories,51.37,1,0,51.37,South,PayPal,Individual,4.0,2023-09
+TXN00266,2023-07-15,Office Chair,Furniture,428.86,3,0,1286.58,South,PayPal,Startup,2.0,2023-07
+TXN00377,2023-09-23,Notebook,Stationery,26.93,4,0,107.72,West,Credit Card,Individual,3.0,2023-09
+TXN00713,2024-05-08,Monitor,Electronics,420.62,1,15,357.53,North,PayPal,Startup,4.0,2024-05
+TXN00495,2024-01-13,Keyboard,Accessories,48.2,1,10,43.38,East,Cash,Individual,5.0,2024-01
+TXN00440,2024-01-03,Backpack,Accessories,132.96,1,5,126.31,Unknown,Debit Card,Enterprise,3.0,2024-01
+TXN00272,2023-01-22,Smartphone,Electronics,736.23,5,0,3681.15,West,Debit Card,Corporate,4.0,2023-01
+TXN00185,2024-11-17,Monitor,Electronics,358.95,1,5,341.0,West,Bank Transfer,Individual,5.0,2024-11
+TXN00974,2023-07-24,Smartphone,Electronics,767.25,3,0,2301.75,North,PayPal,Corporate,4.0,2023-07
+TXN00245,2023-10-29,Smartphone,Electronics,872.46,5,20,3489.84,West,Cash,Enterprise,3.0,2023-10
+TXN00809,2024-03-08,Headphones,Electronics,110.62,4,0,442.48,West,Cash,Corporate,4.0,2024-03
+TXN00536,2023-01-12,Mouse,Accessories,32.13,3,10,86.75,North,PayPal,Individual,5.0,2023-01
+TXN00446,2023-07-26,Office Chair,Furniture,520.7,2,5,989.33,West,Cash,Corporate,4.0,2023-07
+TXN00618,2023-03-20,Office Chair,Furniture,394.92,1,0,394.92,South,Credit Card,Individual,4.0,2023-03
+TXN01133,2023-08-30,Monitor,Electronics,363.56,2,0,727.12,North,PayPal,Individual,3.0,2023-08
+TXN01129,2023-03-29,Laptop,Electronics,1503.02,5,0,7515.1,West,Cash,Corporate,5.0,2023-03
+TXN00527,2023-01-27,Headphones,Electronics,114.88,5,10,516.96,Central,Bank Transfer,Enterprise,5.0,2023-01
+TXN00945,2023-04-28,Office Chair,Furniture,445.03,4,20,1424.1,West,PayPal,Startup,4.0,2023-04
+TXN00611,2023-03-19,Smartphone,Electronics,357.32,3,15,911.17,South,Bank Transfer,Corporate,4.0,2023-03
+TXN00705,2023-07-30,Keyboard,Accessories,165.01,5,10,742.54,West,Debit Card,Corporate,5.0,2023-07
+TXN00416,2024-05-23,Mouse,Accessories,28.9,2,0,57.8,East,Credit Card,Startup,3.0,2024-05
+TXN00274,2024-01-18,Laptop,Electronics,1041.64,5,0,5208.2,West,Cash,Corporate,1.0,2024-01
+TXN00756,2024-09-10,Laptop,Electronics,928.6700000000001,3,0,2786.01,West,Bank Transfer,Individual,4.0,2024-09
+TXN01517,2023-12-29,Headphones,Electronics,169.58,5,0,847.9,South,Cash,Startup,4.0,2023-12
+TXN01484,2024-12-17,Desk,Furniture,552.98,3,5,1575.99,West,PayPal,Individual,4.0,2024-12
+TXN00251,2024-07-19,Backpack,Accessories,128.68,2,10,231.62,West,Credit Card,Corporate,5.0,2024-07
+TXN00414,2024-06-11,Smartphone,Electronics,959.46,2,5,1822.97,North,Debit Card,Corporate,5.0,2024-06
+TXN01334,2024-02-11,Smartphone,Electronics,1174.89,2,0,2349.78,South,Cash,Corporate,4.0,2024-02
+TXN00311,2023-04-15,Laptop,Electronics,1285.09,3,0,3855.27,East,PayPal,Startup,4.0,2023-04
+TXN01832,2023-10-20,Smartphone,Electronics,863.47,5,0,4317.35,North,Debit Card,Startup,5.0,2023-10
+TXN00580,2024-02-24,Backpack,Accessories,60.31,2,10,108.56,South,PayPal,Corporate,4.0,2024-02
+TXN00426,2024-09-07,Office Chair,Furniture,253.32,5,0,1266.6,Central,Bank Transfer,Corporate,5.0,2024-09
+TXN01915,2023-08-22,Keyboard,Accessories,142.11,1,0,142.11,West,Debit Card,Individual,4.0,2023-08
+TXN01625,2024-09-24,Keyboard,Accessories,147.77,3,0,443.31,South,PayPal,Individual,4.0,2024-09
+TXN00778,2024-02-26,Notebook,Stationery,13.97,1,0,13.97,South,Debit Card,Corporate,1.0,2024-02
+TXN01802,2024-08-06,Keyboard,Accessories,96.24,5,0,481.2,West,Credit Card,Individual,2.0,2024-08
+TXN01101,2023-06-19,Desk,Furniture,718.54,5,10,3233.43,West,Cash,Enterprise,3.0,2023-06
+TXN01051,2023-07-27,Headphones,Electronics,68.98,3,10,186.25,West,Cash,Startup,3.0,2023-07
+TXN01543,2023-11-26,Desk,Furniture,279.16,1,20,223.33,South,Debit Card,Individual,5.0,2023-11
+TXN00584,2024-08-10,Notebook,Stationery,18.67,2,0,37.34,North,Debit Card,Startup,4.0,2024-08
+TXN01084,2024-03-23,Desk,Furniture,426.35,5,10,1918.58,Central,Credit Card,Corporate,5.0,2024-03
+TXN00183,2024-11-06,Desk,Furniture,205.42,1,10,184.88,Central,PayPal,Corporate,2.0,2024-11
+TXN00171,2023-11-13,Smartphone,Electronics,337.07,4,0,1348.28,West,Credit Card,Corporate,4.0,2023-11
+TXN00583,2024-06-20,Mouse,Accessories,91.48,5,0,457.4,North,Debit Card,Startup,3.0,2024-06
+TXN01394,2024-10-13,Smartphone,Electronics,806.39,5,10,3628.76,East,Cash,Individual,5.0,2024-10
+TXN01917,2023-05-07,Office Chair,Furniture,464.72,4,0,1858.88,Central,Credit Card,Individual,3.0,2023-05
+TXN01684,2024-02-03,Office Chair,Furniture,150.05,5,0,750.25,West,PayPal,Startup,4.0,2024-02
+TXN00882,2024-02-26,Mouse,Accessories,88.01,2,0,176.02,West,Credit Card,Startup,5.0,2024-02
+TXN00807,2024-05-10,Laptop,Electronics,1423.05,4,0,5692.2,North,PayPal,Individual,4.0,2024-05
+TXN00273,2023-10-21,Headphones,Electronics,245.29,4,0,981.16,West,Debit Card,Startup,2.0,2023-10
+TXN01581,2023-06-05,Keyboard,Accessories,30.79,2,15,52.34,West,PayPal,Individual,5.0,2023-06
+TXN00716,2024-03-25,Notebook,Stationery,12.74,4,0,50.96,South,Cash,Corporate,5.0,2024-03
+TXN01519,2024-08-05,Headphones,Electronics,169.08,4,0,676.32,North,Bank Transfer,Individual,4.0,2024-08
+TXN00372,2023-03-15,Monitor,Electronics,805.88,4,0,3223.52,West,Cash,Enterprise,4.0,2023-03
+TXN00223,2023-06-13,Backpack,Accessories,132.03,5,15,561.13,East,Credit Card,Corporate,5.0,2023-06
+TXN00746,2023-08-08,Backpack,Accessories,135.42,5,0,677.1,West,Bank Transfer,Individual,5.0,2023-08
+TXN00582,2023-03-09,Backpack,Accessories,106.47,4,5,404.59,North,Debit Card,Enterprise,4.0,2023-03
+TXN01104,2023-06-30,Laptop,Electronics,1036.78,3,0,3110.34,East,PayPal,Individual,4.0,2023-06
+TXN00519,2023-09-05,Keyboard,Accessories,100.92,4,0,403.68,South,Credit Card,Corporate,5.0,2023-09
+TXN00335,2023-01-01,Keyboard,Accessories,37.51,4,10,135.04,North,Bank Transfer,Enterprise,5.0,2023-01
+TXN01925,2024-11-21,Laptop,Electronics,1438.68,2,0,2877.36,East,Debit Card,Corporate,4.0,2024-11
+TXN01335,2024-07-11,Keyboard,Accessories,117.02,3,5,333.51,South,PayPal,Corporate,5.0,2024-07
+TXN01158,2024-08-01,Laptop,Electronics,1008.29,3,0,3024.87,North,Credit Card,Corporate,4.0,2024-08
+TXN01955,2024-12-21,Keyboard,Accessories,83.74,4,0,334.96,South,Credit Card,Enterprise,5.0,2024-12
+TXN00016,2023-01-28,Smartphone,Electronics,861.92,1,0,861.92,North,Cash,Corporate,5.0,2023-01
+TXN00702,2024-12-10,Backpack,Accessories,193.42,5,5,918.74,Central,PayPal,Enterprise,5.0,2024-12
+TXN01860,2023-12-02,Laptop,Electronics,1142.78,1,0,1142.78,North,Cash,Startup,4.0,2023-12
+TXN01872,2023-04-23,Keyboard,Accessories,121.7,3,5,346.84,North,PayPal,Individual,5.0,2023-04
+TXN01720,2023-07-10,Keyboard,Accessories,71.84,5,0,359.2,North,Credit Card,Corporate,3.0,2023-07
+TXN01681,2023-08-12,Office Chair,Furniture,429.25,5,0,2146.25,West,PayPal,Enterprise,3.0,2023-08
+TXN00937,2023-08-17,Laptop,Electronics,952.52,4,0,3810.08,West,Debit Card,Startup,3.0,2023-08
+TXN00466,2023-04-03,Mouse,Accessories,77.17,3,0,231.51,North,Cash,Corporate,3.0,2023-04
+TXN01823,2024-06-29,Backpack,Accessories,179.11,1,0,179.11,East,PayPal,Startup,4.0,2024-06
+TXN00200,2023-02-20,Desk,Furniture,738.82,1,5,701.88,North,Bank Transfer,Individual,4.0,2023-02
+TXN01232,2024-06-22,Mouse,Accessories,28.04,1,15,28.04,North,PayPal,Corporate,4.0,2024-06
+TXN01079,2023-12-15,Backpack,Accessories,190.04,3,0,570.12,North,Cash,Enterprise,5.0,2023-12
+TXN01351,2024-01-04,Mouse,Accessories,22.4,5,0,112.0,West,Bank Transfer,Individual,3.0,2024-01
+TXN01327,2023-11-03,Mouse,Accessories,81.01,5,0,405.05,Central,Bank Transfer,Enterprise,4.0,2023-11
+TXN01667,2023-06-10,Mouse,Accessories,95.78,4,0,383.12,Central,Debit Card,Startup,5.0,2023-06
+TXN01353,2024-03-03,Smartphone,Electronics,677.17,1,0,677.17,South,Cash,Startup,4.0,2024-03
+TXN01429,2023-04-27,Keyboard,Accessories,128.15,3,0,384.45,North,Cash,Corporate,4.0,2023-04
+TXN01442,2023-08-24,Mouse,Accessories,58.21,2,5,110.6,North,Cash,Corporate,4.0,2023-08
+TXN01360,2023-09-24,Keyboard,Accessories,192.44,3,5,548.45,South,Cash,Corporate,4.0,2023-09
+TXN00693,2024-12-07,Office Chair,Furniture,572.49,4,0,2289.96,West,Debit Card,Individual,4.0,2024-12
+TXN00589,2023-03-06,Desk,Furniture,460.43,5,20,1841.72,South,PayPal,Enterprise,5.0,2023-03
+TXN00044,2024-11-27,Headphones,Electronics,124.32,3,10,335.66,South,Cash,Individual,2.0,2024-11
+TXN00275,2024-01-16,Mouse,Accessories,134.12,4,15,456.01,East,Debit Card,Enterprise,5.0,2024-01
+TXN01122,2024-04-21,Office Chair,Furniture,514.64,1,0,514.64,Central,Credit Card,Enterprise,4.0,2024-04
+TXN00102,2023-06-06,Mouse,Accessories,98.51,5,0,492.55,North,Cash,Individual,5.0,2023-06
+TXN01006,2024-11-26,Laptop,Electronics,1911.54,3,0,5734.62,East,Credit Card,Startup,4.0,2024-11
+TXN01310,2023-01-15,Smartphone,Electronics,537.56,4,0,2150.24,South,Bank Transfer,Individual,1.0,2023-01
+TXN01211,2023-07-20,Desk,Furniture,390.95,4,0,1563.8,North,PayPal,Corporate,4.0,2023-07
+TXN00108,2023-11-05,Keyboard,Accessories,68.66,5,0,343.3,South,Cash,Individual,1.0,2023-11
+TXN01805,2023-05-26,Backpack,Accessories,70.29,3,10,189.78,Central,Debit Card,Individual,5.0,2023-05
+TXN00498,2024-10-24,Smartphone,Electronics,395.27,3,5,1126.52,West,Debit Card,Corporate,4.0,2024-10
+TXN00915,2024-02-14,Backpack,Accessories,96.1,1,5,96.1,South,Bank Transfer,Startup,4.0,2024-02
+TXN00782,2023-07-29,Monitor,Electronics,483.19,1,10,434.87,Central,Cash,Enterprise,4.0,2023-07
+TXN00728,2023-11-22,Backpack,Accessories,128.64,1,0,128.64,West,PayPal,Corporate,5.0,2023-11
+TXN01132,2023-07-16,Office Chair,Furniture,368.38,5,15,1565.62,Unknown,Credit Card,Enterprise,4.0,2023-07
+TXN01324,2023-10-17,Notebook,Stationery,23.73,4,0,94.92,North,Credit Card,Individual,5.0,2023-10
+TXN01778,2023-09-04,Mouse,Accessories,68.2,3,0,204.6,East,PayPal,Enterprise,4.0,2023-09
+TXN00839,2024-07-27,Keyboard,Accessories,118.09,3,5,336.56,Central,Credit Card,Individual,5.0,2024-07
+TXN00073,2023-02-23,Monitor,Electronics,790.39,2,15,1343.66,Central,PayPal,Individual,4.0,2023-02
+TXN00820,2023-10-07,Notebook,Stationery,11.46,2,0,22.92,West,Bank Transfer,Individual,4.0,2023-10
+TXN01240,2023-03-12,Headphones,Electronics,140.2,1,5,133.19,Central,PayPal,Individual,4.0,2023-03
+TXN01193,2024-11-08,Headphones,Electronics,205.29,1,0,205.29,South,Bank Transfer,Startup,4.0,2024-11
+TXN00655,2023-10-28,Notebook,Stationery,10.1,1,10,9.09,South,PayPal,Enterprise,4.0,2023-10
+TXN00482,2024-09-19,Desk,Furniture,657.74,1,0,657.74,West,Cash,Corporate,5.0,2024-09
+TXN01092,2023-06-25,Mouse,Accessories,123.16,3,10,332.53,North,PayPal,Startup,4.0,2023-06
+TXN00507,2024-12-10,Notebook,Stationery,28.43,2,0,56.86,West,Debit Card,Corporate,4.0,2024-12
+TXN01602,2023-03-02,Monitor,Electronics,511.97,3,0,1535.91,East,Bank Transfer,Enterprise,4.0,2023-03
+TXN00884,2024-01-06,Notebook,Stationery,25.08,2,10,45.14,South,Bank Transfer,Corporate,4.0,2024-01
+TXN01779,2024-02-27,Smartphone,Electronics,796.58,3,5,2270.25,East,Debit Card,Enterprise,5.0,2024-02
+TXN00766,2024-10-10,Smartphone,Electronics,1015.6,5,20,4062.4,North,Credit Card,Corporate,4.0,2024-10
+TXN01587,2024-01-08,Office Chair,Furniture,597.02,3,10,1611.95,North,Debit Card,Startup,4.0,2024-01
+TXN01011,2024-01-08,Mouse,Accessories,117.81,1,0,117.81,West,Bank Transfer,Individual,4.0,2024-01
+TXN00312,2024-06-23,Smartphone,Electronics,424.98,1,5,403.73,North,PayPal,Individual,5.0,2024-06
+TXN00858,2023-08-22,Desk,Furniture,734.79,1,0,734.79,West,Credit Card,Startup,4.0,2023-08
+TXN00406,2023-10-10,Desk,Furniture,209.07,3,0,627.21,West,Credit Card,Enterprise,4.0,2023-10
+TXN00753,2023-08-03,Smartphone,Electronics,1185.54,1,0,1185.54,West,PayPal,Enterprise,3.0,2023-08
+TXN01207,2023-03-09,Notebook,Stationery,22.75,4,0,91.0,West,Cash,Corporate,5.0,2023-03
+TXN00310,2024-08-16,Smartphone,Electronics,403.04,1,0,403.04,North,Cash,Enterprise,5.0,2024-08
+TXN00227,2023-02-25,Notebook,Stationery,10.29,3,10,27.78,South,PayPal,Individual,3.0,2023-02
+TXN01733,2023-09-02,Monitor,Electronics,635.52,3,0,1906.56,West,Debit Card,Corporate,3.0,2023-09
+TXN01815,2024-10-26,Laptop,Electronics,1707.92,1,0,1707.92,East,Debit Card,Startup,5.0,2024-10
+TXN01560,2024-02-01,Keyboard,Accessories,130.08,1,10,117.07,North,Debit Card,Enterprise,4.0,2024-02
+TXN00856,2023-10-30,Headphones,Electronics,194.75,3,0,584.25,North,Debit Card,Enterprise,4.0,2023-10
+TXN01048,2023-12-22,Desk,Furniture,663.51,1,0,663.51,West,Bank Transfer,Enterprise,4.0,2023-12
+TXN00149,2023-08-14,Notebook,Stationery,25.24,1,5,23.98,South,PayPal,Individual,2.0,2023-08
+TXN01798,2023-10-06,Backpack,Accessories,127.48,5,10,573.66,North,PayPal,Startup,3.0,2023-10
+TXN01081,2023-04-03,Backpack,Accessories,178.93,1,0,178.93,Central,Cash,Individual,4.0,2023-04
+TXN00862,2023-10-24,Headphones,Electronics,74.01,5,15,314.54,Central,Bank Transfer,Corporate,2.0,2023-10
+TXN00846,2024-09-03,Mouse,Accessories,23.07,5,0,115.35,North,Cash,Enterprise,5.0,2024-09
+TXN01390,2024-07-28,Desk,Furniture,627.82,1,5,596.43,West,Credit Card,Individual,4.0,2024-07
+TXN00576,2023-02-04,Headphones,Electronics,105.34,4,0,421.36,North,Bank Transfer,Individual,4.0,2023-02
+TXN00558,2023-09-26,Headphones,Electronics,323.4,5,0,1617.0,West,Credit Card,Enterprise,4.0,2023-09
+TXN00722,2024-04-05,Monitor,Electronics,483.13,4,0,1932.52,Central,Bank Transfer,Startup,4.0,2024-04
+TXN01913,2024-09-04,Backpack,Accessories,187.13,2,0,374.26,West,PayPal,Corporate,3.0,2024-09
+TXN01988,2023-11-21,Smartphone,Electronics,495.02,4,0,1980.08,Central,Bank Transfer,Individual,4.0,2023-11
+TXN01732,2023-08-07,Laptop,Electronics,1220.78,2,0,2441.56,North,Cash,Startup,3.0,2023-08
+TXN01980,2023-03-09,Headphones,Electronics,317.09,4,0,1268.36,North,PayPal,Startup,3.0,2023-03
+TXN00994,2024-04-25,Mouse,Accessories,141.04,5,5,669.94,South,Credit Card,Individual,4.0,2024-04
+TXN00287,2023-03-07,Headphones,Electronics,59.33,5,5,281.82,South,Cash,Startup,3.0,2023-03
+TXN01636,2023-08-09,Backpack,Accessories,152.16,5,0,760.8,South,Credit Card,Corporate,4.0,2023-08
+TXN01722,2023-07-14,Smartphone,Electronics,1155.5,2,0,2311.0,West,Cash,Startup,3.0,2023-07
+TXN00629,2024-06-04,Office Chair,Furniture,538.32,5,10,2422.44,North,Cash,Corporate,3.0,2024-06
+TXN00599,2024-04-23,Smartphone,Electronics,554.96,4,0,2219.84,North,Credit Card,Individual,5.0,2024-04
+TXN00966,2023-06-27,Smartphone,Electronics,1049.69,1,0,1049.69,North,Debit Card,Startup,5.0,2023-06
+TXN01594,2024-06-13,Notebook,Stationery,27.5,2,5,52.25,South,Credit Card,Corporate,5.0,2024-06
+TXN01669,2023-01-29,Monitor,Electronics,475.28,5,15,2019.94,South,Credit Card,Startup,2.0,2023-01
+TXN01619,2023-08-06,Notebook,Stationery,20.62,2,0,41.24,West,PayPal,Corporate,4.0,2023-08
+TXN01076,2024-03-29,Headphones,Electronics,60.86,1,10,54.77,South,PayPal,Startup,4.0,2024-03
+TXN01256,2024-11-13,Laptop,Electronics,1253.56,2,0,2507.12,East,Debit Card,Startup,5.0,2024-11
+TXN00835,2023-03-06,Desk,Furniture,217.58,3,0,652.74,North,Debit Card,Individual,4.0,2023-03
+TXN00938,2024-01-10,Laptop,Electronics,1961.29,4,0,7845.16,East,Cash,Startup,2.0,2024-01
+TXN00783,2024-08-26,Backpack,Accessories,154.81,5,20,619.24,East,Debit Card,Enterprise,2.0,2024-08
+TXN01230,2023-09-05,Laptop,Electronics,1394.07,3,0,4182.21,West,Debit Card,Corporate,5.0,2023-09
+TXN01853,2024-07-30,Office Chair,Furniture,296.69,4,0,1186.76,West,PayPal,Corporate,5.0,2024-07
+TXN00610,2024-03-14,Mouse,Accessories,32.68,5,0,163.4,East,PayPal,Corporate,3.0,2024-03
+TXN01432,2023-12-26,Backpack,Accessories,131.99,5,10,593.96,East,Debit Card,Individual,3.0,2023-12
+TXN00825,2023-07-29,Notebook,Stationery,23.23,1,10,20.91,North,Bank Transfer,Corporate,1.0,2023-07
+TXN01451,2023-07-05,Notebook,Stationery,12.5,4,0,50.0,Central,Bank Transfer,Corporate,4.0,2023-07
+TXN01037,2023-08-21,Keyboard,Accessories,185.17,1,0,185.17,South,Cash,Enterprise,4.0,2023-08
+TXN00494,2023-12-17,Backpack,Accessories,146.16,2,10,263.09,South,Cash,Startup,3.0,2023-12
+TXN01588,2024-02-15,Notebook,Stationery,23.17,3,0,69.51,East,Debit Card,Corporate,5.0,2024-02
+TXN00278,2024-07-12,Backpack,Accessories,132.41,5,0,662.05,North,Debit Card,Corporate,4.0,2024-07
+TXN01886,2023-01-08,Monitor,Electronics,760.52,1,0,760.52,East,Cash,Startup,3.0,2023-01
+TXN00359,2023-08-13,Office Chair,Furniture,531.18,1,0,531.18,East,Bank Transfer,Corporate,3.0,2023-08
+TXN01673,2024-06-11,Office Chair,Furniture,325.58,4,0,1302.32,South,Credit Card,Corporate,3.0,2024-06
+TXN00237,2023-04-11,Headphones,Electronics,81.71,4,0,326.84,North,Credit Card,Startup,5.0,2023-04
+TXN00552,2024-09-12,Headphones,Electronics,249.99,4,5,949.96,South,Cash,Startup,4.0,2024-09
+TXN01907,2024-04-28,Desk,Furniture,434.42,2,15,738.51,South,Debit Card,Enterprise,1.0,2024-04
+TXN00931,2023-07-28,Headphones,Electronics,268.86,1,10,241.97,East,Bank Transfer,Individual,4.0,2023-07
+TXN00209,2023-09-20,Backpack,Accessories,119.48,2,0,238.96,West,PayPal,Corporate,4.0,2023-09
+TXN01415,2024-05-02,Desk,Furniture,699.67,2,10,1259.41,West,PayPal,Individual,5.0,2024-05
+TXN01592,2023-06-10,Smartphone,Electronics,481.36,3,0,1444.08,East,Debit Card,Individual,4.0,2023-06
+TXN00059,2023-03-11,Laptop,Electronics,1936.7,1,5,1839.86,West,PayPal,Individual,4.0,2023-03
+TXN00632,2023-06-07,Headphones,Electronics,149.05,2,10,268.29,North,Debit Card,Individual,4.0,2023-06
+TXN01616,2023-04-05,Mouse,Accessories,94.08,2,0,188.16,West,PayPal,Corporate,4.0,2023-04
+TXN01899,2023-08-30,Backpack,Accessories,96.57,3,0,289.71,South,Cash,Corporate,5.0,2023-08
+TXN01609,2024-08-13,Notebook,Stationery,7.54,1,0,7.54,North,Debit Card,Individual,4.0,2024-08
+TXN00364,2023-06-08,Laptop,Electronics,1936.87,4,0,7747.48,West,Debit Card,Corporate,3.0,2023-06
+TXN00506,2024-12-09,Laptop,Electronics,1130.91,3,0,3392.73,Central,Credit Card,Startup,4.0,2024-12
+TXN01493,2023-02-22,Mouse,Accessories,128.98,3,5,367.59,East,Debit Card,Individual,4.0,2023-02
+TXN01147,2024-06-26,Office Chair,Furniture,395.66,3,0,1186.98,North,Cash,Individual,4.0,2024-06
+TXN01709,2023-09-17,Desk,Furniture,789.36,1,5,749.89,North,Debit Card,Startup,4.0,2023-09
+TXN01885,2023-03-26,Laptop,Electronics,1293.01,2,0,2586.02,West,Credit Card,Individual,4.0,2023-03
+TXN01647,2024-06-11,Keyboard,Accessories,82.03,5,5,389.64,Central,PayPal,Individual,3.0,2024-06
+TXN01406,2023-12-14,Desk,Furniture,382.62,2,0,765.24,West,PayPal,Startup,5.0,2023-12
+TXN01007,2024-12-22,Backpack,Accessories,148.97,4,0,595.88,Central,PayPal,Enterprise,2.0,2024-12
+TXN00119,2023-05-27,Smartphone,Electronics,311.7,1,0,311.7,North,PayPal,Enterprise,4.0,2023-05
+TXN01275,2023-10-22,Notebook,Stationery,22.48,2,0,44.96,East,Debit Card,Corporate,4.0,2023-10
+TXN00793,2024-07-13,Headphones,Electronics,244.48,3,15,623.42,North,PayPal,Startup,4.0,2024-07
+TXN00523,2023-11-29,Backpack,Accessories,165.98,2,5,315.36,East,Debit Card,Corporate,3.0,2023-11
+TXN00514,2024-09-11,Keyboard,Accessories,171.6,2,0,343.2,South,Debit Card,Corporate,3.0,2024-09
+TXN00082,2024-12-19,Laptop,Electronics,901.42,3,0,2704.26,East,Debit Card,Enterprise,4.0,2024-12
+TXN00939,2023-10-22,Notebook,Stationery,21.6,2,15,36.72,Unknown,Bank Transfer,Startup,3.0,2023-10
+TXN01042,2024-09-10,Headphones,Electronics,81.4,3,0,244.2,Central,Bank Transfer,Enterprise,4.0,2024-09
+TXN00381,2023-09-28,Keyboard,Accessories,35.58,1,0,35.58,Central,Credit Card,Startup,2.0,2023-09
+TXN01822,2023-06-14,Notebook,Stationery,8.13,3,0,24.39,East,Debit Card,Individual,2.0,2023-06
+TXN01833,2023-02-09,Keyboard,Accessories,148.4,1,5,140.98,West,Credit Card,Enterprise,4.0,2023-02
+TXN00085,2024-06-20,Backpack,Accessories,174.51,2,0,349.02,Central,Cash,Individual,4.0,2024-06
+TXN01712,2024-02-20,Mouse,Accessories,24.4,4,0,97.6,East,Debit Card,Startup,5.0,2024-02
+TXN01531,2024-01-25,Backpack,Accessories,96.23,3,0,288.69,Central,Debit Card,Individual,5.0,2024-01
+TXN00330,2024-08-09,Office Chair,Furniture,538.6,2,0,1077.2,North,PayPal,Startup,5.0,2024-08
+TXN00007,2024-12-30,Notebook,Stationery,19.19,5,20,76.76,South,Debit Card,Corporate,5.0,2024-12
+TXN01188,2024-11-21,Headphones,Electronics,332.78,2,0,665.56,West,Cash,Startup,4.0,2024-11
+TXN01271,2024-02-20,Headphones,Electronics,166.9,5,0,834.5,South,Credit Card,Startup,4.0,2024-02
+TXN01819,2024-01-01,Desk,Furniture,559.39,2,0,1118.78,North,Cash,Startup,1.0,2024-01
+TXN00907,2023-05-24,Keyboard,Accessories,151.57,1,0,151.57,North,Bank Transfer,Startup,4.0,2023-05
+TXN00452,2023-12-22,Monitor,Electronics,259.35,2,10,466.83,North,PayPal,Corporate,4.0,2023-12
+TXN00491,2024-12-20,Mouse,Accessories,90.33,4,0,361.32,East,Cash,Startup,2.0,2024-12
+TXN01512,2024-06-27,Laptop,Electronics,1085.24,4,0,4340.96,South,Debit Card,Startup,2.0,2024-06
+TXN00288,2024-10-01,Backpack,Accessories,144.85,1,10,130.36,East,Cash,Corporate,4.0,2024-10
+TXN00944,2023-04-06,Smartphone,Electronics,1140.23,3,5,3249.66,North,Bank Transfer,Individual,4.0,2023-04
+TXN01352,2023-08-15,Office Chair,Furniture,322.26,3,5,918.44,West,Bank Transfer,Enterprise,5.0,2023-08
+TXN01396,2023-08-11,Keyboard,Accessories,42.42,3,10,114.53,Central,Cash,Enterprise,4.0,2023-08
+TXN01868,2023-12-21,Laptop,Electronics,1395.32,4,10,5023.15,East,Cash,Corporate,3.0,2023-12
+TXN01757,2023-03-07,Laptop,Electronics,1316.86,2,5,2502.03,South,PayPal,Individual,4.0,2023-03
+TXN01305,2023-07-13,Backpack,Accessories,106.94,3,10,288.74,East,Debit Card,Corporate,4.0,2023-07
+TXN01736,2023-02-07,Desk,Furniture,709.48,1,15,603.06,Central,PayPal,Startup,4.0,2023-02
+TXN01953,2024-10-18,Smartphone,Electronics,619.47,3,15,1579.65,North,Credit Card,Enterprise,5.0,2024-10
+TXN01467,2023-12-19,Headphones,Electronics,240.22,4,0,960.88,East,PayPal,Corporate,5.0,2023-12
+TXN01341,2023-02-22,Office Chair,Furniture,326.12,2,0,652.24,South,Cash,Enterprise,5.0,2023-02
+TXN01112,2024-12-27,Laptop,Electronics,1212.89,4,0,4851.56,West,Debit Card,Enterprise,5.0,2024-12
+TXN01689,2023-01-23,Laptop,Electronics,1040.38,2,0,2080.76,North,Cash,Enterprise,5.0,2023-01
+TXN00328,2023-09-24,Office Chair,Furniture,558.12,3,15,1423.21,South,Cash,Corporate,3.0,2023-09
+TXN00443,2023-08-25,Monitor,Electronics,501.04,3,0,1503.12,North,Cash,Corporate,4.0,2023-08
+TXN01660,2023-01-09,Headphones,Electronics,191.23,4,0,764.92,East,Credit Card,Individual,5.0,2023-01
+TXN01103,2024-02-02,Monitor,Electronics,257.775,2,5,515.55,Central,Cash,Individual,4.0,2024-02
+TXN01488,2023-08-30,Headphones,Electronics,231.27,3,10,624.43,South,PayPal,Corporate,4.0,2023-08
+TXN01461,2023-12-23,Keyboard,Accessories,45.13,5,10,203.08,West,Debit Card,Individual,2.0,2023-12
+TXN00178,2023-04-27,Laptop,Electronics,1416.8,1,0,1416.8,South,Cash,Corporate,4.0,2023-04
+TXN00786,2024-05-20,Monitor,Electronics,807.79,2,20,1292.46,West,Credit Card,Enterprise,2.0,2024-05
+TXN01385,2023-12-12,Mouse,Accessories,108.74,3,0,326.22,South,Cash,Startup,4.0,2023-12
+TXN00087,2024-03-18,Backpack,Accessories,93.99,4,5,357.16,South,Bank Transfer,Corporate,4.0,2024-03
+TXN01437,2024-10-05,Desk,Furniture,348.57,5,0,1742.85,North,Debit Card,Individual,4.0,2024-10
+TXN01940,2024-03-16,Notebook,Stationery,23.09,5,5,109.68,North,PayPal,Enterprise,4.0,2024-03
+TXN00458,2024-10-15,Monitor,Electronics,545.86,1,10,491.27,North,Debit Card,Enterprise,1.0,2024-10
+TXN01867,2024-02-24,Keyboard,Accessories,103.67,3,0,311.01,South,Credit Card,Enterprise,4.0,2024-02
+TXN00055,2024-01-31,Office Chair,Furniture,408.05,5,0,2040.25,South,PayPal,Individual,5.0,2024-01
+TXN01533,2024-04-10,Notebook,Stationery,7.89,5,0,39.45,East,Cash,Enterprise,4.0,2024-04
+TXN00644,2023-05-10,Laptop,Electronics,1031.79,3,10,2785.83,South,Debit Card,Startup,4.0,2023-05
+TXN00678,2023-04-18,Notebook,Stationery,17.87,4,15,60.76,Central,Bank Transfer,Individual,4.0,2023-04
+TXN00222,2023-05-10,Backpack,Accessories,91.6,3,0,274.8,North,Cash,Corporate,4.0,2023-05
+TXN00114,2023-06-24,Mouse,Accessories,96.37,1,10,86.73,East,Cash,Individual,4.0,2023-06
+TXN01161,2023-08-20,Desk,Furniture,403.5,5,0,2017.5,West,Debit Card,Corporate,5.0,2023-08
+TXN01337,2024-06-08,Smartphone,Electronics,524.44,3,0,1573.32,North,Debit Card,Corporate,1.0,2024-06
+TXN01030,2024-04-25,Headphones,Electronics,94.07,1,0,94.07,North,Bank Transfer,Individual,4.0,2024-04
+TXN00808,2023-05-17,Office Chair,Furniture,395.17,2,15,671.79,West,Cash,Corporate,4.0,2023-05
+TXN00590,2024-04-07,Keyboard,Accessories,130.13,5,5,618.1175,North,Credit Card,Startup,4.0,2024-04
+TXN01987,2023-04-23,Headphones,Electronics,207.85,4,0,831.4,North,Debit Card,Individual,5.0,2023-04
+TXN00019,2024-05-11,Monitor,Electronics,392.2,1,0,392.2,South,Cash,Corporate,4.0,2024-05
+TXN00424,2024-10-23,Backpack,Accessories,52.42,5,0,262.1,East,Bank Transfer,Corporate,5.0,2024-10
+TXN01982,2024-03-30,Laptop,Electronics,1541.29,1,0,1541.29,Central,Bank Transfer,Enterprise,4.0,2024-03
+TXN00286,2023-10-06,Headphones,Electronics,185.11,2,5,351.71,East,Credit Card,Individual,5.0,2023-10
+TXN01615,2024-07-30,Headphones,Electronics,79.93,4,0,319.72,North,Debit Card,Startup,4.0,2024-07
+TXN00429,2023-10-16,Mouse,Accessories,100.12,5,0,500.6,South,PayPal,Startup,4.0,2023-10
+TXN01541,2023-04-13,Backpack,Accessories,58.94,4,10,212.18,South,Debit Card,Individual,3.0,2023-04
+TXN01420,2023-02-11,Keyboard,Accessories,59.7,5,0,298.5,East,Debit Card,Enterprise,4.0,2023-02
+TXN00670,2023-02-26,Mouse,Accessories,62.2,5,0,311.0,North,Credit Card,Startup,5.0,2023-02
+TXN00032,2024-05-30,Laptop,Electronics,1034.29,5,0,5171.45,North,Credit Card,Enterprise,3.0,2024-05
+TXN01995,2023-11-20,Smartphone,Electronics,727.82,3,0,2183.46,Central,Credit Card,Corporate,4.0,2023-11
+TXN00723,2024-08-11,Office Chair,Furniture,290.78,3,5,828.72,South,Cash,Enterprise,4.0,2024-08
+TXN01166,2023-06-21,Keyboard,Accessories,98.33,3,0,294.99,West,Cash,Enterprise,4.0,2023-06
+TXN00215,2024-09-24,Backpack,Accessories,67.28,2,0,134.56,West,Cash,Individual,4.0,2024-09
+TXN01924,2023-11-28,Monitor,Electronics,756.48,5,0,3782.4,North,Debit Card,Corporate,4.0,2023-11
+TXN01272,2023-03-07,Mouse,Accessories,40.57,5,5,192.71,West,Debit Card,Startup,5.0,2023-03
+TXN00327,2023-06-14,Smartphone,Electronics,861.07,1,10,774.96,West,Cash,Individual,4.0,2023-06
+TXN00561,2023-03-20,Headphones,Electronics,185.52,4,0,742.08,East,Credit Card,Startup,1.0,2023-03
+TXN00701,2023-04-02,Monitor,Electronics,840.76,2,0,1681.52,Central,Cash,Enterprise,4.0,2023-04
+TXN00775,2024-11-12,Notebook,Stationery,15.88,3,0,47.64,West,Cash,Individual,3.0,2024-11
+TXN01976,2023-08-27,Smartphone,Electronics,393.24,4,15,1337.02,South,Cash,Enterprise,3.0,2023-08
+TXN00342,2024-02-16,Office Chair,Furniture,436.69,2,0,873.38,North,Bank Transfer,Enterprise,3.0,2024-02
+TXN00630,2023-03-06,Headphones,Electronics,55.48,4,10,199.73,Central,Credit Card,Enterprise,4.0,2023-03
+TXN00148,2024-09-26,Desk,Furniture,254.89,1,0,254.89,North,Credit Card,Startup,4.0,2024-09
+TXN01223,2024-09-27,Desk,Furniture,319.63,1,10,287.67,West,Cash,Individual,5.0,2024-09
+TXN00361,2024-08-30,Office Chair,Furniture,581.01,1,0,581.01,West,PayPal,Startup,4.0,2024-08
+TXN00084,2023-07-11,Smartphone,Electronics,702.67,3,0,2108.01,South,Bank Transfer,Enterprise,1.0,2023-07
+TXN00049,2023-10-12,Headphones,Electronics,296.13,2,0,592.26,North,Debit Card,Individual,2.0,2023-10
+TXN00469,2024-03-21,Mouse,Accessories,59.47,3,0,178.41,Central,Credit Card,Startup,4.0,2024-03
+TXN00156,2023-08-10,Backpack,Accessories,194.08,4,5,737.5,West,Cash,Enterprise,4.0,2023-08
+TXN01125,2024-01-16,Mouse,Accessories,131.44,5,0,657.2,Central,Debit Card,Startup,4.0,2024-01
+TXN01054,2023-10-24,Keyboard,Accessories,56.14,1,0,56.14,West,Bank Transfer,Individual,5.0,2023-10
+TXN01226,2023-01-16,Smartphone,Electronics,578.79,5,10,2604.55,South,Bank Transfer,Enterprise,4.0,2023-01
+TXN01842,2024-07-24,Backpack,Accessories,103.81,4,15,352.95,South,Debit Card,Startup,3.0,2024-07
+TXN01468,2024-10-25,Headphones,Electronics,180.09,1,0,180.09,Central,Bank Transfer,Individual,3.0,2024-10
+TXN01761,2023-11-01,Keyboard,Accessories,194.89,5,15,828.28,North,Debit Card,Enterprise,5.0,2023-11
+TXN00501,2024-03-20,Keyboard,Accessories,59.33,3,10,160.19,North,Cash,Corporate,5.0,2024-03
+TXN01801,2024-01-19,Backpack,Accessories,181.65,2,15,308.8,North,Debit Card,Individual,5.0,2024-01
+TXN00180,2024-06-03,Mouse,Accessories,128.68,1,0,128.68,South,Debit Card,Enterprise,4.0,2024-06
+TXN01671,2024-04-09,Headphones,Electronics,274.33,5,0,1371.65,Central,PayPal,Corporate,5.0,2024-04
+TXN01792,2024-03-18,Desk,Furniture,610.24,2,0,1220.48,East,Bank Transfer,Startup,4.0,2024-03
+TXN00860,2024-11-01,Mouse,Accessories,121.77,4,0,487.08,Central,Bank Transfer,Startup,5.0,2024-11
+TXN00910,2023-10-12,Headphones,Electronics,203.0,5,0,1015.0,Central,Debit Card,Individual,5.0,2023-10
+TXN01182,2023-12-09,Office Chair,Furniture,325.53,3,0,976.59,South,PayPal,Corporate,5.0,2023-12
+TXN01651,2024-11-15,Office Chair,Furniture,411.08,5,0,2055.4,South,Cash,Individual,2.0,2024-11
+TXN00529,2024-07-03,Monitor,Electronics,418.89,4,15,1424.23,North,Credit Card,Enterprise,4.0,2024-07
+TXN00347,2024-12-29,Notebook,Stationery,6.06,5,0,30.3,West,Debit Card,Startup,3.0,2024-12
+TXN01655,2023-10-13,Desk,Furniture,603.63,3,0,1810.89,West,Bank Transfer,Individual,4.0,2023-10
+TXN01254,2024-08-03,Desk,Furniture,417.99,4,0,1671.96,North,Cash,Startup,4.0,2024-08
+TXN01978,2023-11-07,Laptop,Electronics,1366.21,1,15,1161.28,North,Credit Card,Corporate,4.0,2023-11
+TXN00254,2023-04-29,Office Chair,Furniture,231.59,5,0,1157.95,Central,Bank Transfer,Corporate,5.0,2023-04
+TXN01038,2024-05-05,Desk,Furniture,452.67,5,5,2150.18,North,Debit Card,Startup,3.0,2024-05
+TXN00602,2024-05-23,Backpack,Accessories,62.02,3,0,186.06,North,Cash,Enterprise,4.0,2024-05
+TXN01909,2024-11-22,Backpack,Accessories,174.87,1,0,174.87,South,Debit Card,Enterprise,4.0,2024-11
+TXN00244,2023-05-02,Office Chair,Furniture,204.68,3,15,521.93,West,Credit Card,Enterprise,5.0,2023-05
+TXN00924,2023-11-17,Smartphone,Electronics,1120.42,1,10,1008.38,North,PayPal,Startup,5.0,2023-11
+TXN01091,2023-06-03,Smartphone,Electronics,483.81,4,0,1935.24,North,Credit Card,Enterprise,3.0,2023-06
+TXN01506,2024-01-13,Mouse,Accessories,108.8,1,0,108.8,South,PayPal,Startup,5.0,2024-01
+TXN00313,2023-09-25,Monitor,Electronics,788.86,2,0,1577.72,South,Credit Card,Startup,4.0,2023-09
+TXN00436,2023-10-19,Smartphone,Electronics,360.28,4,0,1441.12,West,Cash,Individual,4.0,2023-10
+TXN01939,2024-08-15,Mouse,Accessories,97.15,1,0,97.15,Central,PayPal,Startup,3.0,2024-08
+TXN01270,2024-02-26,Laptop,Electronics,1820.32,5,5,8646.52,North,Cash,Individual,3.0,2024-02
+TXN00309,2023-12-09,Notebook,Stationery,23.03,1,5,21.88,West,Credit Card,Startup,5.0,2023-12
+TXN00431,2024-10-01,Laptop,Electronics,1394.84,5,0,6974.2,Central,Credit Card,Startup,3.0,2024-10
+TXN00661,2023-05-23,Desk,Furniture,666.08,3,5,1898.33,South,Debit Card,Individual,5.0,2023-05
+TXN00371,2024-03-02,Notebook,Stationery,16.92,4,0,67.68,West,PayPal,Enterprise,4.0,2024-03
+TXN00567,2024-05-03,Laptop,Electronics,1428.4,2,0,2856.8,West,PayPal,Corporate,4.0,2024-05
+TXN01704,2024-03-01,Monitor,Electronics,488.36,5,0,2441.8,East,Cash,Individual,4.0,2024-03
+TXN00182,2023-05-25,Mouse,Accessories,95.32,4,5,362.22,South,Credit Card,Enterprise,3.0,2023-05
+TXN01777,2024-01-28,Desk,Furniture,596.94,1,0,596.94,Unknown,Credit Card,Enterprise,5.0,2024-01
+TXN00622,2024-10-21,Monitor,Electronics,452.52,1,0,452.52,North,PayPal,Individual,4.0,2024-10
+TXN01294,2023-09-18,Office Chair,Furniture,407.92,1,15,346.73,South,Cash,Individual,5.0,2023-09
+TXN01330,2023-11-06,Office Chair,Furniture,376.61,3,20,903.86,North,Cash,Corporate,3.0,2023-11
+TXN00989,2023-09-05,Headphones,Electronics,198.9,5,5,944.78,Central,PayPal,Individual,5.0,2023-09
+TXN00814,2023-03-10,Office Chair,Furniture,285.53,2,10,513.95,South,Credit Card,Individual,4.0,2023-03
+TXN01450,2023-11-30,Notebook,Stationery,16.2,3,10,43.74,East,Credit Card,Individual,5.0,2023-11
+TXN01879,2024-07-06,Laptop,Electronics,1871.85,3,0,5615.55,West,Debit Card,Corporate,4.0,2024-07
+TXN00975,2024-09-07,Headphones,Electronics,255.03,3,0,765.09,West,Bank Transfer,Startup,4.0,2024-09
+TXN01117,2024-07-20,Laptop,Electronics,1742.8,1,5,1655.66,Central,Credit Card,Corporate,4.0,2024-07
+TXN00297,2023-09-25,Keyboard,Accessories,120.32,1,0,120.32,East,Debit Card,Individual,4.0,2023-09
+TXN01818,2023-08-25,Monitor,Electronics,781.35,4,0,3125.4,Central,Cash,Individual,4.0,2023-08
+TXN00462,2023-07-31,Desk,Furniture,680.04,1,20,544.03,North,Credit Card,Startup,4.0,2023-07
+TXN01329,2023-08-07,Backpack,Accessories,156.44,5,5,743.09,North,Bank Transfer,Enterprise,4.0,2023-08
+TXN01260,2023-06-13,Backpack,Accessories,45.41,3,0,136.23,South,Cash,Enterprise,3.0,2023-06
+TXN00378,2024-08-02,Laptop,Electronics,1010.27,2,5,1919.51,East,PayPal,Enterprise,4.0,2024-08
+TXN00799,2024-02-05,Desk,Furniture,263.48,1,0,263.48,East,PayPal,Individual,4.0,2024-02
+TXN01855,2024-02-01,Mouse,Accessories,110.3,3,0,330.9,Central,Credit Card,Individual,5.0,2024-02
+TXN00106,2023-02-20,Laptop,Electronics,1491.55,2,0,2983.1,West,Credit Card,Corporate,5.0,2023-02
+TXN00127,2023-01-29,Laptop,Electronics,899.36,4,10,3237.7,South,PayPal,Enterprise,5.0,2023-01
+TXN01470,2024-07-21,Notebook,Stationery,17.71,1,10,15.94,West,Debit Card,Corporate,5.0,2024-07
+TXN01323,2024-07-21,Smartphone,Electronics,752.89,3,0,2258.67,North,Bank Transfer,Corporate,3.0,2024-07
+TXN00870,2024-08-11,Laptop,Electronics,1364.84,1,0,1364.84,West,PayPal,Startup,4.0,2024-08
+TXN00356,2023-04-29,Backpack,Accessories,194.16,4,0,776.64,West,Credit Card,Enterprise,3.0,2023-04
+TXN01648,2023-09-06,Headphones,Electronics,170.97,3,20,410.33,South,PayPal,Corporate,5.0,2023-09
+TXN00683,2023-10-27,Office Chair,Furniture,527.37,5,0,2636.85,South,Bank Transfer,Enterprise,5.0,2023-10
+TXN01774,2024-05-22,Smartphone,Electronics,698.22,3,5,1989.93,South,Debit Card,Enterprise,4.0,2024-05
+TXN01550,2023-12-31,Smartphone,Electronics,599.38,2,0,1198.76,North,PayPal,Individual,5.0,2023-12
+TXN00905,2023-06-28,Office Chair,Furniture,252.04,1,5,239.44,North,Bank Transfer,Startup,5.0,2023-06
+TXN00210,2024-11-30,Keyboard,Accessories,153.17,3,20,367.61,West,Cash,Corporate,4.0,2024-11
+TXN00917,2023-05-23,Notebook,Stationery,19.82,5,0,99.1,East,Credit Card,Enterprise,3.0,2023-05
+TXN00141,2023-01-03,Keyboard,Accessories,118.83,1,0,118.83,East,Debit Card,Enterprise,5.0,2023-01
+TXN01466,2024-12-18,Mouse,Accessories,21.44,3,20,51.46,North,Credit Card,Startup,5.0,2024-12
+TXN01384,2024-06-14,Mouse,Accessories,41.02,1,0,41.02,East,Debit Card,Corporate,5.0,2024-06
+TXN02000,2024-08-10,Keyboard,Accessories,159.81,3,0,479.43,Central,Cash,Startup,5.0,2024-08
+TXN01606,2023-06-14,Monitor,Electronics,632.72,4,15,2151.25,North,Bank Transfer,Corporate,4.0,2023-06
+TXN01121,2023-11-23,Mouse,Accessories,141.18,5,0,705.9,West,Credit Card,Corporate,5.0,2023-11
+TXN01034,2023-01-25,Headphones,Electronics,105.27,4,5,400.03,South,Cash,Corporate,5.0,2023-01
+TXN01246,2023-10-03,Desk,Furniture,799.16,5,10,3596.22,West,Debit Card,Enterprise,3.0,2023-10
+TXN00712,2024-03-03,Smartphone,Electronics,888.91,1,5,844.46,East,Debit Card,Startup,4.0,2024-03
+TXN01293,2024-10-10,Desk,Furniture,326.69,1,0,326.69,West,Debit Card,Enterprise,3.0,2024-10
+TXN01938,2023-05-12,Laptop,Electronics,1204.9,5,15,5120.82,North,Bank Transfer,Corporate,4.0,2023-05
+TXN01285,2024-03-23,Office Chair,Furniture,212.27,3,10,573.13,West,PayPal,Corporate,5.0,2024-03
+TXN00893,2023-10-14,Laptop,Electronics,1517.82,4,0,6071.28,Central,Bank Transfer,Corporate,4.0,2023-10
+TXN00011,2023-02-10,Laptop,Electronics,1527.15,2,0,3054.3,Central,Credit Card,Enterprise,4.0,2023-02
+TXN01729,2023-08-06,Mouse,Accessories,111.43,5,5,529.29,East,Debit Card,Corporate,3.0,2023-08
+TXN01546,2024-11-23,Headphones,Electronics,67.98,4,5,258.32,North,PayPal,Corporate,3.0,2024-11
+TXN00283,2024-01-07,Desk,Furniture,784.07,4,15,2665.84,Central,PayPal,Enterprise,4.0,2024-01
+TXN00811,2024-05-18,Monitor,Electronics,664.31,2,0,1328.62,Central,Bank Transfer,Startup,5.0,2024-05
+TXN01554,2024-10-18,Laptop,Electronics,1687.21,4,0,6748.84,West,PayPal,Startup,4.0,2024-10
+TXN00292,2023-10-08,Headphones,Electronics,343.04,3,0,1029.12,South,Debit Card,Corporate,3.0,2023-10
+TXN00755,2023-11-06,Laptop,Electronics,1362.87,3,0,4088.61,South,Credit Card,Enterprise,4.0,2023-11
+TXN00627,2024-05-13,Notebook,Stationery,26.94,2,15,45.8,North,Debit Card,Corporate,2.0,2024-05
+TXN00979,2023-09-14,Laptop,Electronics,907.42,4,0,3629.68,West,Bank Transfer,Enterprise,4.0,2023-09
+TXN01304,2023-03-24,Mouse,Accessories,119.9,2,0,239.8,East,Debit Card,Enterprise,2.0,2023-03
+TXN00130,2023-10-23,Backpack,Accessories,163.35,5,0,816.75,West,Credit Card,Individual,4.0,2023-10
+TXN01201,2023-01-05,Notebook,Stationery,23.34,1,0,23.34,West,PayPal,Individual,4.0,2023-01
+TXN00844,2023-07-23,Laptop,Electronics,1672.72,1,5,1589.08,South,PayPal,Enterprise,4.0,2023-07
+TXN00324,2024-01-14,Laptop,Electronics,1438.71,5,10,6474.2,West,PayPal,Corporate,5.0,2024-01
+TXN01114,2023-01-05,Monitor,Electronics,334.72,4,0,1338.88,North,Credit Card,Individual,3.0,2023-01
+TXN00875,2023-09-25,Notebook,Stationery,24.18,4,0,96.72,East,PayPal,Enterprise,3.0,2023-09
+TXN01000,2024-06-28,Smartphone,Electronics,630.45,4,5,2395.71,West,Cash,Startup,5.0,2024-06
+TXN01904,2023-06-11,Notebook,Stationery,18.6,4,0,74.4,North,Debit Card,Startup,3.0,2023-06
+TXN01821,2023-03-20,Mouse,Accessories,115.87,4,20,370.78,South,PayPal,Startup,3.0,2023-03
+TXN00906,2023-12-11,Backpack,Accessories,185.53,2,0,371.06,Central,Debit Card,Corporate,4.0,2023-12
+TXN00696,2023-10-27,Office Chair,Furniture,284.04,4,20,908.93,North,Cash,Individual,4.0,2023-10
+TXN00216,2024-09-18,Mouse,Accessories,123.41,5,0,617.05,North,Bank Transfer,Enterprise,5.0,2024-09
+TXN01055,2024-11-05,Mouse,Accessories,60.26,2,0,120.52,South,Bank Transfer,Startup,4.0,2024-11
+TXN01914,2024-07-28,Headphones,Electronics,142.32,1,20,113.86,Central,Debit Card,Corporate,4.0,2024-07
+TXN01288,2024-07-09,Desk,Furniture,588.47,2,0,1176.94,East,Cash,Startup,3.0,2024-07
+TXN00159,2024-06-21,Laptop,Electronics,1188.33,3,0,3564.99,North,Debit Card,Individual,5.0,2024-06
+TXN01308,2023-05-02,Office Chair,Furniture,336.44,3,0,1009.32,Central,PayPal,Corporate,5.0,2023-05
+TXN01035,2023-03-27,Monitor,Electronics,819.76,1,0,819.76,West,Credit Card,Corporate,5.0,2023-03
+TXN00926,2024-10-03,Headphones,Electronics,54.65,1,0,54.65,West,PayPal,Individual,2.0,2024-10
+TXN00842,2023-12-29,Desk,Furniture,548.87,5,20,2195.48,North,Bank Transfer,Enterprise,4.0,2023-12
+TXN00635,2024-08-08,Mouse,Accessories,47.6,4,10,171.36,East,Credit Card,Individual,5.0,2024-08
+TXN01457,2024-09-12,Headphones,Electronics,196.79,1,0,196.79,South,Cash,Corporate,2.0,2024-09
+TXN01552,2024-10-11,Notebook,Stationery,10.99,3,20,26.38,North,Cash,Enterprise,3.0,2024-10
+TXN00598,2024-07-04,Desk,Furniture,455.9,1,0,455.9,West,Debit Card,Corporate,5.0,2024-07
+TXN01675,2024-01-04,Notebook,Stationery,27.9,3,0,83.7,East,Debit Card,Enterprise,4.0,2024-01
+TXN01565,2024-11-14,Laptop,Electronics,966.13,4,0,3864.52,North,Cash,Startup,3.0,2024-11
+TXN00411,2023-03-14,Backpack,Accessories,109.44,4,0,437.76,South,PayPal,Enterprise,3.0,2023-03
+TXN00097,2023-10-23,Office Chair,Furniture,292.29,2,0,584.58,East,PayPal,Individual,4.0,2023-10
+TXN00441,2024-08-05,Desk,Furniture,324.35,4,10,1167.66,West,Cash,Corporate,5.0,2024-08
+TXN01740,2023-06-05,Backpack,Accessories,146.41,2,10,263.54,North,Debit Card,Corporate,5.0,2023-06
+TXN00157,2024-02-05,Smartphone,Electronics,1152.57,1,10,1037.31,East,Credit Card,Corporate,4.0,2024-02
+TXN00420,2023-05-01,Office Chair,Furniture,244.51,1,10,220.06,South,Bank Transfer,Enterprise,4.0,2023-05
+TXN01841,2024-05-15,Desk,Furniture,555.96,3,0,1667.88,Central,Cash,Individual,4.0,2024-05
+TXN00478,2024-09-30,Desk,Furniture,724.44,4,0,2897.76,East,Credit Card,Enterprise,4.0,2024-09
+TXN01895,2024-11-13,Smartphone,Electronics,1010.23,2,0,2020.46,North,Credit Card,Startup,5.0,2024-11
+TXN00669,2024-01-10,Monitor,Electronics,273.86,4,0,1095.44,North,Credit Card,Startup,5.0,2024-01
+TXN01062,2024-06-05,Desk,Furniture,259.38,2,0,518.76,East,Credit Card,Individual,3.0,2024-06
+TXN01912,2024-03-24,Desk,Furniture,789.47,1,5,750.0,East,Bank Transfer,Enterprise,5.0,2024-03
+TXN01428,2024-05-20,Monitor,Electronics,600.6,4,5,2282.28,South,PayPal,Corporate,3.0,2024-05
+TXN00448,2023-08-05,Desk,Furniture,578.02,2,10,1040.44,Central,PayPal,Enterprise,4.0,2023-08
+TXN00554,2024-09-18,Monitor,Electronics,401.15,4,5,1524.37,East,PayPal,Individual,4.0,2024-09
+TXN00179,2023-07-05,Office Chair,Furniture,339.77,2,20,543.63,Central,Cash,Startup,4.0,2023-07
+TXN00391,2024-11-11,Keyboard,Accessories,174.58,1,0,174.58,North,Bank Transfer,Corporate,4.0,2024-11
+TXN00579,2023-07-27,Laptop,Electronics,1574.69,1,0,1574.69,West,Credit Card,Individual,5.0,2023-07
+TXN01273,2023-10-07,Monitor,Electronics,262.04,3,10,707.51,North,Debit Card,Corporate,3.0,2023-10
+TXN01741,2023-07-03,Backpack,Accessories,110.2,3,0,330.6,West,Cash,Corporate,3.0,2023-07
+TXN01314,2023-09-06,Office Chair,Furniture,271.41,4,0,1085.64,East,Debit Card,Startup,4.0,2023-09
+TXN01697,2024-12-13,Office Chair,Furniture,375.71,1,10,338.14,North,Debit Card,Startup,4.0,2024-12
+TXN00932,2024-01-21,Headphones,Electronics,195.14,2,15,331.74,North,Credit Card,Corporate,5.0,2024-01
+TXN00821,2023-11-24,Office Chair,Furniture,497.78,1,0,497.78,South,Debit Card,Individual,5.0,2023-11
+TXN01908,2024-12-05,Laptop,Electronics,1428.93,1,5,1357.48,Central,PayPal,Individual,4.0,2024-12
+TXN01503,2023-01-23,Notebook,Stationery,21.31,5,0,106.55,South,Debit Card,Startup,3.0,2023-01
+TXN01474,2023-04-22,Headphones,Electronics,278.54,1,0,278.54,East,Debit Card,Startup,4.0,2023-04
+TXN00665,2023-08-02,Office Chair,Furniture,228.57,2,0,457.14,Central,Debit Card,Individual,3.0,2023-08
+TXN00143,2024-12-10,Notebook,Stationery,24.95,5,0,124.75,Central,PayPal,Corporate,4.0,2024-12
+TXN01548,2023-09-14,Backpack,Accessories,154.25,3,10,416.48,North,Bank Transfer,Corporate,5.0,2023-09
+TXN01458,2023-06-15,Monitor,Electronics,659.8,4,15,2243.32,East,Cash,Enterprise,5.0,2023-06
+TXN00865,2023-12-06,Notebook,Stationery,16.05,1,0,16.05,South,PayPal,Corporate,1.0,2023-12
+TXN00422,2024-06-18,Laptop,Electronics,1171.77,4,0,4687.08,South,Bank Transfer,Startup,2.0,2024-06
+TXN00637,2024-03-13,Laptop,Electronics,1404.01,1,5,1333.81,North,Debit Card,Corporate,5.0,2024-03
+TXN01799,2024-04-26,Office Chair,Furniture,459.5,2,0,919.0,Unknown,Credit Card,Individual,5.0,2024-04
+TXN00800,2024-08-11,Office Chair,Furniture,412.98,5,0,2064.9,West,Credit Card,Startup,4.0,2024-08
+TXN01090,2024-03-22,Desk,Furniture,415.95,5,5,1975.76,South,Cash,Enterprise,4.0,2024-03
+TXN00295,2023-03-30,Laptop,Electronics,1090.27,1,0,1090.27,West,Bank Transfer,Startup,3.0,2023-03
+TXN01436,2024-05-25,Mouse,Accessories,67.92,2,10,122.26,Unknown,Cash,Corporate,5.0,2024-05
+TXN00963,2024-03-08,Laptop,Electronics,1433.0,1,0,1433.0,Central,Credit Card,Startup,4.0,2024-03
+TXN01943,2023-06-14,Office Chair,Furniture,536.51,2,20,858.42,Central,PayPal,Corporate,5.0,2023-06
+TXN00089,2023-02-09,Mouse,Accessories,136.58,3,0,409.74,West,Debit Card,Enterprise,4.0,2023-02
+TXN00042,2023-02-27,Keyboard,Accessories,102.81,4,0,411.24,Central,Debit Card,Enterprise,4.0,2023-02
+TXN01840,2023-05-15,Mouse,Accessories,57.01,2,5,108.32,North,Credit Card,Individual,4.0,2023-05
+TXN01974,2024-02-24,Backpack,Accessories,193.27,1,0,193.27,Central,Cash,Startup,5.0,2024-02
+TXN00132,2023-01-17,Headphones,Electronics,144.38,3,15,368.17,Central,Credit Card,Startup,2.0,2023-01
+TXN01902,2023-11-24,Office Chair,Furniture,483.14,5,20,1932.56,West,Bank Transfer,Corporate,4.0,2023-11
+TXN00410,2023-02-23,Notebook,Stationery,23.49,1,0,23.49,South,Cash,Startup,2.0,2023-02
+TXN01906,2023-07-07,Backpack,Accessories,173.63,5,0,868.15,West,Debit Card,Startup,4.0,2023-07
+TXN01894,2024-08-02,Mouse,Accessories,98.73,4,10,355.43,East,Credit Card,Individual,5.0,2024-08
+TXN01371,2024-07-12,Laptop,Electronics,1465.92,4,20,4690.94,East,Debit Card,Individual,3.0,2024-07
+TXN01566,2024-05-16,Backpack,Accessories,57.78,1,20,46.22,East,PayPal,Individual,4.0,2024-05
+TXN00165,2024-03-30,Notebook,Stationery,20.42,1,0,20.42,North,Cash,Enterprise,4.0,2024-03
+TXN00725,2024-05-07,Keyboard,Accessories,197.85,1,0,197.85,East,Debit Card,Individual,4.0,2024-05
+TXN00291,2024-07-03,Keyboard,Accessories,58.74,2,0,117.48,North,Bank Transfer,Enterprise,3.0,2024-07
+TXN01361,2024-02-10,Headphones,Electronics,284.75,1,0,284.75,South,PayPal,Enterprise,3.0,2024-02
+TXN01567,2023-07-07,Headphones,Electronics,87.18,1,0,87.18,East,Cash,Enterprise,4.0,2023-07
+TXN01937,2024-10-08,Desk,Furniture,296.33,2,0,592.66,North,Debit Card,Corporate,4.0,2024-10
+TXN01381,2024-04-17,Mouse,Accessories,54.67,3,0,164.01,West,Credit Card,Startup,4.0,2024-04
+TXN01640,2024-02-26,Keyboard,Accessories,101.36,4,15,344.62,North,Bank Transfer,Corporate,4.0,2024-02
+TXN00779,2024-03-21,Smartphone,Electronics,827.61,4,0,3310.44,North,Debit Card,Startup,5.0,2024-03
+TXN00840,2024-10-18,Keyboard,Accessories,65.54,1,0,65.54,East,Bank Transfer,Corporate,4.0,2024-10
+TXN00349,2023-04-11,Office Chair,Furniture,501.82,4,20,1605.82,East,Cash,Enterprise,4.0,2023-04
+TXN01985,2024-12-25,Smartphone,Electronics,503.38,3,0,1510.14,East,PayPal,Enterprise,4.0,2024-12
+TXN00572,2024-08-29,Monitor,Electronics,390.62,1,10,351.56,West,Cash,Startup,4.0,2024-08
+TXN00918,2023-01-03,Smartphone,Electronics,518.65,3,0,1555.95,East,Cash,Enterprise,4.0,2023-01
+TXN01014,2023-03-18,Notebook,Stationery,28.36,1,20,22.69,South,PayPal,Startup,4.0,2023-03
+TXN01927,2024-05-06,Mouse,Accessories,114.01,3,5,324.93,East,Cash,Corporate,4.0,2024-05
+TXN01499,2024-03-24,Headphones,Electronics,268.7,1,5,255.26,South,Debit Card,Enterprise,5.0,2024-03
+TXN01623,2023-01-19,Keyboard,Accessories,64.17,4,0,256.68,North,Debit Card,Corporate,3.0,2023-01
+TXN01344,2024-11-20,Backpack,Accessories,122.1,3,0,366.3,West,PayPal,Enterprise,4.0,2024-11
+TXN01883,2024-05-02,Backpack,Accessories,103.22,2,0,206.44,North,Cash,Startup,2.0,2024-05
+TXN00137,2023-07-02,Smartphone,Electronics,1096.5,3,0,3289.5,Unknown,Credit Card,Enterprise,5.0,2023-07
+TXN00459,2023-03-31,Mouse,Accessories,124.37,3,5,354.45,South,Bank Transfer,Corporate,4.0,2023-03
+TXN00376,2024-11-23,Notebook,Stationery,13.93,2,20,22.29,South,Cash,Individual,3.0,2024-11
+TXN01369,2024-02-26,Backpack,Accessories,51.58,2,10,92.84,East,PayPal,Startup,5.0,2024-02
+TXN00334,2023-06-12,Backpack,Accessories,84.6,1,10,76.14,Central,Debit Card,Individual,2.0,2023-06
+TXN00440,2024-01-03,Backpack,Accessories,132.96,1,5,126.31,West,Debit Card,Enterprise,3.0,2024-01
+TXN01595,2023-05-09,Headphones,Electronics,256.09,2,10,460.96,South,Debit Card,Individual,4.0,2023-05
+TXN01963,2024-04-22,Office Chair,Furniture,269.56,2,0,539.12,Unknown,PayPal,Corporate,4.0,2024-04
+TXN01893,2024-07-13,Backpack,Accessories,157.7,3,10,425.79,North,Cash,Individual,3.0,2024-07
+TXN01487,2024-11-14,Desk,Furniture,759.61,5,0,3798.05,West,PayPal,Individual,4.0,2024-11
+TXN00817,2023-06-07,Laptop,Electronics,1398.93,4,0,5595.72,West,PayPal,Enterprise,3.0,2023-06
+TXN01600,2023-11-16,Desk,Furniture,484.27,5,0,2421.35,North,Credit Card,Individual,3.0,2023-11
+TXN00606,2023-07-11,Notebook,Stationery,8.68,3,5,24.74,East,PayPal,Enterprise,3.0,2023-07
+TXN01954,2023-01-10,Headphones,Electronics,167.17,5,0,835.85,West,Cash,Enterprise,4.0,2023-01
+TXN01502,2024-11-01,Mouse,Accessories,60.73,1,10,54.66,Central,Debit Card,Startup,4.0,2024-11
+TXN01041,2023-06-15,Smartphone,Electronics,692.16,4,0,2768.64,West,Debit Card,Individual,4.0,2023-06
+TXN00911,2024-02-18,Notebook,Stationery,7.89,2,0,15.78,East,Bank Transfer,Startup,5.0,2024-02
+TXN01274,2023-08-09,Monitor,Electronics,355.45,3,0,1066.35,North,Credit Card,Enterprise,4.0,2023-08
+TXN01970,2024-10-24,Desk,Furniture,416.58,1,10,374.92,East,PayPal,Enterprise,5.0,2024-10
+TXN01504,2023-05-23,Mouse,Accessories,39.15,2,10,70.47,East,Bank Transfer,Startup,4.0,2023-05
+TXN00329,2024-07-11,Keyboard,Accessories,51.22,1,5,48.66,North,Credit Card,Startup,4.0,2024-07
+TXN01058,2024-08-12,Office Chair,Furniture,265.81,3,0,797.43,South,Bank Transfer,Enterprise,3.0,2024-08
+TXN00319,2024-11-18,Laptop,Electronics,1612.54,5,0,8062.7,North,Cash,Corporate,4.0,2024-11
+TXN01561,2023-05-14,Backpack,Accessories,197.13,3,15,502.68,South,Bank Transfer,Corporate,5.0,2023-05
+TXN01386,2024-10-30,Office Chair,Furniture,480.62,1,5,456.59,South,Bank Transfer,Corporate,4.0,2024-10
+TXN01804,2023-08-02,Laptop,Electronics,1316.24,2,5,2500.86,Central,PayPal,Corporate,5.0,2023-08
+TXN00168,2023-03-29,Monitor,Electronics,840.08,3,0,2520.24,North,Cash,Individual,4.0,2023-03
+TXN00013,2024-02-02,Headphones,Electronics,278.24,2,0,556.48,East,Credit Card,Startup,4.0,2024-02
+TXN01967,2024-04-04,Monitor,Electronics,715.17,5,0,3575.85,South,Cash,Enterprise,5.0,2024-04
+TXN00172,2023-03-25,Backpack,Accessories,145.775,2,5,291.55,South,PayPal,Startup,2.0,2023-03
+TXN00650,2023-09-04,Backpack,Accessories,90.25,3,0,270.75,West,Cash,Corporate,4.0,2023-09
+TXN01085,2023-01-12,Office Chair,Furniture,591.44,5,15,2513.62,South,Cash,Corporate,4.0,2023-01
+TXN00261,2024-08-03,Desk,Furniture,233.68,3,0,701.04,West,Bank Transfer,Enterprise,5.0,2024-08
+TXN01448,2023-10-03,Office Chair,Furniture,447.45,5,0,2237.25,Central,PayPal,Corporate,4.0,2023-10
+TXN00990,2023-10-13,Mouse,Accessories,131.64,5,0,658.2,South,Bank Transfer,Startup,4.0,2023-10
+TXN00902,2024-03-07,Notebook,Stationery,8.11,1,0,8.11,Central,Bank Transfer,Enterprise,5.0,2024-03
+TXN00673,2023-08-17,Mouse,Accessories,142.69,2,0,285.38,North,PayPal,Startup,4.0,2023-08
+TXN00259,2023-05-17,Monitor,Electronics,894.23,4,0,3576.92,Central,Bank Transfer,Individual,4.0,2023-05
+TXN01537,2024-01-08,Smartphone,Electronics,348.93,1,20,279.14,West,Cash,Enterprise,4.0,2024-01
+TXN00845,2023-04-24,Notebook,Stationery,16.01,3,10,43.23,Central,Credit Card,Enterprise,5.0,2023-04
+TXN00868,2023-02-15,Office Chair,Furniture,353.56,4,5,1343.53,West,Cash,Individual,4.0,2023-02
+TXN01413,2024-12-06,Smartphone,Electronics,577.71,4,10,2079.76,North,Bank Transfer,Individual,2.0,2024-12
+TXN00139,2024-02-20,Smartphone,Electronics,319.14,5,0,1595.7,Central,PayPal,Startup,1.0,2024-02
+TXN00894,2024-08-19,Office Chair,Furniture,424.83,2,0,849.66,Central,Cash,Enterprise,5.0,2024-08
+TXN01876,2024-01-11,Mouse,Accessories,57.57,4,0,230.28,North,PayPal,Corporate,5.0,2024-01
+TXN00550,2024-12-30,Keyboard,Accessories,197.85,3,0,593.55,North,Cash,Corporate,4.0,2024-12
+TXN00320,2024-01-11,Office Chair,Furniture,225.31,2,0,450.62,Central,PayPal,Startup,3.0,2024-01
+TXN01558,2024-11-08,Office Chair,Furniture,406.71,5,15,1728.52,East,Bank Transfer,Individual,3.0,2024-11
+TXN01262,2023-04-04,Smartphone,Electronics,523.62,1,0,523.62,East,Debit Card,Individual,5.0,2023-04
+TXN00559,2024-03-13,Laptop,Electronics,1611.33,2,0,3222.66,East,Bank Transfer,Startup,4.0,2024-03
+TXN00140,2023-09-29,Laptop,Electronics,1282.32,5,0,6411.6,Central,Credit Card,Corporate,2.0,2023-09
+TXN01771,2023-01-28,Notebook,Stationery,24.99,4,10,89.96,South,PayPal,Enterprise,4.0,2023-01
+TXN00532,2024-08-29,Headphones,Electronics,223.34,5,5,1060.86,East,Debit Card,Startup,4.0,2024-08
+TXN00225,2024-08-30,Office Chair,Furniture,185.98,4,20,595.14,East,Cash,Corporate,3.0,2024-08
+TXN00724,2023-08-15,Notebook,Stationery,16.1,3,10,43.47,West,Cash,Enterprise,5.0,2023-08
+TXN00787,2024-08-21,Headphones,Electronics,239.93,2,0,479.86,North,Credit Card,Individual,5.0,2024-08
+TXN01877,2024-08-11,Headphones,Electronics,112.83,3,10,304.64,Central,Debit Card,Individual,4.0,2024-08
+TXN00326,2023-05-19,Mouse,Accessories,149.96,5,5,712.31,North,Bank Transfer,Individual,5.0,2023-05
+TXN01289,2023-07-20,Laptop,Electronics,883.87,1,5,839.68,North,Credit Card,Enterprise,4.0,2023-07
+TXN00715,2024-11-27,Office Chair,Furniture,519.79,1,0,519.79,North,Debit Card,Individual,5.0,2024-11
+TXN00847,2024-08-30,Laptop,Electronics,950.74,2,15,1616.26,Unknown,Debit Card,Startup,4.0,2024-08
+TXN00194,2024-09-01,Backpack,Accessories,54.48,1,0,54.48,South,Cash,Corporate,4.0,2024-09
+TXN00574,2024-03-08,Keyboard,Accessories,132.87,4,0,531.48,East,Bank Transfer,Corporate,2.0,2024-03
+TXN00947,2023-09-10,Desk,Furniture,715.85,4,0,2863.4,East,Cash,Startup,4.0,2023-09
+TXN00504,2024-12-02,Monitor,Electronics,560.28,5,10,2521.26,West,Credit Card,Corporate,3.0,2024-12
+TXN01336,2024-03-29,Backpack,Accessories,55.08,1,0,55.08,Central,Bank Transfer,Enterprise,1.0,2024-03
+TXN01897,2024-06-10,Headphones,Electronics,109.19,1,0,109.19,West,Debit Card,Individual,3.0,2024-06
+TXN01824,2023-08-09,Mouse,Accessories,128.28,3,10,346.36,West,Debit Card,Startup,4.0,2023-08
+TXN00004,2023-05-11,Headphones,Electronics,164.74,4,5,626.01,Central,Bank Transfer,Individual,2.0,2023-05
+TXN01362,2023-12-04,Monitor,Electronics,300.46,5,10,1352.07,North,Bank Transfer,Corporate,4.0,2023-12
+TXN00468,2023-01-11,Monitor,Electronics,812.03,2,10,1461.65,East,Bank Transfer,Enterprise,4.0,2023-01
+TXN00006,2024-07-15,Keyboard,Accessories,133.7,3,15,340.93,West,Debit Card,Corporate,4.0,2024-07
+TXN01402,2023-02-01,Notebook,Stationery,10.21,1,15,8.68,North,Bank Transfer,Startup,5.0,2023-02
+TXN00548,2023-10-18,Monitor,Electronics,309.86,5,20,1239.44,Central,Bank Transfer,Corporate,5.0,2023-10
+TXN00229,2024-02-24,Laptop,Electronics,1079.17,4,0,4316.68,East,Debit Card,Startup,5.0,2024-02
+TXN00543,2023-01-22,Notebook,Stationery,15.16,4,20,48.51,East,Bank Transfer,Enterprise,4.0,2023-01
+TXN00243,2023-05-04,Laptop,Electronics,1913.7,1,0,1913.7,South,Debit Card,Corporate,3.0,2023-05
+TXN00899,2024-12-17,Laptop,Electronics,1687.37,2,10,3037.27,South,Bank Transfer,Corporate,2.0,2024-12
+TXN01654,2024-06-22,Notebook,Stationery,22.07,1,10,19.86,East,Debit Card,Corporate,3.0,2024-06
+TXN01217,2024-09-13,Keyboard,Accessories,51.43,3,0,154.29,East,PayPal,Startup,4.0,2024-09
+TXN01962,2023-09-03,Office Chair,Furniture,481.22,5,5,2285.8,Central,Bank Transfer,Startup,4.0,2023-09
+TXN00843,2024-11-09,Headphones,Electronics,124.0,3,20,297.6,South,Debit Card,Corporate,2.0,2024-11
+TXN01447,2024-10-02,Backpack,Accessories,69.94,1,15,59.45,South,Debit Card,Corporate,4.0,2024-10
+TXN01180,2023-03-28,Backpack,Accessories,172.49,3,5,491.6,East,Credit Card,Startup,4.0,2023-03
+TXN00662,2024-06-12,Desk,Furniture,271.46,3,0,814.38,East,Bank Transfer,Individual,4.0,2024-06
+TXN01236,2023-08-06,Laptop,Electronics,1189.59,3,0,3568.77,North,Credit Card,Corporate,2.0,2023-08
+TXN00315,2024-09-25,Smartphone,Electronics,663.51,5,0,3317.55,East,Cash,Corporate,4.0,2024-09
+TXN00692,2024-12-28,Mouse,Accessories,60.39,3,0,181.17,East,Debit Card,Enterprise,4.0,2024-12
+TXN01724,2023-12-21,Keyboard,Accessories,62.74,4,0,250.96,Central,Debit Card,Individual,3.0,2023-12
+TXN00425,2024-04-01,Keyboard,Accessories,108.51,1,0,108.51,North,Bank Transfer,Startup,3.0,2024-04
+TXN00595,2023-12-10,Headphones,Electronics,237.7,1,0,237.7,East,Credit Card,Enterprise,3.0,2023-12
+TXN00099,2024-08-01,Mouse,Accessories,101.15,3,0,303.45,East,Debit Card,Enterprise,3.0,2024-08
+TXN00623,2024-09-03,Backpack,Accessories,106.99,1,0,106.99,East,Debit Card,Startup,5.0,2024-09
+TXN01618,2023-07-21,Office Chair,Furniture,338.04,4,10,1216.94,West,PayPal,Individual,4.0,2023-07
+TXN01357,2023-08-08,Backpack,Accessories,48.64,4,0,194.56,East,PayPal,Individual,5.0,2023-08
+TXN00228,2024-02-04,Backpack,Accessories,165.23,3,0,495.69,North,Cash,Enterprise,4.0,2024-02
+TXN01234,2023-08-09,Laptop,Electronics,1329.44,5,0,6647.2,East,Bank Transfer,Corporate,4.0,2023-08
+TXN01358,2023-11-01,Backpack,Accessories,187.56,2,5,356.36,West,Credit Card,Corporate,4.0,2023-11
+TXN01221,2024-12-07,Headphones,Electronics,86.77,4,0,347.08,West,PayPal,Enterprise,1.0,2024-12
+TXN00067,2024-06-30,Office Chair,Furniture,421.25,5,0,2106.25,West,Debit Card,Startup,5.0,2024-06
+TXN00025,2024-04-17,Keyboard,Accessories,189.24,1,5,179.78,Unknown,Debit Card,Startup,3.0,2024-04
+TXN00145,2024-05-20,Notebook,Stationery,6.17,1,0,6.17,West,Bank Transfer,Individual,4.0,2024-05
+TXN00537,2024-08-18,Laptop,Electronics,1619.04,4,0,6476.16,South,Credit Card,Enterprise,3.0,2024-08
+TXN00812,2024-04-27,Keyboard,Accessories,46.19,2,5,87.76,North,Cash,Enterprise,3.0,2024-04
+TXN01145,2024-04-11,Notebook,Stationery,8.89,5,0,44.45,South,PayPal,Individual,4.0,2024-04
+TXN00086,2023-04-21,Headphones,Electronics,244.65,2,0,489.3,West,Credit Card,Enterprise,3.0,2023-04
+TXN01359,2024-02-13,Notebook,Stationery,29.93,1,10,26.94,Unknown,Credit Card,Enterprise,4.0,2024-02
+TXN01209,2024-08-29,Desk,Furniture,218.82,5,10,984.69,East,Bank Transfer,Individual,5.0,2024-08
+TXN01710,2024-02-11,Monitor,Electronics,538.39,1,0,538.39,Central,Credit Card,Individual,4.0,2024-02
+TXN01981,2023-07-16,Laptop,Electronics,815.43,3,0,2446.29,North,Debit Card,Enterprise,4.0,2023-07
+TXN01856,2024-01-25,Smartphone,Electronics,561.37,2,10,1010.47,North,Debit Card,Startup,4.0,2024-01
+TXN01810,2024-07-07,Smartphone,Electronics,524.01,1,0,524.01,East,Cash,Individual,2.0,2024-07
+TXN01170,2024-11-12,Smartphone,Electronics,317.14,2,0,634.28,West,Credit Card,Enterprise,2.0,2024-11
+TXN00363,2023-03-09,Headphones,Electronics,94.09,5,0,470.45,South,Cash,Startup,3.0,2023-03
+TXN01643,2023-04-05,Office Chair,Furniture,354.27,3,0,1062.81,South,PayPal,Corporate,4.0,2023-04
+TXN01178,2023-12-26,Mouse,Accessories,34.51,2,0,69.02,North,Debit Card,Enterprise,2.0,2023-12
+TXN01031,2023-01-18,Desk,Furniture,264.19,4,0,1056.76,South,PayPal,Corporate,3.0,2023-01
+TXN01243,2023-11-05,Monitor,Electronics,312.4,1,0,312.4,East,Cash,Individual,5.0,2023-11
+TXN01382,2023-12-11,Smartphone,Electronics,840.16,3,10,2268.43,South,Debit Card,Corporate,3.0,2023-12
+TXN01194,2024-06-15,Notebook,Stationery,11.11,3,10,30.0,East,Debit Card,Enterprise,4.0,2024-06
+TXN00666,2024-03-22,Laptop,Electronics,1665.36,5,5,7910.46,North,Cash,Individual,4.0,2024-03
+TXN00365,2024-07-19,Desk,Furniture,498.39,1,0,498.39,South,PayPal,Corporate,3.0,2024-07
+TXN00078,2024-06-03,Keyboard,Accessories,51.77,3,0,155.31,North,Cash,Enterprise,4.0,2024-06
+TXN00028,2023-04-22,Laptop,Electronics,993.95,4,5,3777.01,North,PayPal,Individual,1.0,2023-04
+TXN01465,2024-10-16,Keyboard,Accessories,165.07,5,0,825.35,East,PayPal,Enterprise,5.0,2024-10
+TXN00526,2023-10-20,Notebook,Stationery,21.57,4,0,86.28,West,Cash,Startup,4.0,2023-10
+TXN01873,2024-05-26,Desk,Furniture,736.83,1,20,589.46,North,PayPal,Enterprise,5.0,2024-05
+TXN00056,2023-07-05,Keyboard,Accessories,162.82,5,15,691.98,North,Debit Card,Individual,5.0,2023-07
+TXN00639,2023-05-10,Keyboard,Accessories,96.68,1,10,87.01,West,Credit Card,Enterprise,4.0,2023-05
+TXN00303,2024-03-24,Monitor,Electronics,279.67,3,0,839.01,East,Bank Transfer,Individual,4.0,2024-03
+TXN00719,2024-05-23,Headphones,Electronics,90.13,2,0,180.26,North,Credit Card,Startup,3.0,2024-05
+TXN00625,2024-11-30,Laptop,Electronics,1662.46,1,10,1496.21,Central,Debit Card,Startup,5.0,2024-11
+TXN00008,2023-10-23,Mouse,Accessories,94.16,4,0,376.64,West,Bank Transfer,Corporate,4.0,2023-10
+TXN00804,2023-10-10,Office Chair,Furniture,275.15,1,0,275.15,West,Debit Card,Individual,5.0,2023-10
+TXN01050,2023-06-21,Laptop,Electronics,974.13,4,20,3117.22,West,PayPal,Individual,4.0,2023-06
+TXN00337,2023-07-07,Office Chair,Furniture,333.2,3,0,999.6,East,Debit Card,Individual,4.0,2023-07
+TXN00048,2024-06-28,Office Chair,Furniture,388.51,2,5,777.02,East,PayPal,Startup,5.0,2024-06
+TXN01511,2024-08-02,Keyboard,Accessories,118.81,4,20,380.19,South,Cash,Corporate,4.0,2024-08
+TXN00107,2024-02-24,Laptop,Electronics,935.89,5,0,4679.45,North,Credit Card,Individual,5.0,2024-02
+TXN00350,2024-03-30,Smartphone,Electronics,870.98,3,0,2612.94,West,Debit Card,Individual,5.0,2024-03
+TXN01080,2024-10-02,Mouse,Accessories,51.24,4,15,174.22,North,PayPal,Startup,2.0,2024-10
+TXN00239,2024-03-17,Headphones,Electronics,248.41,4,0,993.64,North,Debit Card,Corporate,2.0,2024-03
+TXN00214,2023-04-26,Monitor,Electronics,612.56,2,0,1225.12,North,Cash,Corporate,4.0,2023-04
+TXN01279,2023-08-12,Office Chair,Furniture,159.29,3,0,477.87,South,PayPal,Individual,5.0,2023-08
+TXN01164,2023-04-03,Smartphone,Electronics,750.3,2,0,1500.6,West,Cash,Enterprise,4.0,2023-04
+TXN00794,2024-01-22,Desk,Furniture,550.96,5,0,2754.8,East,Cash,Startup,3.0,2024-01
+TXN01205,2023-03-03,Keyboard,Accessories,70.61,1,5,67.08,South,PayPal,Enterprise,4.0,2023-03
+TXN01755,2024-04-21,Keyboard,Accessories,140.82,2,15,239.39,West,Bank Transfer,Individual,4.0,2024-04
+TXN01614,2024-03-03,Laptop,Electronics,1514.97,4,0,6059.88,Central,Credit Card,Individual,3.0,2024-03
+TXN01998,2023-04-21,Headphones,Electronics,343.75,4,0,1375.0,North,Credit Card,Startup,5.0,2023-04
+TXN00524,2024-07-08,Mouse,Accessories,137.55,4,0,550.2,West,Bank Transfer,Individual,3.0,2024-07
+TXN00233,2024-12-08,Desk,Furniture,706.61,5,0,3533.05,Central,Cash,Corporate,4.0,2024-12
+TXN00645,2023-03-15,Backpack,Accessories,149.42,2,0,298.84,West,PayPal,Individual,4.0,2023-03
+TXN01539,2023-05-25,Laptop,Electronics,1860.98,3,0,5582.94,South,Debit Card,Corporate,3.0,2023-05
+TXN00534,2024-02-14,Laptop,Electronics,955.01,5,10,4297.54,East,Cash,Startup,4.0,2024-02
+TXN01624,2023-12-19,Keyboard,Accessories,47.61,2,0,95.22,South,Cash,Individual,3.0,2023-12
+TXN00604,2023-06-28,Keyboard,Accessories,44.23,5,0,221.15,Central,Credit Card,Startup,4.0,2023-06
+TXN01235,2024-05-18,Office Chair,Furniture,462.25,3,10,1248.08,South,PayPal,Startup,5.0,2024-05
+TXN01075,2024-10-23,Desk,Furniture,386.35,5,20,1545.4,South,Debit Card,Individual,5.0,2024-10
+TXN01331,2023-08-13,Keyboard,Accessories,64.45,3,5,183.68,Central,Credit Card,Enterprise,4.0,2023-08
+TXN00061,2023-01-01,Notebook,Stationery,23.52,5,10,105.84,West,Cash,Corporate,4.0,2023-01
+TXN01290,2023-12-21,Smartphone,Electronics,619.86,5,20,2479.44,East,Credit Card,Startup,3.0,2023-12
+TXN00093,2024-10-03,Keyboard,Accessories,123.32,2,0,246.64,North,Bank Transfer,Individual,5.0,2024-10
+TXN00667,2024-04-13,Notebook,Stationery,13.36,5,10,60.12,West,Cash,Individual,4.0,2024-04
+TXN00281,2024-06-16,Keyboard,Accessories,194.41,5,20,777.64,West,Debit Card,Enterprise,4.0,2024-06
+TXN01139,2023-01-29,Headphones,Electronics,119.92,4,10,431.71,North,Bank Transfer,Individual,4.0,2023-01
+TXN00360,2023-08-14,Mouse,Accessories,28.54,1,15,24.26,East,Cash,Startup,4.0,2023-08
+TXN01765,2023-10-27,Backpack,Accessories,151.05,1,15,128.39,South,Cash,Individual,4.0,2023-10
+TXN00848,2023-08-18,Notebook,Stationery,27.19,4,0,108.76,East,Credit Card,Corporate,5.0,2023-08
+TXN01405,2024-12-26,Office Chair,Furniture,583.03,2,0,1166.06,North,Cash,Corporate,4.0,2024-12
+TXN00111,2024-10-23,Desk,Furniture,748.91,1,10,674.02,North,Debit Card,Individual,4.0,2024-10
+TXN00043,2023-07-08,Backpack,Accessories,145.63,5,5,691.74,West,Bank Transfer,Corporate,5.0,2023-07
+TXN00126,2024-04-20,Backpack,Accessories,119.08,2,15,202.44,West,Debit Card,Enterprise,4.0,2024-04
+TXN00205,2023-01-26,Keyboard,Accessories,138.46,5,15,588.46,North,Debit Card,Enterprise,4.0,2023-01
+TXN00053,2023-03-03,Keyboard,Accessories,158.27,1,0,158.27,East,Credit Card,Corporate,3.0,2023-03
+TXN00546,2023-11-06,Keyboard,Accessories,51.47,4,15,175.0,Central,Debit Card,Individual,3.0,2023-11
+TXN00069,2024-11-19,Laptop,Electronics,1252.09,2,0,2504.18,West,Debit Card,Individual,4.0,2024-11
+TXN01162,2024-01-27,Notebook,Stationery,9.09,5,5,43.18,North,Debit Card,Startup,3.0,2024-01
+TXN01579,2023-09-03,Keyboard,Accessories,30.64,4,5,116.43,South,Cash,Startup,3.0,2023-09
+TXN00184,2023-09-14,Notebook,Stationery,16.22,4,10,58.39,South,PayPal,Enterprise,5.0,2023-09
+TXN00138,2024-03-01,Backpack,Accessories,158.06,1,15,134.35,Central,Debit Card,Startup,4.0,2024-03
+TXN00900,2023-05-12,Laptop,Electronics,1599.83,1,0,1599.83,East,Debit Card,Individual,4.0,2023-05
+TXN00797,2023-08-02,Smartphone,Electronics,927.08,1,5,880.73,South,Debit Card,Enterprise,5.0,2023-08
+TXN00133,2024-04-29,Mouse,Accessories,118.59,5,10,533.66,West,Credit Card,Corporate,4.0,2024-04
+TXN00081,2023-02-25,Backpack,Accessories,54.77,1,5,52.03,Central,Bank Transfer,Individual,3.0,2023-02
+TXN01892,2023-12-10,Monitor,Electronics,858.18,5,0,4290.9,East,PayPal,Individual,4.0,2023-12
+TXN01572,2024-12-21,Mouse,Accessories,97.17,2,5,184.62,West,Bank Transfer,Corporate,4.0,2024-12
+TXN00542,2024-09-13,Desk,Furniture,546.13,5,0,2730.65,North,Debit Card,Enterprise,4.0,2024-09
+TXN01627,2024-06-26,Headphones,Electronics,125.8,2,20,201.28,North,PayPal,Corporate,5.0,2024-06
+TXN00984,2023-10-04,Headphones,Electronics,302.71,1,0,302.71,West,Bank Transfer,Corporate,4.0,2023-10
+TXN00166,2024-05-15,Monitor,Electronics,396.6,4,0,1586.4,South,PayPal,Enterprise,4.0,2024-05
+TXN00249,2024-05-29,Mouse,Accessories,80.0,1,10,72.0,Central,PayPal,Enterprise,5.0,2024-05
+TXN00447,2024-06-17,Laptop,Electronics,1318.82,1,0,1318.82,North,Bank Transfer,Enterprise,3.0,2024-06
+TXN01174,2023-10-30,Notebook,Stationery,7.81,3,10,21.09,South,Bank Transfer,Corporate,4.0,2023-10
+TXN00859,2024-03-16,Backpack,Accessories,53.56,4,10,192.82,South,PayPal,Corporate,5.0,2024-03
+TXN01284,2024-12-09,Notebook,Stationery,22.85,5,0,114.25,Central,Credit Card,Corporate,3.0,2024-12
+TXN00098,2023-08-13,Keyboard,Accessories,104.59,1,0,104.59,South,Debit Card,Corporate,2.0,2023-08
+TXN00764,2024-03-04,Headphones,Electronics,171.56,2,0,343.12,East,Debit Card,Startup,3.0,2024-03
+TXN00738,2023-08-18,Notebook,Stationery,6.38,2,0,12.76,Central,Debit Card,Corporate,4.0,2023-08
+TXN01282,2023-01-10,Monitor,Electronics,877.8,4,0,3511.2,East,Debit Card,Corporate,5.0,2023-01
+TXN00103,2023-10-10,Headphones,Electronics,258.18,4,10,929.45,South,PayPal,Corporate,5.0,2023-10
+TXN00435,2024-06-25,Backpack,Accessories,181.21,3,0,543.63,East,Debit Card,Startup,3.0,2024-06
+TXN00075,2023-11-04,Smartphone,Electronics,872.98,3,0,2618.94,East,Credit Card,Enterprise,5.0,2023-11
+TXN01829,2024-08-24,Smartphone,Electronics,856.74,5,10,3855.33,South,Debit Card,Individual,2.0,2024-08
+TXN01227,2023-12-15,Office Chair,Furniture,440.1,1,0,440.1,East,Bank Transfer,Enterprise,5.0,2023-12
+TXN00919,2023-09-03,Desk,Furniture,375.69,3,0,1127.07,South,PayPal,Enterprise,4.0,2023-09
+TXN01746,2023-08-14,Backpack,Accessories,159.48,3,0,478.44,West,PayPal,Startup,1.0,2023-08
+TXN01705,2023-02-20,Backpack,Accessories,149.07,4,0,596.28,East,Cash,Individual,5.0,2023-02
+TXN01652,2023-12-16,Desk,Furniture,570.04,4,0,2280.16,South,Bank Transfer,Individual,4.0,2023-12
+TXN00763,2023-09-17,Backpack,Accessories,81.14,2,0,162.28,East,Credit Card,Individual,5.0,2023-09
+TXN00389,2023-04-12,Office Chair,Furniture,434.47,3,10,1173.07,West,Credit Card,Startup,4.0,2023-04
+TXN00236,2024-12-26,Mouse,Accessories,79.99,3,0,239.97,East,Credit Card,Enterprise,4.0,2024-12
+TXN01538,2024-09-05,Notebook,Stationery,24.88,5,0,124.4,East,Cash,Individual,4.0,2024-09
+TXN00268,2023-01-21,Mouse,Accessories,53.82,1,0,53.82,South,PayPal,Startup,3.0,2023-01
+TXN01490,2024-12-17,Smartphone,Electronics,798.45,3,15,2036.05,North,Credit Card,Individual,3.0,2024-12
+TXN00118,2024-05-14,Mouse,Accessories,32.93,3,20,79.03,West,Bank Transfer,Corporate,3.0,2024-05
+TXN01638,2023-08-30,Office Chair,Furniture,579.7,4,0,2318.8,South,Bank Transfer,Corporate,3.0,2023-08
+TXN00674,2023-11-05,Monitor,Electronics,674.96,5,15,2868.58,North,Cash,Individual,4.0,2023-11
+TXN00250,2023-10-29,Smartphone,Electronics,483.63,2,10,870.53,East,PayPal,Corporate,4.0,2023-10
+TXN01482,2024-10-24,Notebook,Stationery,22.57,3,0,67.71,South,Debit Card,Startup,4.0,2024-10
+TXN00095,2024-06-30,Mouse,Accessories,148.82,2,0,297.64,Central,Cash,Enterprise,5.0,2024-06
+TXN00034,2023-06-10,Laptop,Electronics,890.42,5,0,4452.1,South,Debit Card,Individual,4.0,2023-06
+TXN01702,2024-05-16,Headphones,Electronics,209.65,5,15,891.01,West,Bank Transfer,Corporate,3.0,2024-05
+TXN00449,2023-11-27,Keyboard,Accessories,199.35,2,10,358.83,West,Bank Transfer,Enterprise,4.0,2023-11
+TXN00717,2024-05-17,Keyboard,Accessories,145.82,3,5,415.59,East,Debit Card,Corporate,4.0,2024-05
+TXN01291,2023-07-29,Desk,Furniture,452.83,3,0,1358.49,East,Cash,Individual,4.0,2023-07
+TXN01549,2024-01-23,Keyboard,Accessories,71.49,1,0,71.49,West,Credit Card,Startup,5.0,2024-01
+TXN00001,2023-01-21,Keyboard,Accessories,165.41,3,10,446.61,North,PayPal,Startup,2.0,2023-01
+TXN01403,2024-09-04,Keyboard,Accessories,121.21,3,0,363.63,East,Cash,Enterprise,4.0,2024-09
+TXN01102,2024-11-15,Laptop,Electronics,1355.14,1,5,1287.38,North,Debit Card,Individual,5.0,2024-11
+TXN01109,2023-01-19,Headphones,Electronics,336.87,5,0,1684.35,West,PayPal,Individual,2.0,2023-01
+TXN01252,2024-12-20,Laptop,Electronics,1048.38,3,10,2830.63,South,Credit Card,Individual,4.0,2024-12
+TXN00083,2023-11-08,Mouse,Accessories,113.67,2,0,227.34,North,PayPal,Startup,5.0,2023-11
+TXN01315,2023-07-21,Office Chair,Furniture,508.72,4,0,2034.88,West,Bank Transfer,Individual,3.0,2023-07
+TXN00677,2023-01-13,Backpack,Accessories,127.57,2,0,255.14,South,PayPal,Corporate,4.0,2023-01
+TXN01800,2024-05-12,Desk,Furniture,298.42,1,0,298.42,Central,Debit Card,Corporate,4.0,2024-05
+TXN01047,2023-02-20,Monitor,Electronics,671.09,4,20,2147.49,South,PayPal,Individual,3.0,2023-02
+TXN00771,2023-07-07,Backpack,Accessories,170.57,5,0,852.85,East,Debit Card,Enterprise,4.0,2023-07
+TXN01241,2024-11-27,Keyboard,Accessories,41.99,5,10,188.96,West,Credit Card,Corporate,1.0,2024-11
+TXN01776,2023-03-04,Headphones,Electronics,284.28,4,0,1137.12,West,PayPal,Individual,5.0,2023-03
+TXN01612,2023-12-02,Office Chair,Furniture,196.27,4,0,785.08,Central,Cash,Individual,3.0,2023-12
+TXN01520,2024-12-22,Keyboard,Accessories,33.04,2,10,59.47,West,PayPal,Enterprise,4.0,2024-12
+TXN00405,2023-04-18,Monitor,Electronics,294.42,1,0,294.42,East,PayPal,Startup,4.0,2023-04
+TXN01870,2024-10-20,Office Chair,Furniture,269.91,3,15,688.27,South,PayPal,Corporate,2.0,2024-10
+TXN01325,2024-09-12,Monitor,Electronics,425.66,5,20,1702.64,Central,Debit Card,Enterprise,3.0,2024-09
+TXN01367,2023-06-13,Monitor,Electronics,730.68,1,0,730.68,Central,Debit Card,Enterprise,4.0,2023-06
+TXN00105,2023-11-20,Mouse,Accessories,133.38,4,0,533.52,West,Bank Transfer,Enterprise,4.0,2023-11
+TXN00689,2024-11-12,Backpack,Accessories,61.34,2,10,110.41,Central,Cash,Individual,3.0,2024-11
+TXN01332,2024-04-09,Monitor,Electronics,648.0,1,0,648.0,West,Cash,Enterprise,4.0,2024-04
+TXN00827,2023-04-15,Laptop,Electronics,1859.39,3,15,4741.4445,East,Debit Card,Enterprise,4.0,2023-04
+TXN00063,2023-08-17,Desk,Furniture,226.04,5,20,904.16,South,PayPal,Enterprise,2.0,2023-08
+TXN00853,2023-06-07,Monitor,Electronics,695.38,1,0,695.38,Central,Debit Card,Startup,5.0,2023-06
+TXN01380,2024-12-01,Mouse,Accessories,57.33,2,0,114.66,West,PayPal,Enterprise,4.0,2024-12
+TXN00224,2024-10-14,Office Chair,Furniture,376.15,1,10,338.54,South,Bank Transfer,Corporate,4.0,2024-10
+TXN00146,2024-07-26,Keyboard,Accessories,180.24,3,5,513.68,South,PayPal,Corporate,4.0,2024-07
+TXN01089,2024-09-17,Office Chair,Furniture,172.12,3,10,464.72,West,Debit Card,Individual,4.0,2024-09
+TXN00374,2023-01-10,Backpack,Accessories,104.44,4,5,396.87,Central,PayPal,Corporate,4.0,2023-01
+TXN01449,2024-06-17,Notebook,Stationery,27.82,4,0,111.28,South,Credit Card,Enterprise,5.0,2024-06
+TXN01143,2024-12-11,Backpack,Accessories,125.79,2,0,251.58,East,Debit Card,Enterprise,4.0,2024-12
+TXN01865,2024-07-03,Mouse,Accessories,120.64,4,15,410.18,West,Cash,Corporate,5.0,2024-07
+TXN01526,2024-12-11,Headphones,Electronics,228.16,5,10,1026.72,West,PayPal,Startup,2.0,2024-12
+TXN01633,2023-07-28,Mouse,Accessories,40.31,2,0,80.62,East,Credit Card,Startup,3.0,2023-07
+TXN01388,2024-05-20,Office Chair,Furniture,420.06,3,5,1197.17,East,Bank Transfer,Corporate,3.0,2024-05
+TXN00010,2023-03-04,Backpack,Accessories,163.56,4,0,654.24,West,Credit Card,Enterprise,5.0,2023-03
+TXN00450,2024-04-24,Office Chair,Furniture,556.39,5,10,2503.76,West,PayPal,Individual,4.0,2024-04
+TXN00709,2023-07-28,Smartphone,Electronics,633.88,3,0,1901.64,Central,Cash,Individual,5.0,2023-07
+TXN00256,2023-04-19,Headphones,Electronics,199.48,3,0,598.44,West,Debit Card,Corporate,3.0,2023-04
+TXN00883,2024-01-22,Desk,Furniture,517.74,2,0,1035.48,North,PayPal,Corporate,3.0,2024-01
+TXN00390,2023-04-06,Backpack,Accessories,111.81,2,5,212.44,North,Credit Card,Startup,4.0,2023-04
+TXN00925,2023-04-21,Keyboard,Accessories,147.3,5,0,736.5,North,Cash,Corporate,3.0,2023-04
+TXN01738,2023-10-02,Laptop,Electronics,919.46,1,0,919.46,East,PayPal,Startup,5.0,2023-10
+TXN00461,2024-06-02,Laptop,Electronics,1528.22,4,0,6112.88,East,PayPal,Startup,4.0,2024-06
+TXN01491,2023-02-01,Backpack,Accessories,105.63,2,0,211.26,North,Debit Card,Startup,1.0,2023-02
+TXN01735,2024-12-18,Headphones,Electronics,175.76,5,20,703.04,North,Credit Card,Individual,5.0,2024-12
+TXN01169,2024-09-19,Keyboard,Accessories,79.72,5,0,398.6,South,Cash,Corporate,1.0,2024-09
+TXN00959,2024-11-06,Monitor,Electronics,658.47,3,5,1876.64,Central,Debit Card,Enterprise,5.0,2024-11
+TXN00502,2024-11-04,Keyboard,Accessories,194.85,5,0,974.25,North,Cash,Individual,4.0,2024-11
+TXN00740,2023-09-28,Monitor,Electronics,449.51,2,0,899.02,West,Credit Card,Enterprise,4.0,2023-09
+TXN01889,2024-05-05,Desk,Furniture,213.22,3,20,511.73,East,Cash,Corporate,2.0,2024-05
+TXN00869,2023-03-20,Mouse,Accessories,85.4,3,15,217.77,Central,Debit Card,Corporate,4.0,2023-03
+TXN00732,2023-06-30,Backpack,Accessories,82.74,5,5,393.02,North,Cash,Enterprise,4.0,2023-06
+TXN00540,2024-05-19,Mouse,Accessories,36.43,2,0,72.86,South,Cash,Startup,4.0,2024-05
+TXN01202,2024-09-14,Smartphone,Electronics,391.87,2,10,705.37,North,Cash,Enterprise,5.0,2024-09
+TXN00698,2023-07-12,Monitor,Electronics,478.73,3,0,1436.19,West,Bank Transfer,Corporate,2.0,2023-07
+TXN01421,2024-06-14,Laptop,Electronics,1702.97,2,0,3405.94,South,Credit Card,Corporate,2.0,2024-06
+TXN01404,2023-07-15,Office Chair,Furniture,560.06,2,0,1120.12,North,Debit Card,Enterprise,4.0,2023-07
+TXN01146,2023-03-28,Mouse,Accessories,144.93,3,10,391.31,South,PayPal,Enterprise,3.0,2023-03
+TXN01032,2024-07-21,Laptop,Electronics,1538.11,2,0,3076.22,South,PayPal,Enterprise,4.0,2024-07
+TXN00373,2024-07-20,Desk,Furniture,333.25,4,0,1333.0,West,PayPal,Corporate,4.0,2024-07
+TXN00668,2024-04-22,Monitor,Electronics,737.47,5,0,3687.35,Central,Credit Card,Individual,5.0,2024-04
+TXN01557,2023-09-21,Keyboard,Accessories,189.95,4,0,759.8,West,Bank Transfer,Enterprise,4.0,2023-09
+TXN00358,2024-06-11,Notebook,Stationery,10.58,1,0,10.58,East,Bank Transfer,Enterprise,4.0,2024-06
+TXN00968,2024-08-28,Monitor,Electronics,401.17,1,0,401.17,West,Debit Card,Individual,5.0,2024-08
+TXN00784,2023-05-19,Smartphone,Electronics,322.2,3,0,966.6,West,Bank Transfer,Startup,4.0,2023-05
+TXN00736,2023-04-21,Laptop,Electronics,1803.65,2,0,3607.3,East,Credit Card,Startup,3.0,2023-04
+TXN01036,2024-09-14,Headphones,Electronics,181.85,3,0,545.55,West,PayPal,Corporate,4.0,2024-09
+TXN00971,2023-04-25,Backpack,Accessories,139.13,5,10,626.08,East,Credit Card,Startup,4.0,2023-04
+TXN01556,2023-10-12,Mouse,Accessories,136.46,5,10,614.07,West,PayPal,Enterprise,4.0,2023-10
+TXN01518,2023-10-06,Notebook,Stationery,27.08,1,0,27.08,North,Debit Card,Corporate,5.0,2023-10
+TXN01555,2023-07-15,Laptop,Electronics,1846.44,3,0,5539.32,West,Cash,Corporate,3.0,2023-07
+TXN01377,2024-06-23,Office Chair,Furniture,282.87,4,10,1018.33,North,Cash,Startup,4.0,2024-06
+TXN01522,2023-01-24,Notebook,Stationery,27.66,2,0,55.32,West,Debit Card,Individual,3.0,2023-01
+TXN01674,2024-07-24,Headphones,Electronics,313.11,2,0,626.22,East,Debit Card,Startup,4.0,2024-07
+TXN01253,2023-06-12,Notebook,Stationery,7.81,4,5,29.68,North,Credit Card,Corporate,3.0,2023-06
+TXN01728,2023-11-25,Keyboard,Accessories,141.32,2,5,268.51,East,Cash,Corporate,5.0,2023-11
+TXN01750,2024-09-23,Notebook,Stationery,21.31,1,0,21.31,South,Bank Transfer,Corporate,4.0,2024-09
+TXN01237,2024-12-23,Notebook,Stationery,17.83,3,0,53.49,East,Bank Transfer,Enterprise,2.0,2024-12
+TXN00886,2024-03-27,Desk,Furniture,346.72,4,15,1178.85,East,Debit Card,Enterprise,3.0,2024-03
+TXN00080,2024-06-07,Monitor,Electronics,307.66,1,0,307.66,North,Debit Card,Individual,4.0,2024-06
+TXN01173,2024-05-25,Mouse,Accessories,93.52,5,5,444.22,North,Debit Card,Individual,5.0,2024-05
+TXN00815,2023-08-31,Desk,Furniture,589.73,2,0,1179.46,South,Credit Card,Startup,3.0,2023-08
+TXN00672,2023-02-26,Notebook,Stationery,19.42,3,10,52.43,North,Bank Transfer,Startup,2.0,2023-02
+TXN01563,2023-10-06,Laptop,Electronics,1747.16,3,0,5241.48,West,Bank Transfer,Corporate,5.0,2023-10
+TXN00058,2023-06-14,Smartphone,Electronics,1102.71,2,0,2205.42,North,Bank Transfer,Individual,5.0,2023-06
+TXN00134,2023-01-16,Notebook,Stationery,6.29,2,0,12.58,Central,Debit Card,Individual,4.0,2023-01
+TXN01141,2024-02-21,Mouse,Accessories,109.28,2,0,218.56,East,Bank Transfer,Corporate,5.0,2024-02
+TXN00934,2024-03-22,Headphones,Electronics,206.52,4,0,826.08,North,Bank Transfer,Individual,2.0,2024-03
+TXN01719,2024-02-10,Desk,Furniture,756.58,3,0,2269.74,North,Cash,Enterprise,3.0,2024-02
+TXN00824,2024-04-15,Notebook,Stationery,26.08,4,5,99.1,Central,Bank Transfer,Startup,2.0,2024-04
+TXN01215,2023-03-30,Backpack,Accessories,155.34,3,0,466.02,West,Cash,Enterprise,4.0,2023-03
+TXN00505,2024-01-01,Laptop,Electronics,1801.51,5,10,8106.79,North,Bank Transfer,Startup,5.0,2024-01
+TXN01812,2024-06-08,Desk,Furniture,493.01,5,10,2218.54,East,Debit Card,Corporate,3.0,2024-06
+TXN00348,2024-06-06,Desk,Furniture,725.31,5,20,2901.24,Central,Credit Card,Corporate,3.0,2024-06
+TXN00387,2023-09-29,Monitor,Electronics,513.74,5,0,2568.7,North,Debit Card,Corporate,1.0,2023-09
+TXN01025,2023-07-07,Smartphone,Electronics,476.8,5,0,2384.0,Central,Credit Card,Corporate,3.0,2023-07
+TXN00895,2024-06-05,Monitor,Electronics,728.92,5,0,3644.6,North,Debit Card,Individual,4.0,2024-06
+TXN00829,2023-01-06,Keyboard,Accessories,161.76,4,5,614.69,North,Bank Transfer,Startup,4.0,2023-01
+TXN01933,2023-03-03,Backpack,Accessories,131.79,5,5,626.0,South,PayPal,Corporate,5.0,2023-03
+TXN00476,2024-08-30,Headphones,Electronics,104.85,2,15,178.24,Central,Credit Card,Corporate,4.0,2024-08
+TXN01573,2023-07-21,Desk,Furniture,675.33,2,10,1215.59,East,Cash,Enterprise,3.0,2023-07
+TXN01476,2024-04-28,Backpack,Accessories,44.93,3,0,134.79,West,Debit Card,Enterprise,4.0,2024-04
+TXN01425,2024-04-02,Notebook,Stationery,10.5,4,15,35.7,South,Credit Card,Individual,4.0,2024-04
+TXN00653,2023-07-08,Keyboard,Accessories,87.67,4,10,315.61,West,Credit Card,Individual,1.0,2023-07
+TXN00173,2024-05-29,Office Chair,Furniture,398.85,2,10,717.93,North,Cash,Corporate,4.0,2024-05
+TXN01150,2024-12-12,Notebook,Stationery,5.15,2,20,8.24,East,PayPal,Individual,5.0,2024-12
+TXN00039,2023-02-23,Monitor,Electronics,634.04,1,0,634.04,East,Bank Transfer,Individual,5.0,2023-02
+TXN00714,2023-07-13,Office Chair,Furniture,526.85,1,15,447.82,East,Cash,Individual,2.0,2023-07
+TXN00091,2023-08-13,Desk,Furniture,312.23,4,0,1248.92,West,Cash,Startup,5.0,2023-08
+TXN01977,2023-07-15,Desk,Furniture,587.27,5,5,2789.53,West,Credit Card,Startup,3.0,2023-07
+TXN01206,2023-06-09,Smartphone,Electronics,657.96,1,15,559.27,South,Bank Transfer,Startup,4.0,2023-06
+TXN00876,2024-10-25,Laptop,Electronics,1915.75,1,5,1819.96,East,Bank Transfer,Individual,4.0,2024-10
+TXN01553,2023-10-03,Monitor,Electronics,690.74,5,5,3281.02,West,Cash,Individual,2.0,2023-10
+TXN01930,2023-03-16,Keyboard,Accessories,119.2,2,5,226.48,North,PayPal,Corporate,5.0,2023-03
+TXN01094,2023-04-05,Backpack,Accessories,143.88,2,0,287.76,North,Bank Transfer,Individual,3.0,2023-04
+TXN01156,2024-06-10,Desk,Furniture,372.53,3,0,1117.59,North,PayPal,Enterprise,4.0,2024-06
+TXN01964,2024-12-07,Notebook,Stationery,19.03,2,15,32.35,Central,Cash,Individual,4.0,2024-12
+TXN01999,2024-11-01,Office Chair,Furniture,422.73,4,0,1690.92,North,Cash,Individual,4.0,2024-11
+TXN00500,2024-05-28,Monitor,Electronics,389.55,1,15,331.12,West,Cash,Startup,4.0,2024-05
+TXN00339,2024-03-26,Mouse,Accessories,58.39,4,15,198.53,West,PayPal,Corporate,4.0,2024-03
+TXN01189,2023-06-29,Desk,Furniture,299.22,1,0,299.22,Central,Bank Transfer,Corporate,4.0,2023-06
+TXN00029,2024-11-11,Smartphone,Electronics,737.05,3,5,2100.59,North,Cash,Individual,4.0,2024-11
+TXN01218,2023-12-21,Desk,Furniture,532.92,1,0,532.92,East,PayPal,Enterprise,4.0,2023-12
+TXN01859,2023-09-28,Office Chair,Furniture,453.19,2,0,906.38,West,Cash,Corporate,1.0,2023-09
+TXN00946,2024-06-21,Monitor,Electronics,454.38,5,10,2044.71,Central,Bank Transfer,Startup,4.0,2024-06
+TXN00170,2023-07-13,Laptop,Electronics,1789.42,2,0,3578.84,Central,Debit Card,Corporate,4.0,2023-07
+TXN01433,2023-10-30,Monitor,Electronics,805.95,2,5,1531.3,North,Debit Card,Individual,4.0,2023-10
+TXN01198,2023-12-26,Mouse,Accessories,120.73,4,10,434.63,East,Debit Card,Corporate,4.0,2023-12
+TXN01762,2023-11-04,Monitor,Electronics,571.15,1,0,571.15,Central,Debit Card,Startup,4.0,2023-11
+TXN00913,2023-02-22,Desk,Furniture,241.81,3,15,616.62,South,PayPal,Enterprise,4.0,2023-02
+TXN00492,2024-08-01,Mouse,Accessories,97.38,5,0,486.9,North,Debit Card,Individual,5.0,2024-08
+TXN00954,2023-02-16,Desk,Furniture,628.82,4,0,2515.28,Central,Bank Transfer,Startup,4.0,2023-02
+TXN01098,2024-09-18,Monitor,Electronics,366.11,3,10,988.5,East,Debit Card,Startup,3.0,2024-09
+TXN01033,2024-06-13,Keyboard,Accessories,184.01,3,5,524.43,South,Debit Card,Corporate,4.0,2024-06
+TXN00588,2024-03-19,Keyboard,Accessories,126.65,4,5,481.27,Central,Cash,Startup,5.0,2024-03
+TXN00658,2023-07-02,Smartphone,Electronics,437.83,3,15,1116.47,West,Debit Card,Enterprise,4.0,2023-07
+TXN00235,2024-07-13,Mouse,Accessories,61.0,1,10,54.9,South,Debit Card,Corporate,2.0,2024-07
+TXN00733,2024-03-01,Notebook,Stationery,20.54,2,0,41.08,Central,PayPal,Corporate,4.0,2024-03
+TXN01718,2023-05-09,Office Chair,Furniture,589.13,5,15,2503.8,North,Debit Card,Corporate,4.0,2023-05
+TXN01157,2023-06-24,Office Chair,Furniture,492.3,5,0,2461.5,West,Cash,Individual,3.0,2023-06
+TXN01997,2023-03-07,Mouse,Accessories,41.61,4,10,149.8,North,Bank Transfer,Corporate,3.0,2023-03
+TXN01453,2024-09-30,Headphones,Electronics,325.26,1,5,309.0,North,PayPal,Startup,3.0,2024-09
+TXN01659,2023-04-22,Notebook,Stationery,20.64,2,0,41.28,East,Cash,Individual,3.0,2023-04
+TXN00935,2023-07-11,Laptop,Electronics,1468.05,1,0,1468.05,Unknown,Bank Transfer,Enterprise,3.0,2023-07
+TXN01210,2023-12-19,Keyboard,Accessories,122.39,4,5,465.08,East,Cash,Startup,4.0,2023-12
+TXN01066,2023-12-06,Backpack,Accessories,41.58,1,10,37.42,East,Debit Card,Startup,4.0,2023-12
+TXN00109,2023-03-16,Backpack,Accessories,58.28,4,0,233.12,Central,Debit Card,Startup,5.0,2023-03
+TXN01574,2024-02-28,Desk,Furniture,650.82,4,10,2342.95,North,Cash,Enterprise,5.0,2024-02
+TXN00569,2024-08-29,Monitor,Electronics,719.34,3,0,2158.02,Central,Credit Card,Corporate,4.0,2024-08
+TXN01168,2023-11-28,Monitor,Electronics,797.25,5,0,3986.25,West,Debit Card,Startup,4.0,2023-11
+TXN01175,2023-01-16,Notebook,Stationery,28.46,1,0,28.46,South,Cash,Individual,4.0,2023-01
+TXN00891,2024-09-14,Notebook,Stationery,29.86,5,0,149.3,Central,Credit Card,Individual,3.0,2024-09
+TXN00948,2023-08-26,Notebook,Stationery,7.42,2,20,11.87,West,Cash,Enterprise,4.0,2023-08
+TXN01049,2023-01-29,Monitor,Electronics,539.32,3,0,1617.96,Central,Debit Card,Corporate,5.0,2023-01
+TXN01379,2023-12-02,Office Chair,Furniture,526.98,4,15,1791.73,East,PayPal,Individual,5.0,2023-12
+TXN01645,2024-03-16,Mouse,Accessories,94.15,2,0,188.3,East,Debit Card,Startup,4.0,2024-03
+TXN01475,2023-10-25,Keyboard,Accessories,190.42,2,5,361.8,East,PayPal,Corporate,3.0,2023-10
+TXN00885,2024-06-17,Laptop,Electronics,1485.46,4,0,5941.84,East,Credit Card,Individual,5.0,2024-06
+TXN01707,2024-11-23,Notebook,Stationery,19.24,1,0,19.24,North,Bank Transfer,Corporate,4.0,2024-11
+TXN00851,2023-04-14,Keyboard,Accessories,54.48,2,20,87.17,South,PayPal,Corporate,4.0,2023-04
+TXN00735,2023-01-29,Headphones,Electronics,181.03,3,10,488.78,Central,Credit Card,Corporate,4.0,2023-01
+TXN00718,2023-03-19,Notebook,Stationery,11.96,2,10,21.53,West,Bank Transfer,Corporate,4.0,2023-03
+TXN00455,2023-04-23,Desk,Furniture,797.38,4,0,3189.52,East,Credit Card,Corporate,2.0,2023-04
+TXN00265,2024-08-04,Mouse,Accessories,146.73,2,10,264.11,North,Bank Transfer,Enterprise,2.0,2024-08
+TXN00076,2023-05-18,Keyboard,Accessories,119.01,1,15,101.16,Central,Debit Card,Individual,3.0,2023-05
+TXN01691,2023-06-04,Office Chair,Furniture,445.48,3,5,1269.62,North,Cash,Corporate,5.0,2023-06
+TXN00445,2023-05-09,Backpack,Accessories,82.25,3,5,234.41,East,Cash,Individual,4.0,2023-05
+TXN00396,2024-08-14,Mouse,Accessories,43.3,3,20,103.92,North,Debit Card,Individual,3.0,2024-08
+TXN00177,2024-05-30,Desk,Furniture,636.3,5,10,2863.35,West,Cash,Enterprise,2.0,2024-05
+TXN01043,2024-05-16,Laptop,Electronics,1404.28,3,0,4212.84,East,Bank Transfer,Corporate,4.0,2024-05
+TXN01772,2024-10-21,Smartphone,Electronics,1049.56,3,0,3148.68,South,PayPal,Startup,3.0,2024-10
+TXN01430,2024-08-14,Smartphone,Electronics,667.19,4,0,2668.76,West,Credit Card,Enterprise,4.0,2024-08
+TXN01542,2023-01-29,Desk,Furniture,663.29,2,15,1127.59,East,Cash,Startup,5.0,2023-01
+TXN01408,2023-06-16,Headphones,Electronics,187.64,3,5,534.77,West,Credit Card,Startup,4.0,2023-06
+TXN00596,2023-08-09,Laptop,Electronics,1834.0,3,5,5226.9,West,PayPal,Individual,5.0,2023-08
+TXN00062,2023-05-14,Laptop,Electronics,899.47,1,0,899.47,West,Bank Transfer,Enterprise,4.0,2023-05
+TXN01297,2023-03-20,Backpack,Accessories,113.66,4,0,454.64,East,Debit Card,Individual,4.0,2023-03
+TXN00873,2023-05-14,Keyboard,Accessories,177.82,2,5,337.86,West,Debit Card,Corporate,4.0,2023-05
+TXN01784,2023-06-29,Smartphone,Electronics,348.4,3,15,888.42,East,Credit Card,Startup,5.0,2023-06
+TXN01919,2024-10-12,Notebook,Stationery,26.48,2,10,47.66,Central,Debit Card,Startup,4.0,2024-10
+TXN00279,2023-10-10,Monitor,Electronics,765.62,3,0,2296.86,South,Credit Card,Enterprise,3.0,2023-10
+TXN00037,2023-02-05,Smartphone,Electronics,1080.37,5,0,5401.85,West,Credit Card,Enterprise,5.0,2023-02
+TXN01547,2023-01-21,Smartphone,Electronics,747.01,5,5,3548.3,West,Bank Transfer,Corporate,5.0,2023-01
+TXN00663,2024-06-09,Mouse,Accessories,140.72,5,0,703.6,South,Debit Card,Enterprise,3.0,2024-06
+TXN01845,2024-11-08,Monitor,Electronics,429.35,5,5,2039.41,East,Bank Transfer,Corporate,4.0,2024-11
+TXN01473,2023-10-28,Smartphone,Electronics,515.64,5,15,2191.47,Central,Cash,Enterprise,4.0,2023-10
+TXN00978,2023-02-28,Keyboard,Accessories,109.74,5,5,521.26,West,Debit Card,Enterprise,3.0,2023-02
+TXN01603,2024-08-11,Monitor,Electronics,317.83,1,5,301.94,South,Debit Card,Startup,4.0,2024-08
+TXN00739,2024-01-24,Monitor,Electronics,855.46,1,20,684.37,South,Bank Transfer,Individual,4.0,2024-01
+TXN00192,2023-01-01,Mouse,Accessories,119.91,3,15,305.77,Unknown,Bank Transfer,Enterprise,4.0,2023-01
+TXN00920,2024-04-07,Keyboard,Accessories,173.23,1,15,147.25,East,Cash,Corporate,4.0,2024-04
+TXN00457,2023-03-05,Backpack,Accessories,143.78,2,5,273.18,West,Credit Card,Startup,3.0,2023-03
+TXN00676,2023-05-20,Headphones,Electronics,110.44,3,0,331.32,Central,Bank Transfer,Individual,4.0,2023-05
+TXN00761,2023-04-16,Keyboard,Accessories,43.31,5,10,194.9,South,PayPal,Individual,4.0,2023-04
+TXN01946,2023-05-26,Desk,Furniture,685.57,1,10,617.01,North,Credit Card,Corporate,4.0,2023-05
+TXN01742,2023-01-09,Monitor,Electronics,642.07,2,10,1155.73,North,Debit Card,Enterprise,4.0,2023-01
+TXN00729,2024-01-04,Smartphone,Electronics,1109.77,4,0,4439.08,West,Bank Transfer,Individual,4.0,2024-01
+TXN01400,2024-01-15,Notebook,Stationery,9.03,5,15,38.38,Central,Cash,Startup,4.0,2024-01
+TXN00413,2023-03-10,Office Chair,Furniture,156.19,1,0,156.19,North,Debit Card,Enterprise,4.0,2023-03
+TXN01099,2023-11-07,Notebook,Stationery,20.13,2,15,34.22,North,Debit Card,Enterprise,2.0,2023-11
+TXN00826,2023-07-10,Backpack,Accessories,114.21,3,0,342.63,South,PayPal,Startup,5.0,2023-07
+TXN01656,2024-10-30,Backpack,Accessories,127.62,3,0,382.86,South,Bank Transfer,Individual,4.0,2024-10
+TXN00617,2023-12-27,Keyboard,Accessories,76.0,3,5,216.6,North,Bank Transfer,Enterprise,4.0,2023-12
+TXN00115,2023-02-24,Monitor,Electronics,747.48,4,0,2989.92,Central,Debit Card,Corporate,5.0,2023-02
+TXN00418,2024-09-10,Monitor,Electronics,527.94,4,0,2111.76,Central,Cash,Corporate,5.0,2024-09
+TXN01951,2024-11-26,Notebook,Stationery,23.43,2,0,46.86,West,Cash,Startup,4.0,2024-11
+TXN00970,2024-09-22,Backpack,Accessories,125.38,4,0,501.52,East,Bank Transfer,Startup,3.0,2024-09
+TXN00605,2024-09-25,Keyboard,Accessories,52.22,2,20,83.55,East,Debit Card,Startup,4.0,2024-09
+TXN01959,2023-12-24,Notebook,Stationery,14.9,5,0,74.5,South,Cash,Individual,4.0,2023-12
+TXN00090,2024-07-27,Office Chair,Furniture,152.39,1,0,152.39,Central,PayPal,Enterprise,4.0,2024-07
+TXN00849,2024-02-19,Mouse,Accessories,121.97,2,0,243.94,Central,Credit Card,Enterprise,2.0,2024-02
+TXN01551,2023-06-04,Mouse,Accessories,76.12,3,0,228.36,North,Credit Card,Startup,1.0,2023-06
+TXN01958,2024-03-15,Headphones,Electronics,111.08,1,5,105.53,North,Credit Card,Enterprise,2.0,2024-03
+TXN00754,2024-03-30,Notebook,Stationery,9.92,2,15,16.86,North,Cash,Corporate,4.0,2024-03
+TXN00499,2023-01-05,Laptop,Electronics,899.28,3,10,2428.06,North,Bank Transfer,Startup,4.0,2023-01
+TXN01277,2024-08-17,Monitor,Electronics,758.72,3,0,2276.16,South,Debit Card,Corporate,4.0,2024-08
+TXN01326,2023-07-08,Desk,Furniture,374.91,5,0,1874.55,Central,Credit Card,Startup,3.0,2023-07
+TXN00012,2024-12-26,Laptop,Electronics,876.27,5,10,3943.22,Central,Credit Card,Startup,3.0,2024-12
+TXN00397,2023-11-09,Office Chair,Furniture,431.26,2,15,733.14,West,PayPal,Corporate,5.0,2023-11
+TXN00285,2023-07-09,Notebook,Stationery,11.11,4,10,40.0,West,PayPal,Enterprise,5.0,2023-07
+TXN01067,2023-02-11,Notebook,Stationery,6.73,1,0,6.73,East,PayPal,Individual,5.0,2023-02
+TXN01192,2023-02-20,Laptop,Electronics,1518.36,3,5,4327.33,West,Cash,Startup,4.0,2023-02
+TXN01781,2023-06-25,Office Chair,Furniture,335.11,3,20,804.26,Central,Credit Card,Startup,5.0,2023-06
+TXN00691,2023-07-18,Keyboard,Accessories,32.83,4,10,118.19,South,Credit Card,Enterprise,3.0,2023-07
+TXN01663,2023-09-03,Office Chair,Furniture,475.34,4,0,1901.36,North,Credit Card,Individual,4.0,2023-09
+TXN01916,2024-05-03,Mouse,Accessories,39.38,4,5,149.64,West,Credit Card,Corporate,5.0,2024-05
+TXN00690,2023-09-08,Laptop,Electronics,1001.62,2,0,2003.24,North,PayPal,Corporate,5.0,2023-09
+TXN00852,2023-01-23,Smartphone,Electronics,1197.16,1,0,1197.16,Central,Credit Card,Individual,4.0,2023-01
+TXN00160,2023-05-10,Headphones,Electronics,185.42,5,5,880.74,West,Cash,Corporate,3.0,2023-05
+TXN00896,2023-05-18,Laptop,Electronics,1518.66,4,10,5467.18,West,Debit Card,Enterprise,5.0,2023-05
+TXN01607,2023-03-22,Mouse,Accessories,123.03,5,5,584.39,North,Bank Transfer,Individual,4.0,2023-03
+TXN00258,2023-04-28,Laptop,Electronics,1517.87,3,10,4098.25,East,Credit Card,Corporate,4.0,2023-04
+TXN00336,2024-12-03,Backpack,Accessories,162.58,4,10,585.29,North,Credit Card,Corporate,2.0,2024-12
+TXN01920,2023-11-17,Headphones,Electronics,247.35,4,15,840.99,South,PayPal,Individual,3.0,2023-11
+TXN01040,2023-10-23,Smartphone,Electronics,1055.29,3,10,2849.28,Central,Debit Card,Startup,4.0,2023-10
+TXN00516,2024-02-20,Laptop,Electronics,1636.03,4,0,6544.12,West,PayPal,Corporate,3.0,2024-02
+TXN01349,2024-07-14,Keyboard,Accessories,153.82,5,5,730.64,South,Debit Card,Corporate,5.0,2024-07
+TXN01016,2023-05-27,Mouse,Accessories,128.92,2,10,232.06,Central,PayPal,Startup,3.0,2023-05
+TXN00769,2023-12-18,Backpack,Accessories,145.27,4,10,522.97,East,Bank Transfer,Corporate,2.0,2023-12
+TXN01783,2023-04-17,Notebook,Stationery,29.6,5,15,125.8,West,Debit Card,Corporate,4.0,2023-04
+TXN00762,2024-10-19,Notebook,Stationery,23.44,1,0,23.44,South,Credit Card,Individual,4.0,2024-10
+TXN01247,2023-12-08,Backpack,Accessories,145.86,1,0,145.86,West,Cash,Corporate,3.0,2023-12
+TXN01204,2024-08-03,Smartphone,Electronics,1137.48,5,10,5118.66,East,Cash,Startup,5.0,2024-08
+TXN01507,2024-09-22,Laptop,Electronics,1930.29,4,5,7335.1,East,Bank Transfer,Enterprise,4.0,2024-09
+TXN01942,2023-02-15,Backpack,Accessories,115.53,4,10,415.91,West,Debit Card,Startup,5.0,2023-02
+TXN00522,2024-06-13,Smartphone,Electronics,345.56,3,0,1036.68,Central,PayPal,Corporate,5.0,2024-06
+TXN00023,2023-07-06,Monitor,Electronics,598.25,1,0,598.25,North,Bank Transfer,Startup,4.0,2023-07
+TXN00357,2024-11-04,Monitor,Electronics,261.02,3,0,783.06,North,Bank Transfer,Individual,5.0,2024-11
+TXN01278,2023-03-12,Mouse,Accessories,38.3,4,0,153.2,East,Bank Transfer,Individual,2.0,2023-03
+TXN01313,2023-10-07,Keyboard,Accessories,170.08,1,0,170.08,West,Cash,Startup,4.0,2023-10
+TXN01717,2024-04-29,Laptop,Electronics,1187.89,1,10,1069.1,South,Credit Card,Enterprise,4.0,2024-04
+TXN00341,2024-06-27,Backpack,Accessories,59.67,1,10,53.7,South,Debit Card,Enterprise,4.0,2024-06
+TXN00432,2023-07-12,Notebook,Stationery,27.39,2,0,54.78,North,Credit Card,Startup,2.0,2023-07
+TXN00474,2023-09-27,Desk,Furniture,506.09,5,5,2403.93,East,Cash,Enterprise,4.0,2023-09
+TXN00218,2024-04-25,Monitor,Electronics,353.55,5,0,1767.75,North,Bank Transfer,Corporate,4.0,2024-04
+TXN00912,2024-04-09,Mouse,Accessories,103.64,3,10,279.83,South,PayPal,Individual,4.0,2024-04
+TXN01228,2023-02-13,Notebook,Stationery,26.02,5,5,123.59,East,Cash,Corporate,4.0,2023-02
+TXN01628,2024-09-08,Backpack,Accessories,116.36,2,10,209.45,South,Cash,Startup,2.0,2024-09
+TXN01012,2024-06-25,Keyboard,Accessories,153.45,5,0,767.25,South,Credit Card,Startup,4.0,2024-06
+TXN01990,2024-11-25,Headphones,Electronics,112.13,1,0,112.13,East,Debit Card,Enterprise,4.0,2024-11
+TXN00094,2024-08-03,Mouse,Accessories,98.79,3,0,296.37,West,Cash,Corporate,3.0,2024-08
+TXN01009,2024-09-01,Monitor,Electronics,831.08,5,0,4155.4,South,Bank Transfer,Individual,5.0,2024-09
+TXN01071,2023-09-02,Notebook,Stationery,9.96,2,0,19.92,West,Debit Card,Enterprise,5.0,2023-09
+TXN01093,2023-07-01,Office Chair,Furniture,366.06,1,5,347.76,West,PayPal,Startup,3.0,2023-07
+TXN01617,2024-12-27,Laptop,Electronics,1778.66,1,5,1689.73,East,Debit Card,Startup,5.0,2024-12
+TXN01309,2023-09-30,Office Chair,Furniture,225.83,4,0,903.32,North,PayPal,Corporate,4.0,2023-09
+TXN00697,2023-10-24,Smartphone,Electronics,1038.49,2,0,2076.98,North,Bank Transfer,Corporate,4.0,2023-10
+TXN01831,2023-08-01,Desk,Furniture,655.05,1,10,589.54,Unknown,PayPal,Corporate,3.0,2023-08
+TXN00997,2023-11-03,Backpack,Accessories,80.41,4,10,289.48,East,Cash,Enterprise,4.0,2023-11
+TXN01459,2024-11-07,Mouse,Accessories,142.51,1,0,142.51,South,Credit Card,Corporate,5.0,2024-11
+TXN00154,2024-08-11,Keyboard,Accessories,57.33,4,5,217.85,East,Debit Card,Enterprise,2.0,2024-08
+TXN01100,2023-04-04,Office Chair,Furniture,208.92,1,0,208.92,North,Bank Transfer,Enterprise,5.0,2023-04
+TXN01753,2024-11-18,Headphones,Electronics,109.29,1,15,92.9,West,Credit Card,Startup,4.0,2024-11
+TXN00790,2024-11-03,Desk,Furniture,229.92,1,0,229.92,South,Bank Transfer,Startup,4.0,2024-11
+TXN00581,2024-10-19,Backpack,Accessories,62.81,5,0,314.05,West,Credit Card,Enterprise,4.0,2024-10
+TXN01471,2023-01-10,Office Chair,Furniture,351.14,2,15,596.94,West,Cash,Individual,3.0,2023-01
+TXN01213,2023-01-20,Desk,Furniture,218.18,3,5,621.81,North,Debit Card,Startup,5.0,2023-01
+TXN01296,2024-06-22,Backpack,Accessories,58.1,2,0,116.2,South,Bank Transfer,Startup,5.0,2024-06
+TXN01700,2024-06-20,Notebook,Stationery,26.19,4,0,104.76,East,Credit Card,Corporate,5.0,2024-06
+TXN01261,2024-06-14,Desk,Furniture,287.38,2,0,574.76,North,PayPal,Startup,5.0,2024-06
+TXN00488,2023-04-29,Headphones,Electronics,107.69,4,10,387.68,East,Cash,Enterprise,4.0,2023-04
+TXN00560,2023-06-13,Backpack,Accessories,100.45,5,0,502.25,North,PayPal,Corporate,4.0,2023-06
+TXN01142,2023-04-21,Headphones,Electronics,334.11,3,5,952.21,South,Bank Transfer,Enterprise,3.0,2023-04
+TXN01120,2023-10-30,Mouse,Accessories,113.76,2,0,227.52,South,Bank Transfer,Individual,3.0,2023-10
+TXN00802,2024-06-06,Office Chair,Furniture,400.85,2,0,801.7,South,Debit Card,Individual,4.0,2024-06
+TXN00513,2023-07-16,Backpack,Accessories,85.71,2,0,171.42,West,Cash,Corporate,5.0,2023-07
+TXN00634,2023-08-07,Office Chair,Furniture,539.09,5,0,2695.45,West,Cash,Startup,5.0,2023-08
+TXN01510,2023-03-20,Mouse,Accessories,128.11,5,0,640.55,Central,Bank Transfer,Corporate,4.0,2023-03
+TXN01825,2023-02-07,Monitor,Electronics,619.96,5,5,2944.81,East,Bank Transfer,Individual,3.0,2023-02
+TXN01577,2023-06-26,Desk,Furniture,471.81,4,0,1887.24,South,Credit Card,Individual,4.0,2023-06
+TXN01151,2023-04-18,Notebook,Stationery,20.69,1,5,19.66,East,PayPal,Enterprise,4.0,2023-04
+TXN00791,2023-01-02,Keyboard,Accessories,73.82,1,0,73.82,West,Bank Transfer,Corporate,1.0,2023-01
+TXN00117,2023-08-27,Mouse,Accessories,45.49,5,5,216.08,East,PayPal,Individual,4.0,2023-08
+TXN01498,2024-08-16,Keyboard,Accessories,48.79,2,10,87.82,North,PayPal,Corporate,5.0,2024-08
+TXN00741,2023-11-07,Office Chair,Furniture,472.08,5,0,2360.4,East,Debit Card,Corporate,5.0,2023-11
+TXN01082,2023-11-12,Laptop,Electronics,1923.35,2,0,3846.7,North,Debit Card,Individual,3.0,2023-11
+TXN00831,2024-03-12,Mouse,Accessories,116.8,2,20,186.88,Central,Debit Card,Individual,3.0,2024-03
+TXN00120,2024-01-21,Smartphone,Electronics,1103.4,5,0,5517.0,South,Cash,Enterprise,4.0,2024-01
+TXN00657,2024-07-31,Smartphone,Electronics,900.06,5,0,4500.3,North,Bank Transfer,Startup,4.0,2024-07
+TXN01948,2023-06-05,Keyboard,Accessories,183.99,2,0,367.98,East,Credit Card,Enterprise,5.0,2023-06
+TXN00636,2024-03-27,Keyboard,Accessories,63.87,4,0,255.48,West,PayPal,Corporate,3.0,2024-03
+TXN00370,2024-09-10,Headphones,Electronics,269.64,5,15,1145.97,South,Debit Card,Corporate,5.0,2024-09
+TXN00269,2024-01-19,Mouse,Accessories,63.97,3,20,153.53,Central,Bank Transfer,Individual,1.0,2024-01
+TXN00656,2023-05-20,Notebook,Stationery,28.93,4,0,115.72,Central,Credit Card,Individual,4.0,2023-05
+TXN00936,2023-01-15,Headphones,Electronics,55.51,3,5,158.2,North,PayPal,Enterprise,4.0,2023-01
+TXN00823,2024-10-29,Notebook,Stationery,24.52,1,5,23.29,North,Cash,Startup,4.0,2024-10
+TXN00867,2023-04-28,Desk,Furniture,313.96,4,0,1255.84,South,Credit Card,Corporate,4.0,2023-04
+TXN00047,2023-12-02,Laptop,Electronics,1447.25,5,0,7236.25,East,Credit Card,Enterprise,4.0,2023-12
+TXN01374,2024-08-08,Smartphone,Electronics,723.48,4,0,2893.92,South,Credit Card,Enterprise,4.0,2024-08
+TXN01743,2024-11-19,Laptop,Electronics,1632.36,2,10,2938.25,North,PayPal,Corporate,3.0,2024-11
+TXN00992,2023-07-19,Office Chair,Furniture,264.13,2,5,501.85,West,Bank Transfer,Individual,1.0,2023-07
+TXN00877,2023-07-17,Smartphone,Electronics,980.72,3,5,2795.05,Central,PayPal,Startup,3.0,2023-07
+TXN00774,2024-12-19,Headphones,Electronics,305.47,1,5,290.2,North,PayPal,Startup,5.0,2024-12
+TXN01220,2024-08-04,Monitor,Electronics,543.41,3,0,1630.23,South,PayPal,Individual,3.0,2024-08
+TXN00005,2023-12-12,Office Chair,Furniture,573.99,2,0,1147.98,North,Cash,Enterprise,4.0,2023-12
+TXN01004,2023-04-05,Keyboard,Accessories,143.56,2,10,258.41,Central,Debit Card,Individual,4.0,2023-04
+TXN01759,2023-01-24,Smartphone,Electronics,635.1,4,15,2159.34,North,Debit Card,Enterprise,4.0,2023-01
+TXN00264,2023-12-08,Desk,Furniture,241.37,4,0,965.48,South,PayPal,Startup,5.0,2023-12
+TXN01601,2024-12-19,Laptop,Electronics,1308.0,3,0,3924.0,East,Debit Card,Corporate,3.0,2024-12
+TXN01869,2023-10-05,Mouse,Accessories,80.87,1,5,76.83,West,Debit Card,Corporate,4.0,2023-10
+TXN00444,2024-10-19,Laptop,Electronics,1501.6,2,0,3003.2,Central,Credit Card,Enterprise,4.0,2024-10
+TXN01003,2024-03-20,Smartphone,Electronics,1197.82,1,20,958.26,South,Debit Card,Individual,5.0,2024-03
+TXN01078,2023-02-28,Smartphone,Electronics,646.46,3,5,1842.41,Central,Debit Card,Individual,4.0,2023-02
+TXN00838,2024-10-08,Monitor,Electronics,785.94,4,10,2829.38,South,PayPal,Enterprise,4.0,2024-10
+TXN01828,2023-04-22,Smartphone,Electronics,984.61,3,5,2806.14,South,Debit Card,Startup,3.0,2023-04
+TXN00305,2023-12-07,Mouse,Accessories,24.77,4,0,99.08,South,Debit Card,Startup,2.0,2023-12
+TXN01366,2023-02-19,Smartphone,Electronics,334.14,4,10,1202.9,Central,Cash,Enterprise,3.0,2023-02
+TXN01589,2024-11-13,Smartphone,Electronics,412.84,3,15,1052.74,South,Debit Card,Enterprise,5.0,2024-11
+TXN00314,2023-10-06,Notebook,Stationery,27.75,1,0,27.75,West,Cash,Individual,4.0,2023-10
+TXN00150,2024-08-15,Smartphone,Electronics,372.94,4,0,1491.76,North,Bank Transfer,Enterprise,4.0,2024-08
+TXN01149,2024-11-12,Monitor,Electronics,451.13,2,0,902.26,West,Cash,Corporate,1.0,2024-11
+TXN01214,2024-02-19,Mouse,Accessories,21.11,3,0,63.33,North,Debit Card,Individual,4.0,2024-02
+TXN00575,2023-11-26,Keyboard,Accessories,163.92,5,0,819.6,East,Debit Card,Startup,4.0,2023-11
+TXN00051,2024-01-11,Notebook,Stationery,22.42,5,15,95.29,West,Bank Transfer,Individual,3.0,2024-01
+TXN01584,2023-12-15,Notebook,Stationery,27.89,2,5,52.99,South,PayPal,Corporate,5.0,2023-12
+TXN00727,2023-03-07,Office Chair,Furniture,383.44,3,0,1150.32,Central,Cash,Individual,2.0,2023-03
+TXN00834,2024-03-19,Office Chair,Furniture,477.79,5,0,2388.95,North,Bank Transfer,Individual,4.0,2024-03
+TXN01378,2023-02-07,Keyboard,Accessories,106.2,4,10,382.32,South,PayPal,Startup,5.0,2023-02
+TXN01116,2024-12-01,Desk,Furniture,231.83,4,0,927.32,East,Credit Card,Corporate,4.0,2024-12
+TXN01167,2024-06-19,Office Chair,Furniture,291.32,3,0,873.96,Central,Debit Card,Enterprise,4.0,2024-06
+TXN00471,2023-09-28,Headphones,Electronics,347.53,1,15,295.4,North,Bank Transfer,Individual,5.0,2023-09
+TXN00972,2023-03-22,Desk,Furniture,301.06,4,5,1144.03,Central,Debit Card,Startup,5.0,2023-03
+TXN00654,2024-05-01,Monitor,Electronics,687.94,2,5,1307.09,South,Cash,Enterprise,4.0,2024-05
+TXN00400,2023-07-16,Laptop,Electronics,1142.91,1,5,1085.76,North,Cash,Individual,4.0,2023-07
+TXN00512,2024-05-01,Headphones,Electronics,119.41,3,0,358.23,North,Cash,Startup,4.0,2024-05
+TXN00321,2023-08-22,Notebook,Stationery,5.97,3,0,17.91,South,PayPal,Individual,4.0,2023-08
+TXN00020,2024-11-29,Headphones,Electronics,140.26,1,20,112.21,East,Debit Card,Enterprise,2.0,2024-11
+TXN00685,2023-02-11,Keyboard,Accessories,190.03,2,0,380.06,South,Bank Transfer,Individual,3.0,2023-02
+TXN00036,2023-06-25,Laptop,Electronics,1818.4,1,10,1636.56,East,Debit Card,Startup,4.0,2023-06
+TXN00903,2023-10-26,Desk,Furniture,293.92,3,5,837.67,Central,Bank Transfer,Corporate,3.0,2023-10
+TXN01816,2024-06-20,Smartphone,Electronics,536.26,2,10,965.27,North,Cash,Corporate,4.0,2024-06
+TXN00828,2024-12-13,Mouse,Accessories,136.94,3,0,410.82,West,Bank Transfer,Individual,5.0,2024-12
+TXN01835,2023-08-23,Keyboard,Accessories,102.66,4,15,349.04,West,PayPal,Enterprise,3.0,2023-08
+TXN00408,2023-09-05,Desk,Furniture,766.84,3,15,1955.44,East,Debit Card,Corporate,4.0,2023-09
+TXN00921,2024-08-09,Monitor,Electronics,667.71,1,0,667.71,North,Credit Card,Enterprise,5.0,2024-08
+TXN00538,2024-01-09,Notebook,Stationery,10.83,5,5,51.44,North,Bank Transfer,Corporate,3.0,2024-01
+TXN00759,2023-02-28,Laptop,Electronics,996.34,4,0,3985.36,West,Debit Card,Startup,3.0,2023-02
+TXN01945,2024-06-16,Office Chair,Furniture,453.23,3,0,1359.69,South,Debit Card,Startup,3.0,2024-06
+TXN01063,2023-03-03,Smartphone,Electronics,1099.07,3,0,3297.21,West,PayPal,Individual,5.0,2023-03
+TXN01200,2023-12-24,Smartphone,Electronics,1005.77,1,0,1005.77,East,Debit Card,Startup,5.0,2023-12
+TXN00246,2024-04-10,Monitor,Electronics,739.57,1,15,628.63,North,Bank Transfer,Startup,2.0,2024-04
+TXN01417,2024-07-05,Notebook,Stationery,11.7,2,0,23.4,East,Credit Card,Enterprise,4.0,2024-07
+TXN01128,2023-11-13,Backpack,Accessories,132.31,2,0,264.62,South,Bank Transfer,Enterprise,5.0,2023-11
+TXN00785,2024-11-02,Notebook,Stationery,28.13,2,0,56.26,South,Debit Card,Enterprise,1.0,2024-11
+TXN00490,2024-11-26,Headphones,Electronics,143.56,3,0,430.68,South,Credit Card,Corporate,4.0,2024-11
+TXN00155,2023-12-31,Laptop,Electronics,1471.81,2,5,2796.44,West,PayPal,Corporate,1.0,2023-12
+TXN00962,2024-07-30,Laptop,Electronics,1161.75,4,10,4182.3,East,Credit Card,Corporate,3.0,2024-07
+TXN00854,2023-11-11,Smartphone,Electronics,1066.77,3,0,3200.31,Central,Debit Card,Startup,4.0,2023-11
+TXN01312,2024-12-22,Office Chair,Furniture,520.45,1,20,416.36,North,Debit Card,Corporate,4.0,2024-12
+TXN00626,2024-11-24,Mouse,Accessories,25.06,5,0,125.3,South,Bank Transfer,Startup,4.0,2024-11
+TXN00686,2024-01-12,Backpack,Accessories,162.45,3,0,487.35,North,Bank Transfer,Individual,4.0,2024-01
+TXN01593,2024-01-10,Backpack,Accessories,141.47,3,0,424.41,West,Bank Transfer,Startup,4.0,2024-01
+TXN00570,2023-09-03,Desk,Furniture,671.56,3,0,2014.68,North,Bank Transfer,Individual,4.0,2023-09
+TXN01949,2024-10-27,Desk,Furniture,367.18,4,0,1468.72,East,Debit Card,Corporate,4.0,2024-10
+TXN00018,2024-11-07,Backpack,Accessories,88.77,3,0,266.31,West,Debit Card,Enterprise,3.0,2024-11
+TXN00128,2024-10-25,Keyboard,Accessories,133.77,2,0,267.54,Central,Bank Transfer,Enterprise,3.0,2024-10
+TXN01347,2024-05-15,Office Chair,Furniture,252.11,3,10,680.7,West,PayPal,Startup,3.0,2024-05
+TXN01280,2023-11-02,Laptop,Electronics,931.28,3,0,2793.84,West,Debit Card,Startup,5.0,2023-11
+TXN00928,2023-07-15,Keyboard,Accessories,113.87,3,10,307.45,South,Cash,Startup,4.0,2023-07
+TXN00981,2024-09-11,Office Chair,Furniture,361.13,4,0,1444.52,South,Debit Card,Enterprise,5.0,2024-09
+TXN00191,2024-02-18,Smartphone,Electronics,895.47,2,0,1790.94,East,Credit Card,Corporate,5.0,2024-02
+TXN01140,2024-06-29,Backpack,Accessories,197.77,2,0,395.54,West,Credit Card,Enterprise,3.0,2024-06
+TXN00993,2024-10-04,Notebook,Stationery,20.24,4,0,80.96,South,Debit Card,Individual,4.0,2024-10
+TXN01996,2023-07-27,Office Chair,Furniture,330.4,2,10,660.8,South,Bank Transfer,Startup,4.0,2023-07
+TXN01690,2023-05-31,Notebook,Stationery,8.72,4,0,34.88,Central,PayPal,Corporate,4.0,2023-05
+TXN00607,2024-06-30,Mouse,Accessories,127.28,1,0,127.28,West,Credit Card,Startup,4.0,2024-06
+TXN00181,2024-07-06,Smartphone,Electronics,462.88,5,0,2314.4,North,Cash,Individual,4.0,2024-07
+TXN00302,2023-03-28,Mouse,Accessories,98.08,1,0,98.08,South,Credit Card,Corporate,4.0,2023-03
+TXN00497,2024-09-16,Desk,Furniture,550.16,2,0,1100.32,North,Cash,Startup,1.0,2024-09
+TXN01730,2023-04-17,Laptop,Electronics,1994.06,5,10,8973.27,North,Bank Transfer,Individual,4.0,2023-04
+TXN01744,2024-09-28,Laptop,Electronics,1278.36,5,5,6072.21,North,Credit Card,Corporate,4.0,2024-09
+TXN01695,2023-01-31,Mouse,Accessories,64.21,3,0,192.63,West,PayPal,Individual,4.0,2023-01
+TXN01670,2024-06-07,Monitor,Electronics,497.0,4,0,1988.0,West,Bank Transfer,Individual,3.0,2024-06
+TXN00518,2024-12-14,Smartphone,Electronics,408.35,1,0,408.35,East,Bank Transfer,Startup,4.0,2024-12
+TXN01070,2024-02-02,Laptop,Electronics,1097.08,2,20,1755.33,South,PayPal,Enterprise,5.0,2024-02
+TXN00477,2023-12-15,Headphones,Electronics,331.67,3,0,995.01,West,Cash,Individual,1.0,2023-12
+TXN00158,2023-08-15,Smartphone,Electronics,1084.38,5,0,5421.9,East,Cash,Startup,2.0,2023-08
+TXN01244,2024-07-13,Office Chair,Furniture,489.27,2,0,978.54,North,PayPal,Corporate,3.0,2024-07
+TXN01196,2024-04-20,Backpack,Accessories,44.8,2,0,89.6,Central,Debit Card,Enterprise,5.0,2024-04
+TXN00017,2023-08-13,Notebook,Stationery,8.05,1,0,8.05,South,PayPal,Corporate,1.0,2023-08
+TXN01536,2023-06-22,Smartphone,Electronics,1033.31,2,0,2066.62,North,Debit Card,Individual,5.0,2023-06
+TXN01073,2023-04-15,Smartphone,Electronics,1190.41,5,0,5952.05,North,Bank Transfer,Startup,5.0,2023-04
+TXN00547,2023-02-12,Office Chair,Furniture,440.21,3,0,1320.63,North,PayPal,Individual,4.0,2023-02
+TXN01540,2024-02-22,Laptop,Electronics,1494.46,1,0,1494.46,North,Credit Card,Corporate,3.0,2024-02
+TXN00659,2023-07-11,Headphones,Electronics,152.49,5,0,762.45,North,Debit Card,Enterprise,5.0,2023-07
+TXN01657,2023-05-17,Headphones,Electronics,78.73,3,10,212.57,South,Cash,Corporate,3.0,2023-05
+TXN01020,2023-01-22,Headphones,Electronics,216.22,3,0,648.66,East,Debit Card,Enterprise,2.0,2023-01
+TXN01756,2023-01-08,Desk,Furniture,348.63,1,0,348.63,Central,PayPal,Individual,4.0,2023-01
+TXN01505,2023-08-18,Keyboard,Accessories,173.71,2,0,347.42,North,Credit Card,Individual,4.0,2023-08
+TXN00960,2023-07-24,Backpack,Accessories,81.01,1,5,76.96,South,Bank Transfer,Startup,2.0,2023-07
+TXN01922,2023-11-24,Office Chair,Furniture,308.04,3,20,739.3,Central,Bank Transfer,Individual,4.0,2023-11
+TXN00284,2024-12-28,Smartphone,Electronics,1039.47,4,0,4157.88,East,PayPal,Enterprise,4.0,2024-12
+TXN00798,2023-11-07,Smartphone,Electronics,1079.94,2,0,2159.88,South,Debit Card,Corporate,4.0,2023-11
+TXN01658,2023-06-20,Desk,Furniture,325.12,3,15,829.06,North,PayPal,Corporate,4.0,2023-06
+TXN00226,2023-03-01,Monitor,Electronics,250.22,3,5,713.13,South,PayPal,Individual,5.0,2023-03
+TXN00027,2023-07-27,Keyboard,Accessories,87.64,3,10,236.63,Central,Credit Card,Enterprise,5.0,2023-07
+TXN01808,2024-04-23,Mouse,Accessories,133.25,2,10,239.85,West,Credit Card,Startup,2.0,2024-04
+TXN00438,2024-10-05,Headphones,Electronics,71.0,3,10,191.7,East,Cash,Startup,4.0,2024-10
+TXN01989,2024-05-24,Notebook,Stationery,5.89,4,0,23.56,North,Credit Card,Enterprise,4.0,2024-05
+TXN01389,2024-01-02,Laptop,Electronics,1058.26,1,0,1058.26,West,Bank Transfer,Individual,5.0,2024-01
+TXN00230,2024-03-30,Headphones,Electronics,160.33,4,0,641.32,West,Bank Transfer,Corporate,3.0,2024-03
+TXN00038,2024-12-27,Headphones,Electronics,151.4,4,5,575.32,West,PayPal,Individual,3.0,2024-12
+TXN00750,2024-05-09,Laptop,Electronics,839.61,5,5,3988.15,West,PayPal,Enterprise,3.0,2024-05
+TXN01046,2024-12-13,Headphones,Electronics,179.66,1,5,170.68,West,Bank Transfer,Startup,4.0,2024-12
+TXN01399,2024-06-03,Monitor,Electronics,785.42,1,0,785.42,East,Credit Card,Enterprise,4.0,2024-06
+TXN00470,2023-08-14,Notebook,Stationery,25.56,2,0,51.12,East,Bank Transfer,Individual,4.0,2023-08
+TXN01727,2023-07-20,Mouse,Accessories,82.31,2,0,164.62,North,Debit Card,Enterprise,4.0,2023-07
+TXN00688,2024-05-24,Backpack,Accessories,179.13,2,10,322.43,North,Debit Card,Individual,4.0,2024-05
+TXN01882,2023-03-21,Backpack,Accessories,53.46,2,0,106.92,North,Debit Card,Startup,3.0,2023-03
+TXN00640,2023-03-20,Keyboard,Accessories,111.22,5,0,556.1,East,Bank Transfer,Corporate,4.0,2023-03
+TXN01747,2024-06-27,Notebook,Stationery,28.97,4,5,110.09,North,Debit Card,Startup,4.0,2024-06
+TXN01219,2024-05-04,Headphones,Electronics,323.24,5,5,1535.39,East,Credit Card,Individual,3.0,2024-05
+TXN01159,2023-08-23,Desk,Furniture,683.61,1,0,683.61,West,Credit Card,Individual,3.0,2023-08
+TXN01416,2023-03-23,Smartphone,Electronics,1108.1,1,0,1108.1,West,Credit Card,Corporate,4.0,2023-03
+TXN01528,2024-05-09,Notebook,Stationery,27.36,5,5,129.96,North,Bank Transfer,Enterprise,4.0,2024-05
+TXN01301,2024-11-27,Laptop,Electronics,1778.25,1,0,1778.25,East,Credit Card,Corporate,4.0,2024-11
+TXN01861,2024-08-09,Smartphone,Electronics,804.83,5,0,4024.15,East,PayPal,Startup,3.0,2024-08
+TXN00801,2024-06-14,Backpack,Accessories,93.33,5,10,419.98,North,PayPal,Enterprise,4.0,2024-06
+TXN01604,2024-12-26,Laptop,Electronics,926.93,4,10,3336.95,East,Debit Card,Individual,2.0,2024-12
+TXN00161,2023-01-21,Headphones,Electronics,335.26,4,0,1341.04,Central,Bank Transfer,Startup,4.0,2023-01
+TXN00957,2024-12-11,Notebook,Stationery,23.84,2,10,42.91,East,PayPal,Individual,2.0,2024-12
+TXN01187,2024-01-11,Mouse,Accessories,63.27,3,10,170.83,East,PayPal,Startup,1.0,2024-01
+TXN00822,2024-04-20,Keyboard,Accessories,150.23,4,10,540.83,North,Bank Transfer,Corporate,4.0,2024-04
+TXN01786,2024-04-06,Headphones,Electronics,77.27,2,0,154.54,East,Debit Card,Enterprise,4.0,2024-04
+TXN00878,2023-03-12,Notebook,Stationery,9.74,1,15,8.28,North,Debit Card,Enterprise,4.0,2023-03
+TXN00914,2023-08-01,Mouse,Accessories,32.85,4,15,111.69,Central,Cash,Enterprise,4.0,2023-08
+TXN00153,2023-01-31,Monitor,Electronics,372.99,5,15,1585.21,West,Debit Card,Enterprise,4.0,2023-01
+TXN01875,2024-09-30,Keyboard,Accessories,117.25,4,0,469.0,South,Bank Transfer,Enterprise,4.0,2024-09
+TXN01814,2024-03-07,Headphones,Electronics,114.71,2,0,229.42,South,Credit Card,Startup,5.0,2024-03
+TXN00510,2023-06-13,Laptop,Electronics,1879.11,2,0,3758.22,South,Debit Card,Enterprise,4.0,2023-06
+TXN01136,2023-11-27,Office Chair,Furniture,420.62,5,10,1892.79,East,Credit Card,Individual,4.0,2023-11
+TXN01251,2023-11-21,Laptop,Electronics,1945.57,3,10,5253.04,East,Bank Transfer,Enterprise,3.0,2023-11
+TXN01698,2024-04-02,Smartphone,Electronics,1158.29,3,0,3474.87,South,Cash,Corporate,4.0,2024-04
+TXN00104,2024-01-31,Monitor,Electronics,397.78,2,15,676.23,Central,Debit Card,Individual,3.0,2024-01
+TXN01446,2023-01-11,Keyboard,Accessories,84.4,1,15,71.74,North,PayPal,Corporate,3.0,2023-01
+TXN01444,2024-04-12,Laptop,Electronics,1492.49,3,0,4477.47,South,PayPal,Enterprise,4.0,2024-04
+TXN01775,2023-03-08,Desk,Furniture,255.16,4,5,969.61,West,PayPal,Corporate,5.0,2023-03
+TXN00587,2024-09-02,Office Chair,Furniture,539.89,1,20,431.91,North,PayPal,Enterprise,4.0,2024-09
+TXN01806,2024-02-19,Monitor,Electronics,360.03,5,20,1440.12,North,Credit Card,Enterprise,5.0,2024-02
+TXN01144,2023-06-11,Headphones,Electronics,338.22,4,5,1285.24,South,Cash,Enterprise,5.0,2023-06
+TXN00054,2023-03-17,Headphones,Electronics,166.76,4,20,533.63,South,Cash,Corporate,4.0,2023-03
+TXN00152,2024-07-10,Laptop,Electronics,988.81,1,0,988.81,West,Debit Card,Enterprise,4.0,2024-07
+TXN00404,2024-08-08,Backpack,Accessories,158.43,2,0,316.86,West,Debit Card,Startup,4.0,2024-08
+TXN00208,2024-10-16,Laptop,Electronics,1060.09,1,0,1060.09,North,PayPal,Corporate,3.0,2024-10
+TXN01935,2023-07-10,Laptop,Electronics,1873.43,2,10,3372.17,Central,Debit Card,Corporate,3.0,2023-07
+TXN01683,2024-10-24,Smartphone,Electronics,478.56,2,15,813.55,North,Debit Card,Corporate,5.0,2024-10
+TXN01123,2023-11-03,Mouse,Accessories,92.23,1,0,92.23,South,Debit Card,Corporate,3.0,2023-11
+TXN01787,2023-09-29,Keyboard,Accessories,192.16,4,15,653.34,North,PayPal,Startup,4.0,2023-09
+TXN00009,2024-05-07,Mouse,Accessories,66.38,4,5,252.24,North,Bank Transfer,Individual,1.0,2024-05
+TXN01015,2023-12-25,Headphones,Electronics,216.66,3,0,649.98,South,PayPal,Individual,4.0,2023-12
+TXN01834,2024-01-30,Smartphone,Electronics,1002.9,5,0,5014.5,South,Bank Transfer,Corporate,5.0,2024-01
+TXN01061,2024-04-10,Mouse,Accessories,126.81,3,0,380.43,South,Credit Card,Individual,5.0,2024-04
+TXN00453,2023-03-09,Desk,Furniture,718.66,2,0,1437.32,Central,PayPal,Startup,4.0,2023-03
+TXN01676,2024-03-16,Backpack,Accessories,67.59,4,15,229.81,East,Bank Transfer,Startup,3.0,2024-03
+TXN01328,2024-09-12,Keyboard,Accessories,99.67,4,0,398.68,North,Debit Card,Startup,4.0,2024-09
+TXN00897,2023-03-06,Laptop,Electronics,1460.65,5,0,7303.25,North,Bank Transfer,Enterprise,3.0,2023-03
+TXN01770,2023-10-10,Backpack,Accessories,103.03,2,10,185.45,South,Bank Transfer,Corporate,4.0,2023-10
+TXN00881,2023-10-19,Office Chair,Furniture,218.39,1,5,207.47,North,Cash,Startup,4.0,2023-10
+TXN01596,2023-11-26,Monitor,Electronics,719.8,1,0,719.8,East,PayPal,Corporate,5.0,2023-11
+TXN01929,2023-11-10,Office Chair,Furniture,431.95,2,15,734.32,East,Cash,Enterprise,3.0,2023-11
+TXN00624,2024-05-27,Laptop,Electronics,1668.84,1,0,1668.84,North,Cash,Individual,4.0,2024-05
+TXN00346,2023-05-21,Backpack,Accessories,174.83,4,5,664.35,South,Cash,Startup,2.0,2023-05
+TXN01737,2024-04-09,Monitor,Electronics,302.66,4,20,968.51,South,Bank Transfer,Individual,1.0,2024-04
+TXN00263,2023-12-30,Backpack,Accessories,41.12,1,0,41.12,North,Cash,Enterprise,4.0,2023-12
+TXN01635,2023-10-26,Office Chair,Furniture,326.58,4,0,1306.32,Central,Credit Card,Individual,4.0,2023-10
+TXN01322,2024-07-22,Monitor,Electronics,668.51,4,0,2674.04,Central,Cash,Individual,5.0,2024-07
+TXN01439,2023-09-03,Notebook,Stationery,26.39,2,10,47.5,East,Cash,Individual,4.0,2023-09
+TXN00151,2023-10-16,Headphones,Electronics,297.4,2,0,594.8,Central,PayPal,Enterprise,4.0,2023-10
+TXN00473,2024-12-08,Keyboard,Accessories,49.89,2,0,99.78,South,Bank Transfer,Individual,4.0,2024-12
+TXN00641,2023-10-14,Backpack,Accessories,186.82,3,10,504.41,West,Credit Card,Individual,4.0,2023-10
+TXN00402,2023-07-21,Notebook,Stationery,27.87,2,0,55.74,North,Debit Card,Individual,4.0,2023-07
+TXN01923,2024-05-03,Headphones,Electronics,189.31,1,0,189.31,South,Bank Transfer,Individual,4.0,2024-05
+TXN00551,2023-11-22,Notebook,Stationery,16.91,1,0,16.91,East,PayPal,Individual,4.0,2023-11
+TXN01817,2024-11-18,Desk,Furniture,459.23,2,0,918.46,North,PayPal,Corporate,5.0,2024-11
+TXN00929,2024-10-13,Notebook,Stationery,11.48,1,0,11.48,Central,Cash,Enterprise,4.0,2024-10
+TXN00489,2024-07-23,Laptop,Electronics,1137.94,2,0,2275.88,West,Credit Card,Enterprise,4.0,2024-07
+TXN01850,2024-01-13,Backpack,Accessories,104.96,2,10,188.93,Central,Bank Transfer,Startup,4.0,2024-01
+TXN01172,2023-02-15,Backpack,Accessories,112.68,3,10,304.24,East,PayPal,Corporate,5.0,2023-02
+TXN00147,2023-04-30,Laptop,Electronics,984.68,3,0,2954.04,West,Credit Card,Individual,5.0,2023-04
+TXN01739,2023-10-31,Office Chair,Furniture,453.81,1,10,408.43,Central,Debit Card,Corporate,3.0,2023-10
+TXN01969,2023-03-05,Desk,Furniture,350.24,1,0,350.24,South,Cash,Corporate,4.0,2023-03
+TXN00403,2024-11-19,Backpack,Accessories,158.06,2,5,300.31,South,PayPal,Startup,3.0,2024-11
+TXN00955,2024-09-16,Notebook,Stationery,27.38,5,15,116.36,Central,Debit Card,Startup,1.0,2024-09
+TXN01918,2023-04-27,Smartphone,Electronics,733.75,3,5,2091.19,West,Credit Card,Startup,4.0,2023-04
+TXN00660,2024-04-24,Monitor,Electronics,638.25,3,0,1914.75,Central,Cash,Startup,5.0,2024-04
+TXN01373,2024-11-30,Headphones,Electronics,297.56,5,20,1190.24,East,Bank Transfer,Startup,4.0,2024-11
+TXN00464,2024-06-06,Laptop,Electronics,1823.06,5,0,9115.3,West,Cash,Corporate,3.0,2024-06
+TXN01350,2023-06-10,Keyboard,Accessories,149.04,5,0,745.2,West,Debit Card,Startup,3.0,2023-06
+TXN00187,2023-06-10,Laptop,Electronics,804.55,5,15,4022.75,East,Cash,Corporate,4.0,2023-06
+TXN01148,2024-02-05,Desk,Furniture,742.64,5,10,3341.88,South,Cash,Startup,4.0,2024-02
+TXN01225,2024-06-06,Notebook,Stationery,20.83,1,0,20.83,East,Bank Transfer,Enterprise,4.0,2024-06
+TXN00609,2023-01-07,Office Chair,Furniture,368.54,1,0,368.54,Central,Debit Card,Enterprise,3.0,2023-01
+TXN00144,2024-10-21,Backpack,Accessories,158.94,4,0,635.76,West,Bank Transfer,Startup,4.0,2024-10
+TXN00752,2023-04-25,Backpack,Accessories,96.12,1,10,86.51,Central,Bank Transfer,Startup,3.0,2023-04
+TXN01535,2023-03-15,Notebook,Stationery,15.02,3,15,38.3,North,Debit Card,Enterprise,4.0,2023-03
+TXN00982,2024-07-24,Laptop,Electronics,1352.12,5,0,6760.6,North,PayPal,Startup,3.0,2024-07
+TXN00198,2023-10-20,Notebook,Stationery,7.72,5,0,38.6,North,Cash,Startup,4.0,2023-10
+TXN01634,2024-08-03,Office Chair,Furniture,235.4,3,0,706.2,West,Bank Transfer,Enterprise,4.0,2024-08
+TXN00280,2024-09-04,Mouse,Accessories,136.22,4,10,490.39,South,PayPal,Enterprise,3.0,2024-09
+TXN00294,2024-02-02,Backpack,Accessories,88.76,1,0,88.76,North,Bank Transfer,Individual,2.0,2024-02
+TXN01862,2023-02-27,Notebook,Stationery,16.64,3,15,42.43,North,Cash,Corporate,5.0,2023-02
+TXN00401,2024-04-21,Monitor,Electronics,726.77,3,10,1962.28,North,Bank Transfer,Enterprise,3.0,2024-04
+TXN00123,2024-10-27,Backpack,Accessories,62.3,3,0,186.9,East,Bank Transfer,Corporate,3.0,2024-10
+TXN01208,2023-01-27,Laptop,Electronics,1755.1,2,10,3159.18,East,Cash,Corporate,3.0,2023-01
+TXN00203,2023-06-08,Keyboard,Accessories,145.79,2,10,262.42,West,Credit Card,Corporate,3.0,2023-06
+TXN01463,2024-10-31,Office Chair,Furniture,155.97,3,0,467.91,North,Cash,Startup,4.0,2024-10
+TXN00836,2023-06-26,Headphones,Electronics,254.78,2,0,509.56,Central,Cash,Startup,4.0,2023-06
+TXN00247,2023-02-13,Smartphone,Electronics,492.16,3,0,1476.48,West,PayPal,Individual,4.0,2023-02
+TXN01440,2024-12-28,Notebook,Stationery,10.4,3,20,24.96,West,Debit Card,Startup,5.0,2024-12
+TXN01734,2024-05-23,Notebook,Stationery,22.32,3,10,60.26,West,Bank Transfer,Enterprise,4.0,2024-05
+TXN01790,2023-04-28,Headphones,Electronics,176.6,1,0,176.6,West,PayPal,Enterprise,4.0,2023-04
+TXN01708,2024-05-01,Smartphone,Electronics,513.43,3,20,1232.23,North,Credit Card,Individual,5.0,2024-05
+TXN01921,2024-07-13,Backpack,Accessories,83.48,3,0,250.44,North,Debit Card,Corporate,4.0,2024-07
+TXN01154,2023-05-01,Laptop,Electronics,1931.12,4,10,6952.03,West,Debit Card,Enterprise,4.0,2023-05
+TXN01662,2024-02-12,Mouse,Accessories,30.62,4,5,116.36,East,Cash,Corporate,5.0,2024-02
+TXN01427,2024-11-09,Monitor,Electronics,478.29,3,15,1219.64,West,Cash,Startup,4.0,2024-11
+TXN00385,2023-02-07,Headphones,Electronics,65.57,4,20,209.82,West,Cash,Startup,4.0,2023-02
+TXN01795,2024-03-07,Mouse,Accessories,43.59,3,0,130.77,Central,Cash,Enterprise,4.0,2024-03
+TXN01760,2023-12-27,Keyboard,Accessories,174.96,4,10,629.86,East,Debit Card,Startup,5.0,2023-12
+TXN00855,2024-10-18,Backpack,Accessories,154.23,2,10,277.61,North,Cash,Individual,5.0,2024-10
+TXN01590,2024-09-18,Laptop,Electronics,1966.98,5,0,9834.9,North,Credit Card,Startup,5.0,2024-09
+TXN00220,2023-11-12,Monitor,Electronics,847.6,3,5,2415.66,Central,Debit Card,Enterprise,5.0,2023-11
+TXN00642,2023-08-14,Office Chair,Furniture,436.04,2,0,872.08,West,Bank Transfer,Corporate,3.0,2023-08
+TXN00002,2023-12-10,Mouse,Accessories,63.38,3,0,190.14,West,Debit Card,Enterprise,4.0,2023-12
+TXN00113,2024-12-23,Laptop,Electronics,1171.92,3,0,3515.76,South,Bank Transfer,Individual,2.0,2024-12
+TXN00699,2024-04-23,Backpack,Accessories,47.53,2,0,95.06,South,PayPal,Startup,3.0,2024-04
+TXN01956,2024-05-25,Laptop,Electronics,1039.21,5,0,5196.05,North,Cash,Enterprise,4.0,2024-05
+TXN00952,2023-09-18,Notebook,Stationery,26.87,1,15,22.84,South,PayPal,Startup,4.0,2023-09
+TXN01649,2023-11-13,Smartphone,Electronics,1085.17,4,15,3689.58,West,PayPal,Startup,4.0,2023-11
+TXN01637,2024-03-30,Laptop,Electronics,1421.13,3,5,4050.22,North,Cash,Individual,4.0,2024-03
+TXN01785,2023-03-20,Smartphone,Electronics,612.33,1,10,551.1,Central,PayPal,Startup,3.0,2023-03
+TXN01411,2023-07-18,Backpack,Accessories,74.4,5,0,372.0,North,Cash,Startup,5.0,2023-07
+TXN01410,2024-08-05,Desk,Furniture,507.48,5,0,2537.4,North,Credit Card,Corporate,2.0,2024-08
+TXN01534,2024-12-02,Smartphone,Electronics,553.42,3,5,1577.25,Unknown,Cash,Individual,4.0,2024-12
+TXN01292,2023-04-19,Office Chair,Furniture,314.36,4,0,1257.44,North,Debit Card,Enterprise,4.0,2023-04
+TXN01847,2023-10-29,Laptop,Electronics,1722.04,4,15,5854.94,East,Bank Transfer,Individual,1.0,2023-10
+TXN00442,2024-05-04,Laptop,Electronics,1109.88,3,0,3329.64,East,Debit Card,Enterprise,4.0,2024-05
+TXN01521,2024-06-03,Laptop,Electronics,1040.08,2,0,2080.16,West,Bank Transfer,Enterprise,3.0,2024-06
+TXN01137,2023-01-30,Headphones,Electronics,50.41,5,10,226.84,North,Cash,Individual,4.0,2023-01
+TXN01716,2024-07-20,Smartphone,Electronics,480.77,2,0,961.54,South,Credit Card,Enterprise,4.0,2024-07
+TXN01257,2024-03-21,Office Chair,Furniture,361.25,2,0,722.5,South,Bank Transfer,Enterprise,4.0,2024-03
+TXN01903,2024-01-17,Desk,Furniture,711.13,5,15,3022.3,North,Credit Card,Startup,4.0,2024-01
+TXN01632,2024-03-02,Office Chair,Furniture,581.33,1,5,552.26,North,Debit Card,Enterprise,3.0,2024-03
+TXN01696,2024-03-24,Laptop,Electronics,890.43,4,0,3561.72,Central,Credit Card,Startup,4.0,2024-03
+TXN01398,2023-05-16,Smartphone,Electronics,609.08,3,0,1827.24,North,PayPal,Enterprise,4.0,2023-05
+TXN00664,2024-10-18,Keyboard,Accessories,74.01,1,10,66.61,West,PayPal,Individual,4.0,2024-10
+TXN01874,2023-11-25,Keyboard,Accessories,167.06,4,15,568.0,West,Cash,Corporate,4.0,2023-11
+TXN01258,2024-07-09,Monitor,Electronics,298.58,4,0,1194.32,North,Bank Transfer,Individual,5.0,2024-07
+TXN01811,2024-05-03,Notebook,Stationery,16.62,5,10,74.79,North,Credit Card,Enterprise,3.0,2024-05
+TXN01701,2024-05-10,Monitor,Electronics,461.8,4,0,1847.2,North,Debit Card,Startup,5.0,2024-05
+TXN00318,2024-02-23,Headphones,Electronics,57.63,4,0,230.52,South,PayPal,Corporate,4.0,2024-02
+TXN00649,2023-05-12,Laptop,Electronics,1246.5,1,0,1246.5,Central,Cash,Enterprise,4.0,2023-05
+TXN01435,2023-01-17,Monitor,Electronics,867.2,1,0,867.2,South,Credit Card,Corporate,2.0,2023-01
+TXN01480,2024-03-12,Monitor,Electronics,342.01,4,0,1368.04,West,Bank Transfer,Startup,2.0,2024-03
+TXN00710,2023-07-30,Mouse,Accessories,63.66,3,5,181.43,South,Cash,Individual,3.0,2023-07
+TXN01383,2023-07-10,Monitor,Electronics,490.71,1,0,490.71,East,Bank Transfer,Individual,1.0,2023-07
+TXN01283,2023-01-06,Monitor,Electronics,524.14,2,0,1048.28,North,Cash,Startup,3.0,2023-01
+TXN01769,2023-04-20,Backpack,Accessories,184.45,5,0,922.25,Central,PayPal,Enterprise,5.0,2023-04
+TXN00973,2024-11-10,Laptop,Electronics,1585.72,3,10,4281.44,South,Bank Transfer,Individual,4.0,2024-11
+TXN00628,2024-08-04,Keyboard,Accessories,112.15,2,5,213.08,North,Credit Card,Enterprise,4.0,2024-08
+TXN00633,2024-07-22,Keyboard,Accessories,57.93,3,5,165.1,North,PayPal,Corporate,3.0,2024-07
+TXN01307,2023-03-18,Smartphone,Electronics,1021.57,2,10,1838.83,West,Credit Card,Corporate,5.0,2023-03
+TXN01401,2023-10-13,Notebook,Stationery,11.35,5,10,51.08,East,Debit Card,Corporate,4.0,2023-10
+TXN01409,2024-01-16,Office Chair,Furniture,231.37,2,0,462.74,East,Debit Card,Corporate,2.0,2024-01
+TXN01249,2023-09-10,Office Chair,Furniture,506.7,3,0,1520.1,South,Credit Card,Startup,5.0,2023-09
+TXN01993,2023-12-12,Monitor,Electronics,637.82,2,20,1020.51,West,Credit Card,Startup,4.0,2023-12
+TXN01255,2023-04-28,Laptop,Electronics,1394.38,2,0,2788.76,North,Bank Transfer,Startup,5.0,2023-04
+TXN01497,2024-12-04,Backpack,Accessories,68.37,5,0,341.85,South,PayPal,Enterprise,1.0,2024-12
+TXN01372,2024-06-05,Headphones,Electronics,283.06,1,15,240.6,South,Credit Card,Startup,5.0,2024-06
+TXN01530,2024-12-13,Smartphone,Electronics,435.98,5,0,2179.9,Central,Debit Card,Startup,4.0,2024-12
+TXN01664,2024-02-01,Monitor,Electronics,436.49,2,0,872.98,South,PayPal,Enterprise,3.0,2024-02
+TXN01355,2024-06-04,Mouse,Accessories,25.26,2,15,42.94,North,PayPal,Startup,2.0,2024-06
+TXN01966,2024-08-28,Desk,Furniture,471.26,5,0,2356.3,North,Bank Transfer,Startup,4.0,2024-08
+TXN01941,2024-08-29,Headphones,Electronics,155.95,5,5,740.76,North,Cash,Startup,4.0,2024-08
+TXN01644,2024-02-06,Backpack,Accessories,108.93,2,0,217.86,North,Cash,Enterprise,5.0,2024-02
+TXN01888,2023-09-05,Smartphone,Electronics,710.86,3,0,2132.58,South,Bank Transfer,Corporate,4.0,2023-09
+TXN00796,2024-05-12,Keyboard,Accessories,193.73,4,0,774.92,North,Debit Card,Individual,4.0,2024-05
+TXN00646,2023-08-17,Mouse,Accessories,39.13,1,0,39.13,West,Credit Card,Enterprise,3.0,2023-08
+TXN01013,2023-03-18,Smartphone,Electronics,1052.2,5,0,5261.0,North,PayPal,Corporate,4.0,2023-03
+TXN01878,2023-09-08,Keyboard,Accessories,148.79,4,0,595.16,East,PayPal,Enterprise,3.0,2023-09
+TXN00557,2023-11-20,Office Chair,Furniture,478.6,3,15,1220.43,North,Debit Card,Corporate,4.0,2023-11
+TXN00682,2023-08-25,Desk,Furniture,797.31,5,0,3986.55,South,Bank Transfer,Startup,4.0,2023-08
+TXN00578,2023-11-23,Headphones,Electronics,313.41,4,0,1253.64,North,Debit Card,Individual,5.0,2023-11
+TXN01820,2023-02-18,Laptop,Electronics,1420.34,1,20,1136.27,South,PayPal,Individual,5.0,2023-02
+TXN01110,2023-10-31,Office Chair,Furniture,415.38,3,0,1246.14,Central,Bank Transfer,Corporate,5.0,2023-10
+TXN01267,2024-12-27,Monitor,Electronics,730.34,1,10,657.31,South,Debit Card,Individual,4.0,2024-12
+TXN01723,2023-05-11,Headphones,Electronics,306.89,5,0,1534.45,North,Cash,Corporate,4.0,2023-05
+TXN01184,2024-05-16,Monitor,Electronics,803.46,2,0,1606.92,South,PayPal,Individual,4.0,2024-05
+TXN00525,2024-09-21,Desk,Furniture,252.55,2,0,505.1,South,Cash,Individual,2.0,2024-09
+TXN01060,2023-11-04,Headphones,Electronics,150.94,2,0,301.88,West,Debit Card,Individual,1.0,2023-11
+TXN00541,2024-01-21,Laptop,Electronics,1607.42,4,0,6429.68,West,Debit Card,Individual,5.0,2024-01
+TXN01195,2023-09-21,Monitor,Electronics,728.22,2,20,1165.15,South,Debit Card,Corporate,4.0,2023-09
+TXN01679,2024-08-29,Laptop,Electronics,1454.29,4,0,5817.16,West,Credit Card,Enterprise,5.0,2024-08
+TXN00749,2024-02-08,Smartphone,Electronics,1051.01,4,5,3993.84,Central,Cash,Individual,1.0,2024-02
+TXN01891,2023-03-07,Desk,Furniture,513.91,2,10,925.04,West,PayPal,Enterprise,4.0,2023-03
+TXN01431,2024-02-09,Backpack,Accessories,57.03,3,0,171.09,North,Bank Transfer,Individual,4.0,2024-02
+TXN00485,2023-09-30,Notebook,Stationery,14.8,3,5,42.18,North,Debit Card,Individual,5.0,2023-09
+TXN01758,2024-07-21,Backpack,Accessories,148.2,5,20,592.8,East,Debit Card,Startup,4.0,2024-07
+TXN00096,2024-12-25,Backpack,Accessories,160.08,4,0,640.32,North,PayPal,Startup,4.0,2024-12
+TXN01021,2023-03-27,Keyboard,Accessories,102.18,3,0,306.54,North,Credit Card,Corporate,4.0,2023-03
+TXN00564,2024-05-30,Laptop,Electronics,952.19,5,5,4522.9,West,PayPal,Corporate,2.0,2024-05
+TXN01265,2023-07-05,Notebook,Stationery,22.95,1,0,22.95,Central,PayPal,Individual,1.0,2023-07
+TXN00743,2024-03-23,Monitor,Electronics,316.22,3,5,901.23,West,Debit Card,Corporate,4.0,2024-03
+TXN00864,2023-06-02,Backpack,Accessories,194.77,4,0,779.08,West,Credit Card,Startup,3.0,2023-06
+TXN01599,2024-10-06,Notebook,Stationery,25.11,2,15,42.69,East,Cash,Corporate,5.0,2024-10
+TXN01715,2024-09-13,Office Chair,Furniture,589.73,2,10,1061.51,East,PayPal,Corporate,4.0,2024-09
+TXN01485,2023-09-02,Monitor,Electronics,637.19,3,10,1720.41,East,Bank Transfer,Individual,4.0,2023-09
+TXN00892,2024-09-08,Monitor,Electronics,586.91,4,0,2347.64,North,Debit Card,Startup,4.0,2024-09
+TXN01578,2023-07-17,Backpack,Accessories,139.62,3,0,418.86,North,Cash,Individual,5.0,2023-07
+TXN01039,2023-07-21,Mouse,Accessories,101.54,4,20,324.93,South,Cash,Startup,3.0,2023-07
+TXN00207,2024-03-14,Notebook,Stationery,25.24,3,5,71.93,East,Credit Card,Startup,5.0,2024-03
+TXN00393,2023-05-08,Laptop,Electronics,1256.62,4,10,4523.83,Central,Credit Card,Startup,5.0,2023-05
+TXN00795,2023-01-16,Mouse,Accessories,117.95,2,5,224.1,North,Cash,Individual,5.0,2023-01
+TXN00871,2024-04-21,Laptop,Electronics,1698.8,4,0,6795.2,Central,Credit Card,Individual,4.0,2024-04
+TXN00398,2023-05-04,Headphones,Electronics,238.4,4,5,905.92,North,Cash,Corporate,4.0,2023-05
+TXN00767,2023-09-10,Smartphone,Electronics,544.55,3,0,1633.65,North,Debit Card,Corporate,4.0,2023-09
+TXN01880,2024-09-02,Laptop,Electronics,1973.57,1,0,1973.57,North,Debit Card,Individual,5.0,2024-09
+TXN01242,2024-08-25,Laptop,Electronics,954.84,3,5,2721.29,West,Credit Card,Startup,3.0,2024-08
+TXN01029,2023-02-02,Desk,Furniture,548.85,3,0,1646.55,South,PayPal,Startup,5.0,2023-02
+TXN01793,2023-07-31,Desk,Furniture,799.89,5,10,3599.5,Central,Bank Transfer,Enterprise,3.0,2023-07
+TXN00643,2024-12-16,Laptop,Electronics,1036.03,2,5,1968.46,East,Credit Card,Enterprise,4.0,2024-12
+TXN01932,2023-11-02,Mouse,Accessories,55.02,4,0,220.08,Central,Debit Card,Enterprise,1.0,2023-11
+TXN00613,2024-04-08,Monitor,Electronics,449.64,3,20,1079.14,West,Cash,Startup,3.0,2024-04
+TXN01763,2024-08-10,Smartphone,Electronics,303.82,1,15,303.82,North,Debit Card,Individual,4.0,2024-08
+TXN00961,2023-10-15,Office Chair,Furniture,368.19,2,0,736.38,East,Debit Card,Enterprise,2.0,2023-10
+TXN01571,2024-02-01,Keyboard,Accessories,84.08,4,0,336.32,Central,Credit Card,Corporate,1.0,2024-02
+TXN00726,2024-05-31,Monitor,Electronics,619.37,5,0,3096.85,East,Bank Transfer,Enterprise,4.0,2024-05
+TXN00684,2023-11-08,Backpack,Accessories,126.14,4,0,504.56,North,Debit Card,Corporate,3.0,2023-11
+TXN00805,2023-04-11,Monitor,Electronics,522.31,1,10,470.08,North,Debit Card,Startup,2.0,2023-04
+TXN01752,2024-09-15,Office Chair,Furniture,213.44,4,0,853.76,North,Credit Card,Corporate,2.0,2024-09
+TXN01598,2023-07-04,Desk,Furniture,547.22,2,5,1039.72,South,Credit Card,Startup,5.0,2023-07
+TXN00407,2024-02-17,Backpack,Accessories,124.12,3,5,353.74,North,PayPal,Corporate,4.0,2024-02
+TXN00503,2023-07-10,Keyboard,Accessories,67.1,5,5,318.72,West,Debit Card,Individual,5.0,2023-07
+TXN01072,2023-06-16,Notebook,Stationery,21.58,4,0,86.32,South,PayPal,Enterprise,4.0,2023-06
+TXN01057,2023-08-09,Smartphone,Electronics,394.03,2,5,748.66,Central,Credit Card,Startup,4.0,2023-08
+TXN00930,2023-11-16,Office Chair,Furniture,269.71,5,0,1348.55,North,Debit Card,Corporate,2.0,2023-11
+TXN00780,2024-12-25,Monitor,Electronics,834.13,2,15,1418.02,Unknown,Bank Transfer,Startup,3.0,2024-12
+TXN01864,2023-02-12,Headphones,Electronics,70.87,1,0,70.87,North,Bank Transfer,Enterprise,3.0,2023-02
+TXN00201,2024-07-17,Smartphone,Electronics,449.7,4,0,1798.8,West,Bank Transfer,Startup,4.0,2024-07
+TXN00135,2024-11-18,Keyboard,Accessories,35.77,5,10,160.97,North,PayPal,Startup,5.0,2024-11
+TXN01052,2024-02-27,Notebook,Stationery,24.08,4,0,96.32,East,Bank Transfer,Enterprise,2.0,2024-02
+TXN00041,2024-08-26,Notebook,Stationery,13.07,1,0,13.07,West,Debit Card,Individual,3.0,2024-08
+TXN01018,2024-07-19,Mouse,Accessories,26.39,4,0,105.56,West,PayPal,Startup,5.0,2024-07
+TXN00231,2024-02-27,Desk,Furniture,211.52,5,10,951.84,East,Bank Transfer,Individual,5.0,2024-02
+TXN01514,2024-08-05,Backpack,Accessories,109.29,5,0,546.45,West,Bank Transfer,Enterprise,3.0,2024-08
+TXN01797,2023-03-19,Smartphone,Electronics,603.8,3,0,1811.4,Central,Bank Transfer,Corporate,3.0,2023-03
+TXN00379,2024-11-30,Headphones,Electronics,147.9,3,0,443.7,South,Debit Card,Enterprise,4.0,2024-11
+TXN00289,2024-09-20,Monitor,Electronics,484.25,5,0,2421.25,South,Cash,Corporate,5.0,2024-09
+TXN00419,2023-08-02,Monitor,Electronics,760.31,2,0,1520.62,East,Bank Transfer,Startup,4.0,2023-08
+TXN01699,2023-07-26,Smartphone,Electronics,682.95,1,15,580.51,South,Bank Transfer,Individual,3.0,2023-07
+TXN00392,2023-03-17,Office Chair,Furniture,220.8,1,10,198.72,West,Bank Transfer,Startup,4.0,2023-03
+TXN00593,2024-06-20,Monitor,Electronics,522.41,1,5,496.29,South,Credit Card,Corporate,5.0,2024-06
+TXN01523,2024-03-09,Notebook,Stationery,6.83,4,0,27.32,East,Bank Transfer,Startup,3.0,2024-03
+TXN01163,2023-06-09,Headphones,Electronics,250.45,5,20,1001.8,North,Cash,Enterprise,4.0,2023-06
+TXN01087,2023-09-08,Laptop,Electronics,1001.91,1,0,1001.91,West,PayPal,Corporate,1.0,2023-09
+TXN01496,2023-01-12,Notebook,Stationery,26.27,4,0,105.08,West,PayPal,Individual,3.0,2023-01
+TXN00648,2023-10-01,Smartphone,Electronics,1096.03,2,0,2192.06,West,Cash,Individual,4.0,2023-10
+TXN01153,2024-01-03,Keyboard,Accessories,119.32,5,0,596.6,East,Credit Card,Enterprise,5.0,2024-01
+TXN01368,2023-07-12,Notebook,Stationery,5.2,2,0,10.4,West,PayPal,Corporate,5.0,2023-07
+TXN00521,2024-12-21,Desk,Furniture,700.97,5,0,3504.85,North,Debit Card,Enterprise,2.0,2024-12
+TXN01863,2023-01-19,Headphones,Electronics,299.72,2,15,509.52,West,Cash,Enterprise,4.0,2023-01
+TXN01881,2024-03-08,Headphones,Electronics,117.53,1,0,117.53,West,Bank Transfer,Startup,4.0,2024-03
+TXN00065,2023-05-02,Mouse,Accessories,71.29,4,0,285.16,North,Debit Card,Enterprise,4.0,2023-05
+TXN01837,2024-06-07,Laptop,Electronics,1740.16,2,0,3480.32,South,Debit Card,Enterprise,4.0,2024-06
+TXN00015,2024-06-08,Keyboard,Accessories,99.77,3,0,299.31,North,PayPal,Startup,3.0,2024-06
+TXN01181,2023-02-09,Office Chair,Furniture,477.2,2,5,906.68,North,Credit Card,Corporate,5.0,2023-02
+TXN01065,2023-11-20,Mouse,Accessories,50.48,1,0,50.48,South,PayPal,Individual,4.0,2023-11
+TXN00493,2023-07-14,Mouse,Accessories,95.13,3,0,285.39,West,Credit Card,Startup,4.0,2023-07
+TXN00380,2024-09-19,Office Chair,Furniture,520.42,4,0,2081.68,North,Credit Card,Enterprise,4.0,2024-09
+TXN00188,2023-08-05,Smartphone,Electronics,1168.61,3,0,3505.83,East,Credit Card,Startup,4.0,2023-08
+TXN00217,2024-02-10,Laptop,Electronics,1810.44,5,0,9052.2,North,Credit Card,Individual,5.0,2024-02
+TXN00792,2024-06-20,Desk,Furniture,475.74,5,0,2378.7,East,Debit Card,Corporate,4.0,2024-06
+TXN01077,2024-07-13,Headphones,Electronics,251.66,4,0,1006.64,North,PayPal,Enterprise,4.0,2024-07
+TXN00879,2024-08-28,Smartphone,Electronics,515.43,2,0,1030.86,North,PayPal,Individual,4.0,2024-08
+TXN00338,2024-01-15,Monitor,Electronics,444.72,1,0,444.72,West,Cash,Corporate,2.0,2024-01
+TXN01773,2023-01-17,Headphones,Electronics,270.16,5,5,1283.26,North,Cash,Enterprise,2.0,2023-01
+TXN00720,2024-12-23,Smartphone,Electronics,413.08,1,0,413.08,South,Debit Card,Individual,3.0,2024-12
+TXN01749,2024-02-22,Mouse,Accessories,134.28,3,10,362.56,East,PayPal,Enterprise,4.0,2024-02
+TXN00296,2024-05-28,Backpack,Accessories,47.7,4,15,162.18,West,Credit Card,Enterprise,3.0,2024-05
+TXN01726,2023-03-18,Notebook,Stationery,25.89,3,10,69.9,North,Bank Transfer,Corporate,2.0,2023-03
+TXN01017,2023-03-18,Headphones,Electronics,303.44,4,0,1213.76,Central,Bank Transfer,Corporate,4.0,2023-03
+TXN01276,2024-05-11,Notebook,Stationery,26.76,3,0,80.28,West,Bank Transfer,Enterprise,3.0,2024-05
+TXN01751,2023-06-24,Mouse,Accessories,108.14,1,10,97.33,South,Cash,Enterprise,3.0,2023-06
+TXN01486,2023-10-02,Backpack,Accessories,103.97,3,10,280.72,East,Cash,Startup,3.0,2023-10
+TXN00456,2023-03-16,Smartphone,Electronics,626.19,2,0,1252.38,North,Bank Transfer,Startup,4.0,2023-03
+TXN00816,2023-01-12,Monitor,Electronics,592.55,3,15,1511.0,North,Debit Card,Startup,4.0,2023-01
+TXN01887,2023-11-04,Headphones,Electronics,262.95,4,0,1051.8,West,Cash,Startup,5.0,2023-11
+TXN00270,2024-08-20,Desk,Furniture,335.19,2,0,670.38,East,Credit Card,Enterprise,3.0,2024-08
+TXN00996,2023-01-20,Backpack,Accessories,86.79,1,0,86.79,Central,Debit Card,Individual,2.0,2023-01
+TXN00202,2023-01-02,Mouse,Accessories,60.47,4,10,217.69,South,Cash,Corporate,3.0,2023-01
+TXN00162,2024-07-23,Headphones,Electronics,132.26,3,0,396.78,Central,Debit Card,Individual,3.0,2024-07
+TXN01580,2024-10-06,Desk,Furniture,447.07,4,15,1520.04,West,Debit Card,Individual,4.0,2024-10
+TXN00730,2023-06-15,Monitor,Electronics,774.4,5,0,3872.0,North,Bank Transfer,Corporate,4.0,2023-06
+TXN00703,2023-11-19,Headphones,Electronics,296.18,3,0,888.54,West,Bank Transfer,Corporate,2.0,2023-11
+TXN01501,2024-01-29,Smartphone,Electronics,479.42,2,0,958.84,East,PayPal,Corporate,3.0,2024-01
+TXN01846,2024-03-28,Laptop,Electronics,1356.17,4,0,5424.68,West,Debit Card,Corporate,3.0,2024-03
+TXN01796,2024-10-30,Notebook,Stationery,11.62,5,5,55.19,North,PayPal,Enterprise,4.0,2024-10
+TXN01130,2023-12-29,Keyboard,Accessories,95.98,4,20,307.14,East,Bank Transfer,Startup,4.0,2023-12
+TXN00566,2023-12-21,Backpack,Accessories,103.41,4,15,351.59,North,PayPal,Startup,4.0,2023-12
+TXN01414,2023-02-05,Keyboard,Accessories,153.66,1,0,153.66,South,Credit Card,Individual,4.0,2023-02
+TXN01022,2024-06-23,Monitor,Electronics,616.51,2,0,1233.02,East,Cash,Individual,3.0,2024-06
+TXN01026,2024-03-13,Keyboard,Accessories,172.87,5,10,777.92,West,Credit Card,Individual,4.0,2024-03
+TXN01412,2023-12-08,Keyboard,Accessories,191.62,1,0,191.62,Central,Debit Card,Corporate,3.0,2023-12
+TXN01896,2023-02-20,Backpack,Accessories,137.68,5,5,653.98,East,Bank Transfer,Corporate,5.0,2023-02
+TXN01586,2023-02-08,Keyboard,Accessories,65.16,2,5,123.8,West,PayPal,Corporate,5.0,2023-02
+TXN01105,2024-02-25,Mouse,Accessories,37.24,4,0,148.96,East,Debit Card,Enterprise,4.0,2024-02
+TXN00206,2023-10-20,Notebook,Stationery,27.5,1,0,27.5,South,PayPal,Enterprise,4.0,2023-10
+TXN00035,2024-10-24,Monitor,Electronics,702.42,2,5,1334.6,North,PayPal,Corporate,5.0,2024-10
+TXN00776,2023-03-13,Desk,Furniture,639.33,2,0,1278.66,North,Cash,Individual,5.0,2023-03
+TXN00509,2024-11-05,Headphones,Electronics,73.04,3,0,219.12,South,Cash,Enterprise,4.0,2024-11
+TXN01452,2024-01-06,Mouse,Accessories,130.4,4,5,495.52,West,PayPal,Startup,4.0,2024-01
+TXN01479,2023-01-31,Desk,Furniture,563.87,2,15,958.58,South,Credit Card,Individual,1.0,2023-01
+TXN01391,2023-01-28,Backpack,Accessories,127.07,4,0,508.28,East,PayPal,Corporate,2.0,2023-01
+TXN00092,2023-09-16,Monitor,Electronics,627.8,3,15,1600.89,North,Debit Card,Enterprise,3.0,2023-09
+TXN01364,2024-08-12,Laptop,Electronics,1028.97,5,0,5144.85,South,Debit Card,Enterprise,3.0,2024-08
+TXN00898,2024-10-12,Keyboard,Accessories,83.18,3,0,249.54,East,PayPal,Individual,4.0,2024-10
+TXN00565,2023-10-18,Laptop,Electronics,850.36,2,15,1445.61,North,PayPal,Enterprise,4.0,2023-10
+TXN01370,2024-04-06,Laptop,Electronics,802.57,2,10,1444.63,South,Cash,Individual,4.0,2024-04
+TXN00777,2024-09-10,Notebook,Stationery,19.94,5,0,99.7,South,PayPal,Corporate,3.0,2024-09
+TXN00242,2023-10-15,Smartphone,Electronics,841.69,5,15,3577.18,East,Debit Card,Startup,2.0,2023-10
+TXN00014,2023-08-29,Notebook,Stationery,15.98,3,0,47.94,South,Cash,Corporate,3.0,2023-08
+TXN00316,2023-12-26,Headphones,Electronics,307.27,1,0,307.27,Central,Debit Card,Startup,4.0,2023-12
+TXN00601,2023-11-26,Smartphone,Electronics,1034.47,4,20,3310.3,North,Credit Card,Enterprise,4.0,2023-11
+TXN00388,2024-04-24,Smartphone,Electronics,1002.57,1,0,1002.57,North,Credit Card,Individual,4.0,2024-04
+TXN01298,2023-06-21,Headphones,Electronics,344.0,3,0,1032.0,South,Credit Card,Enterprise,1.0,2023-06
+TXN00167,2024-08-29,Mouse,Accessories,80.4,2,0,160.8,West,PayPal,Individual,5.0,2024-08
+TXN00841,2023-12-23,Mouse,Accessories,85.48,4,15,290.63,South,PayPal,Individual,2.0,2023-12
+TXN00021,2023-05-10,Desk,Furniture,407.04,1,0,407.04,East,Debit Card,Enterprise,4.0,2023-05
+TXN00647,2024-01-03,Backpack,Accessories,94.85,1,0,94.85,East,Debit Card,Startup,3.0,2024-01
+TXN01843,2024-04-27,Laptop,Electronics,1899.53,5,0,9497.65,Central,Bank Transfer,Startup,5.0,2024-04
+TXN01509,2023-12-08,Smartphone,Electronics,599.05,5,0,2995.25,East,Debit Card,Startup,4.0,2023-12
+TXN01155,2023-03-12,Mouse,Accessories,124.83,4,0,499.32,East,Debit Card,Individual,3.0,2023-03
+TXN01529,2023-09-28,Mouse,Accessories,81.46,5,0,407.3,South,Cash,Enterprise,5.0,2023-09
+TXN00832,2024-10-12,Keyboard,Accessories,149.37,2,0,298.74,West,PayPal,Startup,5.0,2024-10
+TXN01268,2024-09-21,Mouse,Accessories,44.36,4,0,177.44,North,Bank Transfer,Individual,5.0,2024-09
+TXN01591,2023-02-09,Office Chair,Furniture,235.21,2,0,470.42,North,Credit Card,Startup,4.0,2023-02
+TXN01900,2023-11-19,Office Chair,Furniture,215.51,2,0,431.02,Central,PayPal,Corporate,3.0,2023-11
+TXN00563,2024-01-26,Smartphone,Electronics,477.88,2,0,955.76,East,Debit Card,Corporate,5.0,2024-01
+TXN01992,2023-01-17,Laptop,Electronics,1907.05,3,5,5435.09,West,Debit Card,Corporate,3.0,2023-01
+TXN00687,2023-10-08,Headphones,Electronics,111.05,4,15,377.57,South,Debit Card,Enterprise,4.0,2023-10
+TXN00958,2024-05-30,Keyboard,Accessories,176.67,2,0,353.34,Central,Credit Card,Startup,3.0,2024-05
+TXN00190,2024-10-30,Mouse,Accessories,146.09,1,10,131.48,South,Bank Transfer,Startup,3.0,2024-10
+TXN01807,2023-10-28,Headphones,Electronics,125.06,1,10,112.55,South,PayPal,Startup,4.0,2023-10
+TXN00976,2024-06-06,Smartphone,Electronics,592.88,1,15,503.95,South,Bank Transfer,Enterprise,5.0,2024-06
+TXN00700,2024-07-08,Smartphone,Electronics,309.46,1,5,293.99,East,Debit Card,Enterprise,4.0,2024-07
+TXN01706,2023-08-29,Office Chair,Furniture,164.09,5,0,820.45,South,Debit Card,Startup,4.0,2023-08
+TXN00511,2024-01-23,Office Chair,Furniture,400.35,4,15,1361.19,South,Cash,Enterprise,5.0,2024-01
+TXN01083,2023-08-04,Notebook,Stationery,14.44,5,0,72.2,East,PayPal,Startup,5.0,2023-08
+TXN00475,2024-02-26,Backpack,Accessories,158.66,3,0,475.98,Central,Bank Transfer,Corporate,5.0,2024-02
+TXN01585,2024-06-10,Monitor,Electronics,451.02,1,0,451.02,North,PayPal,Enterprise,5.0,2024-06
+TXN00857,2023-05-18,Keyboard,Accessories,57.82,1,5,54.93,West,Credit Card,Individual,4.0,2023-05
+TXN00748,2024-09-28,Notebook,Stationery,9.6,5,10,43.2,South,Bank Transfer,Corporate,2.0,2024-09
+TXN00253,2024-04-13,Office Chair,Furniture,474.93,3,0,1424.79,North,Bank Transfer,Corporate,4.0,2024-04
+TXN00022,2024-02-05,Keyboard,Accessories,144.26,3,0,432.78,West,Bank Transfer,Enterprise,4.0,2024-02
+TXN01338,2024-02-29,Backpack,Accessories,149.09,2,0,298.18,South,Credit Card,Enterprise,4.0,2024-02
+TXN00460,2023-05-30,Monitor,Electronics,667.68,2,10,1201.82,West,Bank Transfer,Enterprise,3.0,2023-05
+TXN01185,2023-05-17,Desk,Furniture,534.09,5,10,2403.41,West,PayPal,Startup,3.0,2023-05
+TXN00277,2024-12-09,Keyboard,Accessories,169.76,2,0,339.52,Central,Cash,Corporate,2.0,2024-12
+TXN00956,2024-10-29,Keyboard,Accessories,37.83,1,15,32.16,East,PayPal,Corporate,5.0,2024-10
+TXN01216,2023-11-14,Notebook,Stationery,25.24,3,10,68.15,Central,PayPal,Corporate,4.0,2023-11
+TXN00386,2024-02-15,Keyboard,Accessories,133.64,5,10,601.38,South,Credit Card,Corporate,4.0,2024-02
+TXN00806,2024-09-25,Notebook,Stationery,25.46,2,15,43.28,South,PayPal,Startup,3.0,2024-09
+TXN01438,2024-06-14,Monitor,Electronics,640.13,3,5,1824.37,East,Credit Card,Corporate,5.0,2024-06
+TXN01516,2024-11-27,Office Chair,Furniture,367.14,5,5,1743.91,South,PayPal,Corporate,4.0,2024-11
+TXN00344,2023-06-03,Laptop,Electronics,1181.1,1,0,1181.1,West,Credit Card,Startup,4.0,2023-06
+TXN00770,2023-06-11,Notebook,Stationery,23.3,3,0,69.9,Unknown,PayPal,Individual,2.0,2023-06
+TXN01333,2023-03-15,Backpack,Accessories,196.57,4,0,786.28,South,Credit Card,Individual,3.0,2023-03
+TXN01686,2023-04-07,Laptop,Electronics,1130.61,3,5,3222.24,North,Bank Transfer,Corporate,2.0,2023-04
+TXN00131,2023-08-17,Notebook,Stationery,16.49,3,10,44.52,North,PayPal,Corporate,1.0,2023-08
+TXN01688,2023-10-20,Smartphone,Electronics,390.53,4,0,1562.12,Central,Bank Transfer,Corporate,4.0,2023-10
+TXN00872,2023-07-21,Office Chair,Furniture,245.52,1,0,245.52,South,Cash,Corporate,5.0,2023-07
+TXN01124,2024-02-12,Monitor,Electronics,250.27,5,0,1251.35,South,Bank Transfer,Startup,4.0,2024-02
+TXN01397,2024-01-28,Notebook,Stationery,28.52,5,20,114.08,East,Bank Transfer,Enterprise,4.0,2024-01
+TXN00088,2024-05-17,Laptop,Electronics,809.04,5,0,4045.2,East,PayPal,Corporate,3.0,2024-05
+TXN01483,2023-09-24,Keyboard,Accessories,171.89,5,0,859.45,East,PayPal,Corporate,3.0,2023-09
+TXN00331,2023-03-23,Headphones,Electronics,223.18,3,15,569.11,South,Cash,Startup,4.0,2023-03
+TXN01239,2023-04-20,Mouse,Accessories,79.885,4,5,319.54,Central,Bank Transfer,Enterprise,1.0,2023-04
+TXN00467,2023-04-11,Laptop,Electronics,1224.44,5,0,6122.2,North,Cash,Startup,5.0,2023-04
+TXN00122,2023-07-28,Mouse,Accessories,148.1,1,0,148.1,South,Debit Card,Individual,4.0,2023-07
+TXN01639,2023-10-24,Office Chair,Furniture,560.96,1,5,532.91,North,Credit Card,Startup,4.0,2023-10
+TXN01045,2024-08-26,Headphones,Electronics,142.87,1,10,128.58,East,PayPal,Enterprise,4.0,2024-08
+TXN01725,2024-12-06,Mouse,Accessories,26.77,5,0,133.85,West,Bank Transfer,Startup,4.0,2024-12
+TXN01096,2024-07-15,Notebook,Stationery,6.86,5,20,27.44,West,Bank Transfer,Individual,5.0,2024-07
+TXN01131,2024-09-08,Notebook,Stationery,19.84,3,0,59.52,North,Credit Card,Individual,4.0,2024-09
+TXN01295,2023-07-21,Mouse,Accessories,37.01,1,5,35.16,South,Debit Card,Individual,4.0,2023-07
+TXN00861,2024-12-06,Backpack,Accessories,64.91,4,0,259.64,Central,Bank Transfer,Individual,4.0,2024-12
+TXN01460,2024-11-06,Laptop,Electronics,1839.01,2,0,3678.02,South,Bank Transfer,Corporate,5.0,2024-11
+TXN01127,2024-05-02,Backpack,Accessories,124.78,5,5,592.7,Central,Bank Transfer,Startup,4.0,2024-05
